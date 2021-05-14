@@ -1,8 +1,6 @@
 ## 1 
 
-### Writing Within the Regulated Environment
-
-### 法规环境下的写作
+### Writing Within the Regulated Environment 法规环境下的写作
 
 As far as most regulatory bodies are concerned, if you didn’t write it down, it didn’t happen. Working in the pharmaceutical, medical device, or biologic milieu is tantamount to journal keeping. In fact, “Write it down” sums up what it takes to get the job done properly. Successful operations require a working union of the day-to-day activities that keep the wheels of the business turning and the documentation that affirms those activities.
 
@@ -16,9 +14,7 @@ The sheer volume of documentation that takes place makes writing well a critical
 
 大量的文档使写作成为一项至关重要的技能，这对成功至关重要。 确实，写作对许多人来说是令人生畏的。 也许是因为对写作进行了如此严格的审查，所以人们不愿将自己的文字写在纸上。 如果您的工作职责中包括写作，那么您可以采取一些方法来减轻任务的艰巨性。 首先是要了解为什么要写作以及该写作如何与其他文档一起工作。 接下来是获得传递语法正确且一致的清晰完整消息所需的工具。 本书所涉及的就是获得必要的工具。
 
-### Writing for Compliance with Binding Regulations
-
-### 遵守约束性法规的写作
+### Writing for Compliance with Binding Regulations 遵守约束性法规的写作
 
 Why does writing play such an integral part in companies that develop, manufacture, and market therapeutic products? The answer lies largely with the regulatory forces that drive the healthcare industry in the United States and abroad.
 
@@ -60,7 +56,7 @@ Managing the regulatory maze is not easy. Yet keeping abreast of the regulations
 
 管理法规迷宫并不容易。 但是，与法规保持一致并保持合规性具有良好的商业意义。可通过订阅获得的行业月刊，详细列出了行业和政府裁决中的问题。专业培训组织提供的行业论坛，会议和课程提供了保持最新状态的机会。 仅仅遵守法规是不够的。公司需要了解合规性发展的方向，并与时俱进。 公司需要做的最后一件事是发现不规范做法的例行调查。 结果将是差异性观察，并指出了需要解决的问题。 最好将所有内容都放在适当的位置，并附上有据可查的证据，而不是为了确定公司被引用的内容而争先恐后地进行，这会降低生产率并降低商业意义。 有一件事很清楚：在这个受到严格监管的环境中，文档对于开展业务的各个方面仍然至关重要。
 
-`Regulatory Evolution in the United States美国的法规演变 `
+#### `Regulatory Evolution in the United States美国的法规演变 `
 
 `Laws governing therapeutic product development and marketing have evolved over time with specific laws marking milestones over a period of 100-plus years. The first US federal regulation dates back to 1884 when American soldiers died after ingesting adulterated quinine. As a result of these deaths, the government passed the Drug Importation Act, which required customs inspections on drugs coming from overseas. Then in 1901, The Biologic Control Act became law after 13 children died from a contaminated antitoxin for diphtheria. This act gave the government regulatory power over antitoxin and vaccine development. Shortly after, in 1906, the government passed the Food and Drugs Act to authorize the government to monitor food purity and safety of medicines. `
 
