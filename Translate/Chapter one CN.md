@@ -56,6 +56,8 @@ Managing the regulatory maze is not easy. Yet keeping abreast of the regulations
 
 管理法规迷宫并不容易。 但是，与法规保持一致并保持合规性具有良好的商业意义。可通过订阅获得的行业月刊，详细列出了行业和政府裁决中的问题。专业培训组织提供的行业论坛，会议和课程提供了保持最新状态的机会。 仅仅遵守法规是不够的。公司需要了解合规性发展的方向，并与时俱进。 公司需要做的最后一件事是发现不规范做法的例行调查。 结果将是差异性观察，并指出了需要解决的问题。 最好将所有内容都放在适当的位置，并附上有据可查的证据，而不是为了确定公司被引用的内容而争先恐后地进行，这会降低生产率并降低商业意义。 有一件事很清楚：在这个受到严格监管的环境中，文档对于开展业务的各个方面仍然至关重要。
 
+***
+
 #### `Regulatory Evolution in the United States美国的法规演变 `
 
 `Laws governing therapeutic product development and marketing have evolved over time with specific laws marking milestones over a period of 100-plus years. The first US federal regulation dates back to 1884 when American soldiers died after ingesting adulterated quinine. As a result of these deaths, the government passed the Drug Importation Act, which required customs inspections on drugs coming from overseas. Then in 1901, The Biologic Control Act became law after 13 children died from a contaminated antitoxin for diphtheria. This act gave the government regulatory power over antitoxin and vaccine development. Shortly after, in 1906, the government passed the Food and Drugs Act to authorize the government to monitor food purity and safety of medicines. `
@@ -101,3 +103,6 @@ Managing the regulatory maze is not easy. Yet keeping abreast of the regulations
 `Remember, too, that as new regulations are enacted, they do not supersede existing regulations unless the government has rescinded them. New regulations in essence become adjuncts to the ones already in place. Companies must adhere to predicate rules and remain vigilant about industry best practices for compliance.`
 
 `还要记住，新法规颁布后，除非政府取消了旧法规，否则它们不会取代现有法规。从本质上讲，新法规成为现有法规的补充。 公司必须遵守既有规则，并对行业最佳实践时刻保持关注。`
+
+***
+
