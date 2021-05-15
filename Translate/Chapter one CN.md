@@ -1,3 +1,4 @@
+
 ## 1 
 
 ### Writing Within the Regulated Environment 法规环境下的写作
@@ -106,3 +107,26 @@ Managing the regulatory maze is not easy. Yet keeping abreast of the regulations
 
 ***
 
+### Document, Document, Document 文件，文件，文件
+Documents work with each other either concurrently or in tandem. Documents tell how things happen on a regular basis and present a “big picture” of a company’s operations, usually in standard operating procedures (SOPs), quality manuals, plans, and other such documents. Documents such as protocols and proposals tell what the company plans to do. Ongoing assessment and data recording occurs as activities progress. Process reports give the results of projects. Finally, summary reports bring it all together — what is the outcome of a significant set of activities?
+
+
+
+A single product’s history may start with source data for the concept, usually a laboratory finding. After the initial discovery recorded in the laboratory notebook comes testing to see if the concept is viable. Countless
+studies, performed in accordance with binding regulations, such as Good Laboratory Practices (GLPs), result in decisions to pursue the product development or to abandon it. When a company determines to develop a product, preclinical testing helps to confirm the potential product’s value and determine whether the company should file for approval to test the product in humans in controlled clinical trials.
+
+If the product moves through clinical trials, the company files for approval to manufacture and market the product. At every step in this process, which can easily take a decade, documentation captures what happens. Once a product is in the marketplace, record keeping continues, and stability studies confirm continuing efficacy through the expiry date on the product. Careful and continual monitoring must occur, and if a product loses its efficacy or has other problems, the company may issue a field alert or recall. The
+company keeps the product records at least two years beyond the shelf life of the product itself.
+
+***
+
+`Companies need to keep extensive records of everything they do, whether it becomes part of the final product development or not. They need to know what didn’t work so they don’t go down the same road twice.
+John Cline, Ph.D.`
+
+***
+
+Companies must show their control of systems, processes, and products in documentation. This means self-monitoring and assessment, as well as change management. There is no “magic formula” for documentation for all companies, but the common denominator is this: Companies must have controls in place, and they must have records of what they do, have done, and plan to do.
+
+Critical to successful operations are trained employees, so training must also be a documented part of operations. In addition to the orientation employees receive about their jobs when they are hired, they must receive regular “refresher” training, as well as retraining as procedures change or as they move from position to position within a company. Similarly, companies must verify that consultants have the appropriate training for the roles they fulfill and that vendors and contractors meet the criteria for the quality standards set by the company.
+
+In sum, compliance with the binding regulations requires extensive documentation, all of which reflects the activities a company carries out daily. As companies find better and better ways to do things, gain new technologies, and decide to manufacture products that require different formulas and procedures, they must both continue to meet current standards and verify, through records, their adherence.
