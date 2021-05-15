@@ -130,3 +130,57 @@ Companies must show their control of systems, processes, and products in documen
 Critical to successful operations are trained employees, so training must also be a documented part of operations. In addition to the orientation employees receive about their jobs when they are hired, they must receive regular “refresher” training, as well as retraining as procedures change or as they move from position to position within a company. Similarly, companies must verify that consultants have the appropriate training for the roles they fulfill and that vendors and contractors meet the criteria for the quality standards set by the company.
 
 In sum, compliance with the binding regulations requires extensive documentation, all of which reflects the activities a company carries out daily. As companies find better and better ways to do things, gain new technologies, and decide to manufacture products that require different formulas and procedures, they must both continue to meet current standards and verify, through records, their adherence.
+
+### Keeping the House in Order
+
+Compliance with the binding regulations and clear and complete documentation should be the goals for all companies operating within regulatory statutes. Who will determine if they are being met? Companies can expect audits and inspections from many sources. FDA, for instance, sends investigators on site for two primary reasons: a general GMP inspection or a new product inspection. In a general GMP inspection, FDA is present to assess overall operations and determine a company’s adherence to GMPs. In this type of inspection, investigators may ask to observe production — but not developmental — processes. A preapproval, postapproval, or scale-up inspection, on the other hand, focuses primarily on facilities and processes relative to a new product. Preapproval, postapproval, and scale-up inspections comprise much of the FDA’s focus.
+
+Companies that successfully undergo inspections know that it’s difficult to anticipate the direction they may take; thus it’s always wise to have everything in place and running effectively. If, for instance, a company
+employs electronic signatures, how the company has achieved compliance and maintains it will surely be a focus. Written records attest to what the company has done and what it continues to do.
+
+What an inspector does or doesn’t find marks the caliber of the company. Violations are not to be taken lightly. FDA considers a violation of cGMPs during an inspection an “incident.” If, upon reinspection, the same violation is present, FDA considers the violation a “practice,” and the product subsequently adulterated. These are serious issues, ones that good documentation reflecting good practices can very often prevent.
+
+Companies must thus understand what controlled documentation they must have in place and accessible. For instance, to undergo a successful approval inspection, companies manufacturing drug products usually make the following core records available; other documents may accompany these, depending on the product and processes.
+
+1. Manufacturing and controls segments of the application
+2. Master formula
+3. History section of the application
+4. Development data, including product characteristics and physical properties, manufacturing procedures, finished product test results, dissolution profiles, and results of pilot and preliminary production-size batches that confirm formula ranges, specifications, in-process variables, and stability testing.
+5. Materials analyses
+6. Laboratory data
+7. Equipment qualification and cleaning validation
+8. Standard Operating Procedures, including those for change control, QA/QC investigations, field alerts, and validation
+9. Finished product test results
+10. Stability studies
+
+Note that a visit by FDA or another government agency is not the only time a company receives an inspection. A company may be the subject of an audit by a firm seeking contract services or a joint venture. Such an audit will likely be every bit as strenuous as other inspections, and, once more, having documented practices in place translates to doing good business.
+
+### Document Control
+
+While this is not a book about document control, it’s important that writers understand that companies must control their documents and that writers must conform to the process in their companies. The systems vary from company to company, but effective companies know which documentation is drafted, written, under review, beginning revision, or moving into obsolescence. The degree of sophistication that characterizes the system is relative to the degree of sophistication of the company itself. A company with many sites needs systems that are more complex than those required by smaller companies.
+
+While there are many excellent systems, most share common ground. There are fixed procedures for introducing and approving the concept for a document, and drafting, reviewing it, and giving it final approval. Documents generally have other controls and are searchable by number, title, author, and key words. In addition, documents have revision histories, so a review of the document tells the life of the document from conception to retirement. Finally, who signs what type of document needs to be spelled
+out. Usually companies develop a minimum required signature list that tells who has authority to sign what type of document and how many signatures are needed to approve the document. Companies typically detail how their systems work in an SOP on document management. They may also have instructions for writing specific documents such as study reports, audit reports, and submission documents. 
+
+Effective document management systems ensure that documents maintain their integrity. For instance, hard copies of documents — such as those in SOP manuals — are controlled, and when new documents are issued, previous versions are accounted for and destroyed. Approved, official copies of documents must reside in controlled environments with limited access — in a limited access area for manual systems or in software system vaults for electronic systems.
+
+Companies must all define how their systems work. Documents in a manual system review process, for instance, may route through the system in colored folders, so reviewers know at a glance that the document in a yellow folder is a qualification, a document in a red folder an SOP, and a document
+in a purple folder a laboratory method. Other systems may send documents as pdf files as attachments to e-mails for review with a scheduled concurrence meeting.
+
+Electronic record keeping (ERK) is now mandated for patient records. Many small companies rely on manual systems, while others have implemented electronic document management systems. Electronic systems are necessary for electronic submissions to many regulating agencies, so the impetus is to go electronic. But more importantly, ERK provides more efficient document management overall and cuts down on the amount of paper companies must manage in their archives.
+
+ERK systems require extensive controls. They must be validated for the intended use of the system. There must be controls in place to ensure security, user accountability, and audit trails. Many companies have put Computer Software Validation (CSV) teams in place to ensure that validation of software-driven systems happens effectively. Once a system has gone live, it undergoes audits, and when major changes occur, it undergoes full or partial revalidation.
+
+The bottom line for document management is this: Companies have to determine how their document management system works and then document it. Further, anyone working with documentation within the system needs to understand how the system works. That means system users must have training in the system and not deviate from it.
+
+### Standard Formats
+
+Standardized formats also make documents easier to write and process for most companies. These formats can guide writers through the tasks of drafting and revising; they can guard against zealous rewrites by reviewers and can facilitate the approval process. Many companies have stylebooks that
+specify the presentation of certain information: These guides may call for a serial comma or not or direct certain SOP phraseology in delivering information common to many procedures, such as securing QA approval and signature. The extent to which companies control the details of documentation depends on each company’s resources. (See Chapter Nine for more information about style.)
+
+Document control staff should be able to identify the location of a document in a system at any given time. Staff may also write documents relative to their area or serve in the review process. They may have license to make mechanical, but not content, changes before final approval. Once a document receives final approval, through either a series of review cycles or a concurrence meeting, document control staff should issue the document with no further change. The group should also retrieve previous versions of documents, if any, and provide a history of the document’s development. Document control involves exhaustive attention to detail but does not infringe on the integrity of the documents.
+
+
+
+
+
