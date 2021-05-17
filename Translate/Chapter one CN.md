@@ -110,26 +110,39 @@ Managing the regulatory maze is not easy. Yet keeping abreast of the regulations
 ### Document, Document, Document 文件，文件，文件
 Documents work with each other either concurrently or in tandem. Documents tell how things happen on a regular basis and present a “big picture” of a company’s operations, usually in standard operating procedures (SOPs), quality manuals, plans, and other such documents. Documents such as protocols and proposals tell what the company plans to do. Ongoing assessment and data recording occurs as activities progress. Process reports give the results of projects. Finally, summary reports bring it all together — what is the outcome of a significant set of activities?
 
-
+文件可以同时或串联在一起工作。文件会定期说明事情的发生方式，并通常通过标准操作程序（SOP），质量手册，计划和其他此类文件来呈现公司运营的“全景”。方案和提议之类的文件说明了公司计划采取的措施。随着活动的进行，持续进行评估和数据记录。 过程报告给出了项目的结果。最后，汇总报告将所有内容汇总在一起-一系列重要活动的结果是什么？
 
 A single product’s history may start with source data for the concept, usually a laboratory finding. After the initial discovery recorded in the laboratory notebook comes testing to see if the concept is viable. Countless
 studies, performed in accordance with binding regulations, such as Good Laboratory Practices (GLPs), result in decisions to pursue the product development or to abandon it. When a company determines to develop a product, preclinical testing helps to confirm the potential product’s value and determine whether the company should file for approval to test the product in humans in controlled clinical trials.
 
+单个产品的历史记录可能始于该概念的源数据，通常是实验室发现的数据。在实验室记录本中记录了最初发现之后，需要进行测试以查看该概念是否可行。在按照具有约束力的法规——例如良好实验室规范（GLP）——进行了无数次研究后，根据结果最终决定进行产品开发还是放弃产品开发。当公司决定开发一个产品时，临床前测试有助于确认潜在产品的价值，并确定公司是否应递交申请在受控的临床试验中在人体进行产品测试。
+
 If the product moves through clinical trials, the company files for approval to manufacture and market the product. At every step in this process, which can easily take a decade, documentation captures what happens. Once a product is in the marketplace, record keeping continues, and stability studies confirm continuing efficacy through the expiry date on the product. Careful and continual monitoring must occur, and if a product loses its efficacy or has other problems, the company may issue a field alert or recall. The
 company keeps the product records at least two years beyond the shelf life of the product itself.
+
+如果该产品通过临床试验，公司将（向管理当局）申请批准生产和销售该产品。在此过程中的每一步（很容易花费十年时间），文档都会记录发生的情况。产品上市后，将继续保持记录，并且进行稳定性研究确认在产品有效期内持续（发挥）效力。必须（对产品）进行仔细且连续的监控，如果产品失去功效或存在其他问题，则公司可能会发出现场警示或召回产品。公司需要将产品记录保存到产品本身有效期到期后至少两年。
 
 ***
 
 `Companies need to keep extensive records of everything they do, whether it becomes part of the final product development or not. They need to know what didn’t work so they don’t go down the same road twice.
 John Cline, Ph.D.`
 
+`无论(工作）是否成为最终产品开发的一部分，公司都必须保留所做工作的详尽记录。 他们需要知道哪些方法无效，这样他们就不会在同一地方跌倒两次。
+约翰·克莱恩博士`
+
 ***
 
 Companies must show their control of systems, processes, and products in documentation. This means self-monitoring and assessment, as well as change management. There is no “magic formula” for documentation for all companies, but the common denominator is this: Companies must have controls in place, and they must have records of what they do, have done, and plan to do.
 
+公司必须在文件中显示对系统，流程和产品的控制。 这意味着自我监控和评估以及变更管理。没有“万能公式”可以适用于所有公司的文档，但是共同点是：公司必须有适当的控制权，并且必须有关于自己所做，已经做的和计划做的记录。
+
 Critical to successful operations are trained employees, so training must also be a documented part of operations. In addition to the orientation employees receive about their jobs when they are hired, they must receive regular “refresher” training, as well as retraining as procedures change or as they move from position to position within a company. Similarly, companies must verify that consultants have the appropriate training for the roles they fulfill and that vendors and contractors meet the criteria for the quality standards set by the company.
 
+成功运营的关键是受过培训的员工，因此培训也必须成为运营中有据可查的一部分。除了雇用员工时要接受的入职培训外，他们还必须接受定期的“复习”培训，以及随着流程变化或在公司内部从一个职位变动到另一个职位而接受的再培训。同样，公司必须确认已经对顾问进行了与其所担任的角色适当的培训，并且供应商和承包商均符合公司制定的质量标准。
+
 In sum, compliance with the binding regulations requires extensive documentation, all of which reflects the activities a company carries out daily. As companies find better and better ways to do things, gain new technologies, and decide to manufacture products that require different formulas and procedures, they must both continue to meet current standards and verify, through records, their adherence.
+
+总而言之，要遵守具有约束力的法规，需要大量反映了公司每天进行的活动的文档。当公司发现有越来越的方法做事，如获取新技术以及决定制造需要不同配方和程序的产品等，它们必须继续满足当前标准，并通过记录确认其遵守情况。
 
 ### Keeping the House in Order
 
@@ -180,7 +193,117 @@ specify the presentation of certain information: These guides may call for a ser
 
 Document control staff should be able to identify the location of a document in a system at any given time. Staff may also write documents relative to their area or serve in the review process. They may have license to make mechanical, but not content, changes before final approval. Once a document receives final approval, through either a series of review cycles or a concurrence meeting, document control staff should issue the document with no further change. The group should also retrieve previous versions of documents, if any, and provide a history of the document’s development. Document control involves exhaustive attention to detail but does not infringe on the integrity of the documents.
 
+### The Writing Task
 
+Writing is hard work, and it is high on the list of what people hate to do most. For many, it’s an intimidating task. In regulated industries this can be especially true: You may find yourself in the position of having to document what has happened, what happens regularly, what will happen. Regardless of the focus, writing always requires accuracy, attention to detail, and clarity.
 
+In this industry, few people write in solitary. You may be called upon to prepare a report, write a technical memo, review any number of documents, draft a report that requires the participation of several people, or compile information from many sources as a basis of study. How you tackle these tasks requires some foresight. Understanding the writing project you are about to undertake is the place to begin. You may be the primary author of an SOP, a collaborative author of a dossier, or one of several authors involved in a project such as a facilities validation. You may be the primary author of an activity, such as an audit, that requires a bevy of writing to reach a conclusion. (See the text box Put It in Writing.)
 
+***
+
+#### `Put It in Writing`
+`A good audit report results from good planning. Each audit should have a record of activities, from the decision to audit through the audit review. Each step of the process requires writing it down. Here’s a sequence that helps ensure each audit a company conducts gives optimal results.`
+
+1. `Determine what the customer wants
+   • Internal audit to determine GMP compliance
+   • Focused audit of manufacturing process to determine compliance gaps or reason for a nonconformance
+   • Supplier audit to determine suitability
+   • Manufacturing record audit for errors, omissions, deviations
+   • Stability data for a product`
+   
+2. `Determine the audit scope
+   • An entire company
+   • One department within the company
+   • Manufacturing records of a defined time or product
+   • All product packaging operations for one week`
+
+3. `Determine the type of audit
+   • Planned inspection
+   • Unannounced inspection
+   • Document desk audit`
+
+4. `Determine the governing documents
+   • FDA regulations
+   • ISO standards
+   • Corporate procedures
+   • OSHA standards
+   • Departmental procedures and required documentation
+   • Process maps and diagrams`
+
+5. `Determine who to interview
+   • Employees conducting the process
+   • Newly hired employees
+   • Department managers
+   • All nightshift analysts conducting stability testing`
+
+6. `Determine a statistical sample size
+   • How many lots are manufactured in one week, month, year
+   • How many complaint files in the past three months
+   • How many employees in the company`
+
+7. `Determine the audit duration if not predetermined`
+
+8. `Conduct the audit
+   • Know what should happen
+   • Observe what is happening
+   • Verify what happened through documentation`
+
+9. `Meet with audited groups to confirm deficiencies and observations to eliminate misunderstandings and auditing errors`
+
+10. `Write the report`
+
+11. `Report the findings to the original customers and auditees`
+
+12. `Review corrective and preventive action plans`
+
+13. `Follow-up on the effectiveness of corrective action plans after implementation`
+
+`Courtesy of Monica Grimaldi, Certified Quality Engineer`
+
+***
+
+The good news is that for many types of writing there are clear guidelines. For writing documents such as SOPs, you need to look to the company standards; the same holds true for validation documents. For other types of writing, you can look to the regulations, industry practices, and government issued guidances. Consider for instance, preparing a Chemistry, Manufacturing, and Controls (CMC) section of a submission for approval to market a solid-dose drug product. How will what you are to write fit into the big picture? The guideline for CMC breaks down the components into manageable groupings of information including (1) the drug substance, (2) the drug product, (3) methods validation, and (4) environmental assessment. Within each of these groupings are subgroupings. You can thus prepare components of each and assemble them accordingly. Of course, you’ll have to do your homework first. Make sure you fully understand what it is that you have to say.
+
+The preliminary work can be tedious, to be sure, but starting the actual writing is usually the toughest part. Many people complain of “writer’s block,” or the inability to get words down on paper. If you suffer from bouts of writer’s block, there are some steps you can take to overcome these down periods. See the following.
+
+***
+
+`Arnold Melnick, author of Melnick on Writing, a column in the AMWA Journal, the publication of the American Medical Writers Association, offers five questions to help writers understand their writing patterns.`
+
+#### `Only You Can Solve Your Writer’s Block`
+`Writer’s block is the “temporary inability by a writer to put words on a page.” It’s a common experience for writers, but there are things you can do about it. Answering five simple questions accurately and intelligently can provide an answer to this affliction.`
+
+1. `Do you struggle vainly to “write” something instead of communicating information or ideas to the reader?
+According to Joel Saltzman, author of If You Can Talk, You Can Write, write anything as though you are talking to a friend. Write whatever words might be associated with your document, without pausing to criticize or edit. Intersperse it with whatever random thoughts come to your mind. Then, edit and edit carefully. Good writing is good editing. Very few writers can get their desired effect in the first draft. For writers, how they edit determines whether the writing is good or not.`
+
+2. `Do you know your own patterns of creativity?
+    What are the most favorable work conditions for you? Do you write best early in the morning, late in the day, or at night? Do you do better work with a dish of candy next to your computer or while
+    abstaining from sweets? Do you work better alone or with people nearby? To get the most out of your writing, observe and respect your own personal idiosyncrasies. They guide creativity — or at least they don’t block it.`
+
+3. `Do you work best with notes or without notes?
+    Writers work in different patterns. Some do better with copious notes, others with outlines, others with sketchy notes, and still others without any notes at all. In some cases, writers do better using notes for factual documents (as in reporting data) and without notes for less concrete material (as in light correspondence) — or vice versa. People have different patterns of behavior for different types of writing.`
+
+4. `Is your problem ideas or words?
+    If your difficulty is in ideas, it means that you have no concept of how to get where you want to go. In such a case, here are two recommendations. First, just scribble some notes or words about your idea and about your concepts. Later on, you can flesh out these notes. Second, handwrite some of your thoughts because in the extra time it takes to write out concepts you will probably be able to fill in some of the creative thoughts you had in the first place. `
+  
+  `If your difficulty is in words, it means that you know what you want to say, but can’t quite say it. One of the better ways to approach this difficulty is to determine which section of the document you are most sure of, then write it first, even if it is out of order.Everything does not have to be written in sequence.`
+  
+  `A second approach is to write down a few of the key words of your document and then expand them by word association. For example, if you are writing a report on a meeting, you might jot down “meeting,” “election,” “conference room,” and “Tuesday morning.” You can then add other words to each of those original words until you have sketched an outline that will permit you to start writing. Next, add material to it. Remember, you can edit out all the extraneous material.`
+
+5. `Are you a procrastinator?`
+    `Procrastination may well be a genetic thing: some people are procrastinators,  some are not, and some swing back and forth. What is  important is that each writer recognize personal patterns of procrastination.  When given a task, do you attack it immediately, or almost  immediately, regardless of when the deadline is or what the import?  Or, no matter how serious the job, do you put it off until almost the  last minute? Look at how you shop. Look at how you pay bills. Look  at how you study for examinations. Good examples, all. Examine  your behavior in writing situations and determine whether or not  — or how much — you are a procrastinator.`
+  
+  `Here’s a recommendation to help procrastinators: sit and sit and sit. Station yourself in front of your computer and do not yield to the temptation to get up and walk around or do anything else. Stay seated for a reasonable period until your thoughts start to flow. Others recommend two other approaches. Interestingly, they are opposites. Some experts say start with the most difficult task and get it out of the way, noting that the rest will then be easier. Others recommend the reverse: start with the easiest things because they can be done quickly, and then gradually work your way up to the
+  most difficult task. Meanwhile, you will already have written much of the work. Still another recommendation is to “take five.” Walk around the building, take a short coffee break, do some deep breathing. But, if you “get away” like this, try not to substitute something you enjoy, such as eating ice cream. In essence, don’t reward behavior that you shouldn’t encourage.`
+  
+  `It’s also wise to get a sounding board if you have difficulty organizing your thoughts or words. Use a dictating machine, or find a colleague who will act as a sounding board so you can tell what you want to say. You will then probably have created your own first rough draft. This process ties in with natural law that you can talk or dictate about ten times as fast as you can write, so when an idea strikes your brain you can record it in a shorter period of time by speaking, losing far less of the thought. Then transcribe what you’ve said.`
+  
+  `In essence, to get rid of writer’s block, or at least reduce it, study your own style of writing and your own personality. Once you understand yourself, you will be well on the way. Stay with who you are, and you will be rewarded.`
+  
+  `Excerpted from KYOS—Five Easy Questions to Erase Your Writer’s Block, the AMWA Journal, Vol. 17, No. 1, 2002.`
+  `Courtesy of Arnold Melnick`
+  
+  ***
+  
+  
 
