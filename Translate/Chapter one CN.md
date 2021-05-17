@@ -285,25 +285,107 @@ According to Joel Saltzman, author of If You Can Talk, You Can Write, write anyt
 
 4. `Is your problem ideas or words?
     If your difficulty is in ideas, it means that you have no concept of how to get where you want to go. In such a case, here are two recommendations. First, just scribble some notes or words about your idea and about your concepts. Later on, you can flesh out these notes. Second, handwrite some of your thoughts because in the extra time it takes to write out concepts you will probably be able to fill in some of the creative thoughts you had in the first place. `
-  
+
   `If your difficulty is in words, it means that you know what you want to say, but can’t quite say it. One of the better ways to approach this difficulty is to determine which section of the document you are most sure of, then write it first, even if it is out of order.Everything does not have to be written in sequence.`
-  
+
   `A second approach is to write down a few of the key words of your document and then expand them by word association. For example, if you are writing a report on a meeting, you might jot down “meeting,” “election,” “conference room,” and “Tuesday morning.” You can then add other words to each of those original words until you have sketched an outline that will permit you to start writing. Next, add material to it. Remember, you can edit out all the extraneous material.`
 
 5. `Are you a procrastinator?`
     `Procrastination may well be a genetic thing: some people are procrastinators,  some are not, and some swing back and forth. What is  important is that each writer recognize personal patterns of procrastination.  When given a task, do you attack it immediately, or almost  immediately, regardless of when the deadline is or what the import?  Or, no matter how serious the job, do you put it off until almost the  last minute? Look at how you shop. Look at how you pay bills. Look  at how you study for examinations. Good examples, all. Examine  your behavior in writing situations and determine whether or not  — or how much — you are a procrastinator.`
-  
+
   `Here’s a recommendation to help procrastinators: sit and sit and sit. Station yourself in front of your computer and do not yield to the temptation to get up and walk around or do anything else. Stay seated for a reasonable period until your thoughts start to flow. Others recommend two other approaches. Interestingly, they are opposites. Some experts say start with the most difficult task and get it out of the way, noting that the rest will then be easier. Others recommend the reverse: start with the easiest things because they can be done quickly, and then gradually work your way up to the
   most difficult task. Meanwhile, you will already have written much of the work. Still another recommendation is to “take five.” Walk around the building, take a short coffee break, do some deep breathing. But, if you “get away” like this, try not to substitute something you enjoy, such as eating ice cream. In essence, don’t reward behavior that you shouldn’t encourage.`
-  
+
   `It’s also wise to get a sounding board if you have difficulty organizing your thoughts or words. Use a dictating machine, or find a colleague who will act as a sounding board so you can tell what you want to say. You will then probably have created your own first rough draft. This process ties in with natural law that you can talk or dictate about ten times as fast as you can write, so when an idea strikes your brain you can record it in a shorter period of time by speaking, losing far less of the thought. Then transcribe what you’ve said.`
-  
+
   `In essence, to get rid of writer’s block, or at least reduce it, study your own style of writing and your own personality. Once you understand yourself, you will be well on the way. Stay with who you are, and you will be rewarded.`
-  
+
   `Excerpted from KYOS—Five Easy Questions to Erase Your Writer’s Block, the AMWA Journal, Vol. 17, No. 1, 2002.`
   `Courtesy of Arnold Melnick`
-  
-  ***
-  
-  
+
+***
+
+### Writing and Revising
+
+***
+
+`The best motivation for writing is a deadline.
+Kristine Ogozalek,Regulatory Manager`
+
+***
+
+Just about anyone can write *something* ——it’s what happens to it after the first draft that makes it good. In short, pretty much everything that’s written can use some skillful editing and revision. Unless you are a genius, good writing doesn’t just happen. It’s the result of drafting, revising, reassessing, and revising again. Further, the more eyes that see a piece of writing, the better it usually is. This is especially true of the highly technical writing that’s the norm in regulated industries.
+
+Most writers have had the experience of proofreading their own words and giving the copy an okay, only to discover too late that they overlooked glaring errors because they did what humans tend to do: They saw what they expected to see and not what was there. On the other hand, a writer may spend hours developing an idea or researching a detail, then notice that to include it would confuse or mislead. In such circumstances, the only recourse is to cut the passage. Developing your own writing is no easy task, for you are dealing with yourself as a writer. You may know exactly what you mean, whereas your readers may not. That’s why review and revision play a strong role.
+
+If you write simple memos, e-mails, faxes, and letters that no one but you sees before distribution, it’s best to draft the document and let it rest, if you can. Come back to it and look at it again. Read it out loud if you have the luxury of time. (This helps you “hear” as well as “see.”) If the piece is important, ask someone else to read it through, and be open to suggestions. Be appreciative when a typo or misspelling comes to light, so you can make changes to improve your writing for the better. Do the best fine-tuning you can; draft and revise until the document is as good as you can make it.
+
+If you are writing a document for a formal review, remember that the better the quality is prior to the review process, the quicker the approval will be forthcoming. Your reviewers, in particular, will thank you for your diligence, because their task will be easier. And in the long run, you may spend less time trying to get the text through final approval.
+
+### Collaborative Writing
+
+Collaborative writing means that two or more people conjointly contribute information to the draft and completion of a single document. For example, work that runs continuously, such as pilot plant operations, requires systematic record keeping across shifts. Those records may ultimately feed into reports, with several people preparing sections. Certainly, equipment installation and operation protocols and qualification reports require the expertise of all who work on a specific project. Clinical trial reports may have more than one writer, and certainly dossiers headed to regulatory agencies have a host of authors who have provided input.
+
+***
+
+Common sense is not so common.
+Voltaire
+
+***
+
+Writers working collaboratively on documents must offer information that ultimately serves one purpose, and although that can be difficult, it’s common. What’s needed when people embark upon a joint writing venture is a clear understanding up front and a sense of document ownership. Many a collaborative writing project has gone awry because none of the writers assumed ownership, and the end product became a document with no clear purpose, simply a compilation of information without unity.
+
+Writers need to agree on the main purpose and supporting points for the document. Often each writer can clarify the others’ thoughts because all have a solid — but somewhat differing — vision of the main idea. Discussion helps clarify the purpose of the report, and this discussion is best done up front before the writing process begins. The next thing to do is to decide who is going to write what. If you write collaboratively, work with your coauthors to define the process that’s easiest for all involved. The two
+approaches that follow are equally workable, and both require some negotiation skills.
+
+#### The First Approach
+
+The first approach calls for a designated person to draft the document and for the others to add and amend. That’s not to say the first person shouldn’t review and be permitted adjustments to the text before submission of the finished product. The strength of this system is that the person with the strongest language skills does the “cleaning up,” while the writers with the strongest technical expertise have their say. Alterations in the text are with the approval of all writers. You’ll find this approach to be particularly efficient in the composition of short documents.
+
+#### The Second Approach
+
+The second approach requires more planning than the first approach. In this approach, the writers assess needs of the document and assume ownership of specific portions. All writers need to understand the components of the planned document and what needs to reside where. They then agree on the formatting conventions and the time for text completion. Writers then meet to combine the elements and polish the document, with each reading and making comments on the entire text. Revision and refinement should come through tactful commentary and with the consent of the writer responsible for each individual section. This approach is usually the most effective in the composition of reports or other documents of length.
+
+### Reaching Agreement
+
+Trust in other people’s expertise and a willingness to accept their judgment are crucial to collaborative writing. Remember also that two or more people will have distinct writing styles, and that those styles may vary dramatically; yet sometimes the style distinctions will be barely discernible. Try not to make arbitrary alterations in your coauthors’ work; similarly, be tolerant of any minor changes a coauthor may make in your writing, and reach agreement as to the clarity and completeness of the message. And remember,
+nothing does as much for a common goal as conversation. If you feel a change is necessary, discuss it. Chances are greater that your collaborators will agree after they’ve heard your explanation. Similarly, you’ll feel better about text adjustments after you’ve had the opportunity to hear why your coauthors feel they should be made. Discussion, after all, is the bond that makes collaboration workable in the first place.
+
+Finally, when writing collaboratively, make every effort to present a document that’s cohesive, clear, and grammatical. Getting a document to this point may take many readings, discussions, and revisions. Your collective goal should be the end result: a quality document ready for either immediate distribution or formal review that will be well received.
+
+It doesn’t matter what kind of writing you are collaborating on. The following is an abstract written by three people: a vice president of development, a regulatory manager, and a consultant. In preliminary discussions, the three determined to submit an abstract to present at an industry conference. The requirement called for a maximum of 300 words. They had several ideas, then narrowed them down to defining how a company can make the transition from discovery to a compliant development operation. The regulatory manager tackled the task of getting the idea down on paper. Here is the first pass. Notice that the manager asks a few questions of her coauthors, and that this draft is far from complete. It has 114 words.
+
+The final word count is 300, and the message is succinctly delivered. Here’s a happy note: The abstract was accepted and the authors presented at the conference.
+
+#### First Draft/Idea Stage
+
+***
+
+**ABSTRACT TITLE:
+
+From discovery to development
+
+**SUMMARY:**
+
+Session focuses building a development organization from the ground up. It includes how to build project management, regulatory, and document functions to take a product from discovery to market.
+
+**LEARNING OBJECTIVES:
+
+Basics for managing development activities with project management, regulatory expertise, and documentation functions.
+
+**ABSTRACT:**
+
+Newer companies are entering a new arena - development. Different skill sets are required for development than are required for research and discovery. Contract organizations and consultants are often used to acquire the expertise that the company itself doesn't have. When consultants are used, companies may not have the knowledge they need.
+
+In-house vs. farmed out?
+
+Documentation?
+
+Main force is all three?
+
+***
+
+The consultant then reviewed the text and added some information to address the manager’s queries and to refine the writing.
+
+
 
