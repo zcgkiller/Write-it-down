@@ -1,6 +1,8 @@
 
 ## 1 
 
+[TOC]
+
 ### Writing Within the Regulated Environment 法规环境下的写作
 
 As far as most regulatory bodies are concerned, if you didn’t write it down, it didn’t happen. Working in the pharmaceutical, medical device, or biologic milieu is tantamount to journal keeping. In fact, “Write it down” sums up what it takes to get the job done properly. Successful operations require a working union of the day-to-day activities that keep the wheels of the business turning and the documentation that affirms those activities.
