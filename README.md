@@ -11,5 +11,5 @@ Write it Down_ Guidance for Preparing Effective and Compliant Documentation, Sec
 
 ​		[`Regulatory Evolution in the United States美国的法规演变`](https://github.com/zcgkiller/Write-it-down/blob/main/Translate/Chapter%20one%20CN.md#regulatory-evolution-in-the-united-states%E7%BE%8E%E5%9B%BD%E7%9A%84%E6%B3%95%E8%A7%84%E6%BC%94%E5%8F%98-)
 
-​	[Document, Document, Document 文件，文件，文件](Document, Document, Document 文件，文件，文件)
+​	[Document, Document, Document 文件，文件，文件](https://github.com/zcgkiller/Write-it-down/blob/main/Translate/Chapter%20one%20CN.md#document-document-document-%E6%96%87%E4%BB%B6%E6%96%87%E4%BB%B6%E6%96%87%E4%BB%B6)
 
