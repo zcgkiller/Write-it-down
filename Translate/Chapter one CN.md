@@ -144,29 +144,50 @@ In sum, compliance with the binding regulations requires extensive documentation
 
 总而言之，要遵守具有约束力的法规，需要大量反映了公司每天进行的活动的文档。当公司发现有越来越的方法做事，如获取新技术以及决定制造需要不同配方和程序的产品等，它们必须继续满足当前标准，并通过记录确认其遵守情况。
 
-### Keeping the House in Order
+### Keeping the House in Order 让房子井然有序
 
 Compliance with the binding regulations and clear and complete documentation should be the goals for all companies operating within regulatory statutes. Who will determine if they are being met? Companies can expect audits and inspections from many sources. FDA, for instance, sends investigators on site for two primary reasons: a general GMP inspection or a new product inspection. In a general GMP inspection, FDA is present to assess overall operations and determine a company’s adherence to GMPs. In this type of inspection, investigators may ask to observe production — but not developmental — processes. A preapproval, postapproval, or scale-up inspection, on the other hand, focuses primarily on facilities and processes relative to a new product. Preapproval, postapproval, and scale-up inspections comprise much of the FDA’s focus.
+
+遵守具有约束力的法规以及清晰完整的文件应该是所有在法规内运营的公司的目标。谁来确定他们是否得到满足？ 公司可以期望从多方面进行审核和检查。例如，FDA派遣调查人员到现场是出于两个主要原因：普通GMP检查或新产品检查。在普通GMP检查中，FDA会评估整体运营并确定公司对GMP的遵守情况。在这种检查中，研究人员可能会要求观察生产过程，而不是产品开发过程。另一方面，批准前，批准后或放大生产检查主要集中在与新产品相关的设施和过程上。批准前，批准后和放大生产检查是FDA的重点工作。
 
 Companies that successfully undergo inspections know that it’s difficult to anticipate the direction they may take; thus it’s always wise to have everything in place and running effectively. If, for instance, a company
 employs electronic signatures, how the company has achieved compliance and maintains it will surely be a focus. Written records attest to what the company has done and what it continues to do.
 
+成功通过检查的公司知道，很难预测他们（FDA）会采取的（检查）方向；因此，明智的做法是使一切就绪并有效运行。例如，如果公司使用电子签名，那么公司如何实现合规性并持续保持合规无疑将成为重点。书面记录证明了公司的所作所为和后续将要做的事情。
+
 What an inspector does or doesn’t find marks the caliber of the company. Violations are not to be taken lightly. FDA considers a violation of cGMPs during an inspection an “incident.” If, upon reinspection, the same violation is present, FDA considers the violation a “practice,” and the product subsequently adulterated. These are serious issues, ones that good documentation reflecting good practices can very often prevent.
+
+检查员发现或未发现的内容体现了公司的水平。不能轻视违规行为。FDA认为在检查过程中违反cGMP的行为是“事件”，以及随后的产品掺假。这些都是严重的问题，反映良好实践的优秀文件通常可以防止这些问题（发生）。
 
 Companies must thus understand what controlled documentation they must have in place and accessible. For instance, to undergo a successful approval inspection, companies manufacturing drug products usually make the following core records available; other documents may accompany these, depending on the product and processes.
 
-1. Manufacturing and controls segments of the application
-2. Master formula
-3. History section of the application
+因此，公司必须了解他们必须拥有哪些可访问的受控文件。例如，若要成功通过批准检查，药品生产公司通常会提供以下核心记录；根据产品和工艺，可能会附带其他文件。
+
+1. Manufacturing and controls segments of the application 申请中的生产和质量控制部分
+
+2. Master formula 主处方
+
+3. History section of the application 申请的历史
+
 4. Development data, including product characteristics and physical properties, manufacturing procedures, finished product test results, dissolution profiles, and results of pilot and preliminary production-size batches that confirm formula ranges, specifications, in-process variables, and stability testing.
-5. Materials analyses
-6. Laboratory data
-7. Equipment qualification and cleaning validation
-8. Standard Operating Procedures, including those for change control, QA/QC investigations, field alerts, and validation
-9. Finished product test results
-10. Stability studies
+
+   研发数据，包括产品特性、物理性质、生产流程、最终产品的检测结果、溶出曲线、中试规模和初步生产规模批次的结果，可确认配方范围，规格，中控变量和稳定性测试。
+
+5. Materials analyses 物料分析
+
+6. Laboratory data 实验室数据
+
+7. Equipment qualification and cleaning validation 设备确认与清洁验证
+
+8. Standard Operating Procedures, including those for change control, QA/QC investigations, field alerts, and validation 标准操作规程（SOP），包括变更控制、QA/QC调查、现场警示与验证
+
+9. Finished product test results 最终产品检测结果
+
+10. Stability studies 稳定性研究
 
 Note that a visit by FDA or another government agency is not the only time a company receives an inspection. A company may be the subject of an audit by a firm seeking contract services or a joint venture. Such an audit will likely be every bit as strenuous as other inspections, and, once more, having documented practices in place translates to doing good business.
+
+注意FDA或其他政府部门并不是仅在检查的时候才会到访。公司可能是另一寻求合同服务或合资企业的公司的审计对象。这样的审计可能会像其他检查一样艰苦，而且，再次形成文件化的惯例就意味着做得很好。
 
 ### Document Control
 
