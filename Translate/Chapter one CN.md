@@ -187,19 +187,27 @@ Companies must thus understand what controlled documentation they must have in p
 
 Note that a visit by FDA or another government agency is not the only time a company receives an inspection. A company may be the subject of an audit by a firm seeking contract services or a joint venture. Such an audit will likely be every bit as strenuous as other inspections, and, once more, having documented practices in place translates to doing good business.
 
-注意FDA或其他政府部门并不是仅在检查的时候才会到访。公司可能是另一寻求合同服务或合资企业的公司的审计对象。这样的审计可能会像其他检查一样艰苦，而且，再次形成文件化的惯例就意味着做得很好。
+注意FDA或其他政府部门并不是仅在检查的时候才会到访。公司可能是另一寻求合同服务或合资企业的公司的审计对象，这样的审计可能会像（迎接）其他检查一样耗费精力，然而一切文件记录在案的实践可以转化为好的商业机会。
 
-### Document Control
+### Document Control 文件控制
 
 While this is not a book about document control, it’s important that writers understand that companies must control their documents and that writers must conform to the process in their companies. The systems vary from company to company, but effective companies know which documentation is drafted, written, under review, beginning revision, or moving into obsolescence. The degree of sophistication that characterizes the system is relative to the degree of sophistication of the company itself. A company with many sites needs systems that are more complex than those required by smaller companies.
+
+尽管这不是一本关于文档控制的书，但文件的写作者必须了解公司控制文档并且必须符合公司流程的重要性。虽然公司之间的（文件）系统各不相同，但实际上公司都知道要起草，撰写，审核，开始修订或废止过时的文档。系统表现出的复杂程度与公司本身的复杂程度有关。拥有多个场地的公司所需要的系统比小型公司的更为复杂。
 
 While there are many excellent systems, most share common ground. There are fixed procedures for introducing and approving the concept for a document, and drafting, reviewing it, and giving it final approval. Documents generally have other controls and are searchable by number, title, author, and key words. In addition, documents have revision histories, so a review of the document tells the life of the document from conception to retirement. Finally, who signs what type of document needs to be spelled
 out. Usually companies develop a minimum required signature list that tells who has authority to sign what type of document and how many signatures are needed to approve the document. Companies typically detail how their systems work in an SOP on document management. They may also have instructions for writing specific documents such as study reports, audit reports, and submission documents. 
 
+尽管有许多出色的系统，但大多数系统具有共同点。引入和批准概念文件，起草，审核以及最终批准文档都有固定的程序。文件通常还有其他控制方法并且可以通过编号、题目、作者和关键词搜索。另外，文件具有修订历史，因此，对文档进行回顾可以了解文档从最初概念提出到最终停止使用的整个过程。最后，需要说明具体某一类文件应当由谁签署。通常，公司会制定最低要求的签名列表，以告知某种类型的文件谁有权签署以及批准文件需要多少人签署。公司通常会在文件管理的SOP中详细说明其系统的工作方式。他们还可能有编写特定文件（例如研究报告，审计报告和提交文件）的说明。
+
 Effective document management systems ensure that documents maintain their integrity. For instance, hard copies of documents — such as those in SOP manuals — are controlled, and when new documents are issued, previous versions are accounted for and destroyed. Approved, official copies of documents must reside in controlled environments with limited access — in a limited access area for manual systems or in software system vaults for electronic systems.
+
+有效的文件管理系统可确保文件保持完整性。例如，文件的硬拷贝（例如SOP手册中的文件）受到控制，并且在发布新文件时，应当销毁以前的旧版本文件。批准的正式文件副本必须保存于访问受限的受控环境中-手动系统可在受限的访问区域内，电子系统可在软件系统的保管库中。
 
 Companies must all define how their systems work. Documents in a manual system review process, for instance, may route through the system in colored folders, so reviewers know at a glance that the document in a yellow folder is a qualification, a document in a red folder an SOP, and a document
 in a purple folder a laboratory method. Other systems may send documents as pdf files as attachments to e-mails for review with a scheduled concurrence meeting.
+
+公司都必须定义其系统的工作方式。 例如，在手动系统审核过程中，文件可能会在彩色文件夹中通过整个系统，因此审阅者一眼便知道黄色文件夹中的是确认文件，红色文件夹中的是SOP，紫色文件夹中的是检测方法。其他系统可能会将pdf文件作为电子邮件的附件发送，以供预定的并发会议进行审核。
 
 Electronic record keeping (ERK) is now mandated for patient records. Many small companies rely on manual systems, while others have implemented electronic document management systems. Electronic systems are necessary for electronic submissions to many regulating agencies, so the impetus is to go electronic. But more importantly, ERK provides more efficient document management overall and cuts down on the amount of paper companies must manage in their archives.
 
