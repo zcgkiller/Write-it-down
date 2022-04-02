@@ -211,17 +211,25 @@ in a purple folder a laboratory method. Other systems may send documents as pdf 
 
 Electronic record keeping (ERK) is now mandated for patient records. Many small companies rely on manual systems, while others have implemented electronic document management systems. Electronic systems are necessary for electronic submissions to many regulating agencies, so the impetus is to go electronic. But more importantly, ERK provides more efficient document management overall and cuts down on the amount of paper companies must manage in their archives.
 
+电子记录保存 (ERK) 现已强制要求用于病历。当有些公司已采用电子文档管理系统时，仍有许多小公司依赖于手动系统。向许多监管机构提交电子文件必须使用电子系统，电子化的发展也因此而被推动.但更加重要的是，ERK整体上提供了更高效的文件管理模式，并减少了公司必须在其档案中使用的纸张数量。
+
 ERK systems require extensive controls. They must be validated for the intended use of the system. There must be controls in place to ensure security, user accountability, and audit trails. Many companies have put Computer Software Validation (CSV) teams in place to ensure that validation of software-driven systems happens effectively. Once a system has gone live, it undergoes audits, and when major changes occur, it undergoes full or partial revalidation.
+
+ERK系统需要大量的控制措施。它们必须为系统的预期用途而得到验证。这里必须有控制措施，以确保安全、用户问责制和审计跟踪。许多公司会设立电脑软件验证团队以便确认软件驱动系统的验证得以有效进行。一旦系统投入使用，就会接受审计，当发生重大变化时，就会进行全面或部分的重新验证。
 
 The bottom line for document management is this: Companies have to determine how their document management system works and then document it. Further, anyone working with documentation within the system needs to understand how the system works. That means system users must have training in the system and not deviate from it.
 
-### Standard Formats
+文档管理的底线是：公司必须确定他们的文件管理系统是如何运作的并将其记录。此外，任何在系统内处理文档的人都需要了解系统的工作方式。这意味着系统用户必须接受过系统培训并且不能偏离它
 
-Standardized formats also make documents easier to write and process for most companies. These formats can guide writers through the tasks of drafting and revising; they can guard against zealous rewrites by reviewers and can facilitate the approval process. Many companies have stylebooks that
-specify the presentation of certain information: These guides may call for a serial comma or not or direct certain SOP phraseology in delivering information common to many procedures, such as securing QA approval and signature. The extent to which companies control the details of documentation depends on each company’s resources. (See Chapter Nine for more information about style.)
+### Standard Formats 标准格式
+
+Standardized formats also make documents easier to write and process for most companies. These formats can guide writers through the tasks of drafting and revising; they can guard against zealous rewrites by reviewers and can facilitate the approval process. Many companies have stylebooks that specify the presentation of certain information: These guides may call for a serial comma or not or direct certain SOP phraseology in delivering information common to many procedures, such as securing QA approval and signature. The extent to which companies control the details of documentation depends on each company’s resources. (See Chapter Nine for more information about style.)
+
+对于大多数公司而言，标准格式也可以使文件撰写和处理变得更容易，这些格式可以指导写作者完成起草和修订的工作；它们也可以防止内容被审阅者重写来加快审批过程。许多公司都有指定特定信息表达的样例手册：这些手册可能要求使用连续的逗号或不使用逗号，或在提供许多程序中常见的信息时直接使用某些SOP措辞，如确保QA批准和签字。公司控制文件细节的程度取决于每个公司的资源。(关于样例的更多信息，见第九章）
 
 Document control staff should be able to identify the location of a document in a system at any given time. Staff may also write documents relative to their area or serve in the review process. They may have license to make mechanical, but not content, changes before final approval. Once a document receives final approval, through either a series of review cycles or a concurrence meeting, document control staff should issue the document with no further change. The group should also retrieve previous versions of documents, if any, and provide a history of the document’s development. Document control involves exhaustive attention to detail but does not infringe on the integrity of the documents.
 
+负责文档管理的工作人员应该在任何给定的时刻都能确定文档在系统中的位置。工作人员也可以编写与他们领域相关的文档或者参与审查过程。在文档被正式批准之前，他们有权限去进行格式化而非内容的修改。一旦文件通过一系列的审查或同意会议得到最终批准，文件控制人员应发布该文件，不得进一步更改。该小组还应该收回以前版本的文档（如果有的话），并提供文档演变的历史。文件控制涉及对细节的详尽关注，但不违背文件的完整性。
 ### The Writing Task
 
 Writing is hard work, and it is high on the list of what people hate to do most. For many, it’s an intimidating task. In regulated industries this can be especially true: You may find yourself in the position of having to document what has happened, what happens regularly, what will happen. Regardless of the focus, writing always requires accuracy, attention to detail, and clarity.
