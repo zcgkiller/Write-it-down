@@ -56,57 +56,34 @@ Further, companies must also understand that new regulations don’t supersede e
 Managing the regulatory maze is not easy. Yet keeping abreast of the regulations and remaining compliant makes good business sense. Monthly publications for industry, available by subscription, detail issues in the industry and governmental rulings. Industry forums, conferences, and courses offered by professional training organizations offer opportunities to remain current. It’s not enough to adhere to the regulations. Companies need to understand the direction in which compliance is moving and keep in step. The last thing a company needs is a routine investigation that discovers nonstandard practices. The result will be a discrepancy observation, citing what needs to be fixed. It’s always better to have everything in place, with documented proof that it is, rather than to scramble to fix what the company has been cited for—this slows productivity and makes poor business sense. One thing is abundantly clear: Documentation will continue to be critical to every facet of doing business within this highly regulated environment.
 
 管理法规迷宫并不容易。 但是，与法规保持一致并保持合规性具有良好的商业意义。可通过订阅获得的行业月刊，详细列出了行业和政府裁决中的问题。专业培训组织提供的行业论坛，会议和课程提供了保持最新状态的机会。 仅仅遵守法规是不够的。公司需要了解合规性发展的方向，并与时俱进。 公司需要做的最后一件事是发现不规范做法的例行调查。 结果将是差异性观察，并指出了需要解决的问题。 最好将所有内容都放在适当的位置，并附上有据可查的证据，而不是为了确定公司被引用的内容而争先恐后地进行，这会降低生产率并降低商业意义。 有一件事很清楚：在这个受到严格监管的环境中，文档对于开展业务的各个方面仍然至关重要。
-
-***
-
-#### `Regulatory Evolution in the United States美国的法规演变 `
-
-`Laws governing therapeutic product development and marketing have evolved over time with specific laws marking milestones over a period of 100-plus years. The first US federal regulation dates back to 1884 when American soldiers died after ingesting adulterated quinine. As a result of these deaths, the government passed the Drug Importation Act, which required customs inspections on drugs coming from overseas. Then in 1901, The Biologic Control Act became law after 13 children died from a contaminated antitoxin for diphtheria. This act gave the government regulatory power over antitoxin and vaccine development. Shortly after, in 1906, the government passed the Food and Drugs Act to authorize the government to monitor food purity and safety of medicines. `
-
-`管理治疗产品开发和销售的法律在过去的100年间随着时间不断发展，里程碑就是那些特定的法律。美国第一个联邦法规可以追溯到1884年，当时美国士兵摄取了掺假的奎宁后死亡。因为这些士兵的死亡，政府通过了《药品进口法案》，要求海关对那些来自海外的药品进行检查。1901年，因为13名儿童死于受污染的白喉抗毒素，《生物制品控制法案》成为法律。该法案赋予了政府对抗毒素和疫苗开发的监管权。不久之后，1906年，政府通过了《食品与药品法案》，授权政府对食品的纯度和药品安全性进行监管。`
-
-`In 1931, the Food and Drugs Act was renamed the Food and Drug Administration. Several other events were significant in developing binding regulations designed to protect humans and animals. The 1932 Tuskegee Study of Untreated Syphilis in the Negro Male, conducted under the auspices of the US Public Health Service, deprived infected men of effective treatment so as not to interrupt the project. Then in 1937, 107 people died after taking “elixir of sulfanilamide,” which turned out to be an antifreeze solution. FDA removed the product from the market, not because it caused fatalities, but because it was mislabeled. In 1938, the government passed the Food, Drug, and Cosmetics Act. This Act expanded the role of FDA to control of cosmetics and devices.`
-
-`1931年，《食品与药品法案》更名为《食品与药品管理法》。其他几项重大事件对于制定旨在保护人类和动物的约束性法规也很重要。1932年，在美国公共卫生局主持下的塔斯基吉梅毒研究为了避免项目中断，剥夺了黑人受感染男性的有效治疗。（注：塔斯基吉梅毒实验是美国公共卫生局性病部门在1932年至1972年间于阿拉巴马州与当地历史悠久的黑人大学塔斯基吉大学合作，对近399名非洲裔男性梅毒患者及201名健康非洲裔男性所进行的一系列人体试验。这些实验参与者皆为生活贫困的阿拉巴马州梅肯县佃农。该实验以提供免费医疗、餐点、丧葬保险以吸引居民参与实验，也以此目的募集基金。但在经济大萧条导致经费补助中断后，参与者将不再有机会接受任何医学治疗，但研究者仍在未告知参与者的情况下继续进行实验。自始至终，研究者都不曾对罹患梅毒的参与者告知罹患梅毒的实情，而是宣称患者接受的治疗是为了医治败血症，也从不曾施予参与者有效的治疗方式。实验开始之初，梅毒还是无药可医的绝症；但1943年，医学界发现青霉素可有效医治梅毒后，研究人员为了使该实验继续进行，故意不对患者施以有效治疗手段，甚至企图阻止参与实验的梅毒患者接受有效治疗。此实验一直持续在相关领域期刊发表研究报告，少数学者呼吁终止该实验，却遭无视；一直到1972年，实验知情人向大众媒体揭发，该实验才终止。美国政府则迟至1997年才对受害者作出赔偿及公开道歉。）1937年，又有107人因服用磺胺醑剂死亡，最后归结原因为防冻液。（注：即二甘醇，有甜味，可与水混溶，工业上可用作防冻剂。在本次事件中，药剂师哈罗德·沃特金斯用工业溶剂二甘醇代替乙醇和糖，造成358人肾衰竭、107人中毒死亡，其中大部分是儿童。美国联邦法院决定对制药公司罚款26000美元，药剂师沃特金斯在内疚和绝望中自杀。）FDA从市场上移除了该产品，不是因为它造成的死亡，而是因为它的标签错误。（注：根据当时的法律，FDA只能如此处理）1938年，政府通过了《食品、药品和化妆品法案》，该法案将FDA的监管权限扩展到了化妆品和医疗器械。`
-
-`It was during World War II, however, that experiments were done in large scale on unconsenting humans. The Nuremberg War Crime Trials brought these atrocities to light, and the result was the Nuremberg Code, which cited ten standards for ethical human research. `
-
-`然而，在二战期间进行了大量未经同意的人体试验。战后，纽伦堡战争罪行审判揭露了这些暴行，并最终形成纽伦堡法典，里面列举了人体研究的十大道德标准。`
-
-`A wake-up call for even better monitoring came in 1962, when thousands of babies were born with defects, the result of their mothers taking thalidomide while pregnant. The drug had never been approved for marketing in the US, but was undergoing research in American women. Of these women, nine gave birth to defective infants. This event induced FDA to require notification of investigational use of drugs, which up until this time, had not been required. The result was the Kefauver-Harris Amendment to the Food, Drug, and Cosmetic Act. `
-
-`1962年，人们开始呼吁进行更有力的监管，当时成千上万的婴儿出生时有缺陷，这是由于母亲在怀孕期间服用了沙利度胺。沙利度胺从未在美国获准上市，但是当时在美国女性中正进行临床试验。这些（参加试验的）女性，共有9个生下了有缺陷的婴儿。这次事件导致FDA要求通知药物的研究用途，在当时还没有该项要求。沙利度胺事件最终促成了《科夫沃-哈里斯修正案》的出台。`
-
-`At about the same time, President John F. Kennedy announced the Consumer Bill of Rights in a message to Congress. This Bill of Rights said that people have the right to safety, the right to be informed, the right to choose, and the right to be heard. In the same period, in 1964, the World Medical Association issued the Declaration of Helsinki, and physicians were tasked with embracing this statement: “The health of my patients will be my first consideration.” The declaration has been amended four times, and the Code of Federal Regulations (CFR) has incorporated the basic elements. `
-
-`大约在同一时间，约翰·肯尼迪总统（John F. Kennedy）在致国会的消息中宣布了《消费者权益法案》。这份权利法案称，人们有权享有安全权，知情权，选择权和发表意见的权利。在同一时期，世界医师协会于1964年发布《赫尔辛基宣言》，医生被要求接受这样的声明：我将患者的健康作为我的首要考虑。《宣言》已经修订了四次，联邦法规（CFR）已经包含了其基本要素`
-
-`In 1972, the National Institutes of Health transferred the regulation of biologics to FDA. This was followed by the National Research Act, which created the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. Additional legislation has continued to promote ethical treatment of healthcare recipients. In 1978, FDA published the current Good Manufacturing Practices, 21 CFR Parts 210 and 211. `
-
-`1972年，国立卫生研究院（NIH）将生物制品的监管移交给了FDA。随之而来的是《国家研究法》，该法设立了国家人类医学生物医学和行为研究保护委员会。进一步的立法持续促进医疗保健接受者的道德待遇。1978年，FDA发布了现行的《良好生产规范》（cGMP），21 CFR 210和211部分。`
-
-`In 1988, the FDA became an agency of the Department of Health and Human Services. Since that time, the ICH has been formed. A significant ICH goal is to maintain safeguards on quality, safety, efficacy, and regulatory obligation for the protection of the public. The 1997 Food and Drug Administration Modernization Act reauthorized the Prescription Drug User Fee Act of 1992 and instituted reforms in agency practices. In 1996, medical devices became subject to Quality System Regulation (QSR) 21 CFR Part 820. In 1996, as well, the Department of Health and Human Services enacted HIPAA into law. This provided the forward momentum for broad changes in the healthcare industry, but the specifics of the regulation were still being written. Shortly thereafter, in 1997, 21 CFR Part 11 Electronic Records; Electronic Signatures was enacted. `
-
-`1988年，FDA成为卫生与公共服务部的下属机构。那时，ICH已经成立。 它的一个重要目标就是保护公众，维护（药品）质量，安全性，功效和监管义务方面的保障措施。1997年，《FDA现代化法案》重新授权了1992年的《处方药使用者付费法》（PDUFA，该法案有一项“日落条款”，如果国会不重新授权，它将在五年后失效。每五年必须重新商讨该条款，其中可能包括讨论该机构是否需要更多资金、FDA 是否履行了其承诺、行业是否应该持有不同的期望，或者FDA 是否需要以不同的方式传达其期望。）并改革FDA。1996年，医疗器械成为质量体系法规（QSR）21 CFR 820部分的主体。1996年，卫生与公共服务部也将HIPAA颁布为法律。 这为医疗保健行业的广泛变革提供了前进的动力，但该法规的具体内容仍在撰写中（本书成稿时）。此后不久，在1997年21 CFR 11部分“电子记录与电子签名”发布。`
-
-`The government does not issue laws without forethought. The Office of the Federal Register issues the Federal Register (FR), a weekly disclosure publication that informs citizens of their rights and obligations by providing access to the official text of approved regulations and descriptions of federal organizations, programs, and activities. It also publishes texts of proposed regulations and changes to existing regulations. This gives industry the opportunity to react and share dialog with the government agency that has ownership of the proposal. Reviewers can comment on content and wording, the date the regulation goes into effect, and the penalties for noncompliance. Comments are reviewed in a government forum, and the final text becomes the “final rule.”`
-
-`政府不会在没有深思熟虑的情况下颁布法律。联邦纪事办公室发布《联邦纪事》（FR），这是每周公开的出版物，通过提供已批准法规的正式文本以及对联邦组织，计划和活动的描述，向公民通报其权利和义务。它还公布的法规提案文本及对现行法规的修改。这使业界有机会与拥有提案所有权的政府机构进行反馈并与他们对话。审阅者可以评论内容和措辞，法规生效的日期以及对违规行为的处罚。评论在政府论坛中进行审核，最终文本成为“最终规则”。`
-
-` Once enacted, laws are published in the CFR, issued annually on April 1. Laws are enforceable by the respective divisions within the Department of Health and Human Services. It’s important to note, however, that once a final rule appears in the FR, companies are responsible for instituting compliance. Thus, keeping abreast of the regulations requires constant vigilance. ` 
-
-`（提案）一旦成为法律，将在每年4月1日出版的CFR中发布，具体由卫生和公共服务部内的各个部门执行。不过，请务必注意，一旦最终规则出现在FR中，公司就有责任建立合规性。因此，与法规保持同步需要时刻保持关注。`
-
-`The CFR contains regulations of specific government departments and agencies. The CFR has 50 “Titles,” each assigned to a different unit of government. Title 21, Food and Drugs, contains regulations mandated by FDA. Title 45, Public Welfare, falls under the auspices of the National Institutes of Health (NIH). Each title of the CFR is then divided into chapters, and each chapter is divided into parts and subparts. `
-
-`CFR包含特定政府部门和机构的法规。CFR有50个“主题”，每个主题都分配给不同的政府部门。章节21，食品和药品，包含由FDA执行的法规。章节45，公众福利，由国立卫生研究院（NIH）主持。CFR的每个主题分为若干章节，并将每一章节分为多个部分和子部分`
-
-`Remember, too, that as new regulations are enacted, they do not supersede existing regulations unless the government has rescinded them. New regulations in essence become adjuncts to the ones already in place. Companies must adhere to predicate rules and remain vigilant about industry best practices for compliance.`
-
-`还要记住，新法规颁布后，除非政府取消了旧法规，否则它们不会取代现有法规。从本质上讲，新法规成为现有法规的补充。 公司必须遵守既有规则，并对行业最佳实践时刻保持关注。`
-
-***
-
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Regulatory Evolution in the United States美国的法规演变</b></p>
+<p style='margin-left:1em;'>Laws governing therapeutic product development and marketing have evolved over time with specific laws marking milestones over a period of 100-plus years. The first US federal regulation dates back to 1884 when American soldiers died after ingesting adulterated quinine. As a result of these deaths, the government passed the Drug Importation Act, which required customs inspections on drugs coming from overseas. Then in 1901, The Biologic Control Act became law after 13 children died from a contaminated antitoxin for diphtheria. This act gave the government regulatory power over antitoxin and vaccine development. Shortly after, in 1906, the government passed the Food and Drugs Act to authorize the government to monitor food purity and safety of medicines. </p>
+<p style='margin-left:1em;'>管理治疗产品开发和销售的法律在过去的100年间随着时间不断发展，里程碑就是那些特定的法律。美国第一个联邦法规可以追溯到1884年，当时美国士兵摄取了掺假的奎宁后死亡。因为这些士兵的死亡，政府通过了《药品进口法案》，要求海关对那些来自海外的药品进行检查。1901年，因为13名儿童死于受污染的白喉抗毒素，《生物制品控制法案》成为法律。该法案赋予了政府对抗毒素和疫苗开发的监管权。不久之后，1906年，政府通过了《食品与药品法案》，授权政府对食品的纯度和药品安全性进行监管。</p>
+<p style='margin-left:1em;'>In 1931, the Food and Drugs Act was renamed the Food and Drug Administration. Several other events were significant in developing binding regulations designed to protect humans and animals. The 1932 Tuskegee Study of Untreated Syphilis in the Negro Male, conducted under the auspices of the US Public Health Service, deprived infected men of effective treatment so as not to interrupt the project. Then in 1937, 107 people died after taking “elixir of sulfanilamide,” which turned out to be an antifreeze solution. FDA removed the product from the market, not because it caused fatalities, but because it was mislabeled. In 1938, the government passed the Food, Drug, and Cosmetics Act. This Act expanded the role of FDA to control of cosmetics and devices.</p>
+<p style='margin-left:1em;'>1931年，《食品与药品法案》更名为《食品与药品管理法》。其他几项重大事件对于制定旨在保护人类和动物的约束性法规也很重要。1932年，在美国公共卫生局主持下的塔斯基吉梅毒研究为了避免项目中断，剥夺了黑人受感染男性的有效治疗。（注：塔斯基吉梅毒实验是美国公共卫生局性病部门在1932年至1972年间于阿拉巴马州与当地历史悠久的黑人大学塔斯基吉大学合作，对近399名非洲裔男性梅毒患者及201名健康非洲裔男性所进行的一系列人体试验。这些实验参与者皆为生活贫困的阿拉巴马州梅肯县佃农。该实验以提供免费医疗、餐点、丧葬保险以吸引居民参与实验，也以此目的募集基金。但在经济大萧条导致经费补助中断后，参与者将不再有机会接受任何医学治疗，但研究者仍在未告知参与者的情况下继续进行实验。自始至终，研究者都不曾对罹患梅毒的参与者告知罹患梅毒的实情，而是宣称患者接受的治疗是为了医治败血症，也从不曾施予参与者有效的治疗方式。实验开始之初，梅毒还是无药可医的绝症；但1943年，医学界发现青霉素可有效医治梅毒后，研究人员为了使该实验继续进行，故意不对患者施以有效治疗手段，甚至企图阻止参与实验的梅毒患者接受有效治疗。此实验一直持续在相关领域期刊发表研究报告，少数学者呼吁终止该实验，却遭无视；一直到1972年，实验知情人向大众媒体揭发，该实验才终止。美国政府则迟至1997年才对受害者作出赔偿及公开道歉。）1937年，又有107人因服用磺胺醑剂死亡，最后归结原因为防冻液。（注：即二甘醇，有甜味，可与水混溶，工业上可用作防冻剂。在本次事件中，药剂师哈罗德·沃特金斯用工业溶剂二甘醇代替乙醇和糖，造成358人肾衰竭、107人中毒死亡，其中大部分是儿童。美国联邦法院决定对制药公司罚款26000美元，药剂师沃特金斯在内疚和绝望中自杀。）FDA从市场上移除了该产品，不是因为它造成的死亡，而是因为它的标签错误。（注：根据当时的法律，FDA只能如此处理）1938年，政府通过了《食品、药品和化妆品法案》，该法案将FDA的监管权限扩展到了化妆品和医疗器械。</p>
+<p style='margin-left:1em;'>It was during World War II, however, that experiments were done in large scale on unconsenting humans. The Nuremberg War Crime Trials brought these atrocities to light, and the result was the Nuremberg Code, which cited ten standards for ethical human research. </p>
+<p style='margin-left:1em;'>然而，在二战期间进行了大量未经同意的人体试验。战后，纽伦堡战争罪行审判揭露了这些暴行，并最终形成纽伦堡法典，里面列举了人体研究的十大道德标准。</p>
+<p style='margin-left:1em;'>A wake-up call for even better monitoring came in 1962, when thousands of babies were born with defects, the result of their mothers taking thalidomide while pregnant. The drug had never been approved for marketing in the US, but was undergoing research in American women. Of these women, nine gave birth to defective infants. This event induced FDA to require notification of investigational use of drugs, which up until this time, had not been required. The result was the Kefauver-Harris Amendment to the Food, Drug, and Cosmetic Act. </p>
+<p style='margin-left:1em;'>1962年，人们开始呼吁进行更有力的监管，当时成千上万的婴儿出生时有缺陷，这是由于母亲在怀孕期间服用了沙利度胺。沙利度胺从未在美国获准上市，但是当时在美国女性中正进行临床试验。这些（参加试验的）女性，共有9个生下了有缺陷的婴儿。这次事件导致FDA要求通知药物的研究用途，在当时还没有该项要求。沙利度胺事件最终促成了《科夫沃-哈里斯修正案》的出台。</p>
+<p style='margin-left:1em;'>At about the same time, President John F. Kennedy announced the Consumer Bill of Rights in a message to Congress. This Bill of Rights said that people have the right to safety, the right to be informed, the right to choose, and the right to be heard. In the same period, in 1964, the World Medical Association issued the Declaration of Helsinki, and physicians were tasked with embracing this statement: “The health of my patients will be my first consideration.” The declaration has been amended four times, and the Code of Federal Regulations (CFR) has incorporated the basic elements. </p>
+<p style='margin-left:1em;'>大约在同一时间，约翰·肯尼迪总统（John F. Kennedy）在致国会的消息中宣布了《消费者权益法案》。这份权利法案称，人们有权享有安全权，知情权，选择权和发表意见的权利。在同一时期，世界医师协会于1964年发布《赫尔辛基宣言》，医生被要求接受这样的声明：我将患者的健康作为我的首要考虑。《宣言》已经修订了四次，联邦法规（CFR）已经包含了其基本要素.</p>
+<p style='margin-left:1em;'>In 1972, the National Institutes of Health transferred the regulation of biologics to FDA. This was followed by the National Research Act, which created the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. Additional legislation has continued to promote ethical treatment of healthcare recipients. In 1978, FDA published the current Good Manufacturing Practices, 21 CFR Parts 210 and 211. </p>
+<p style='margin-left:1em;'>1972年，国立卫生研究院（NIH）将生物制品的监管移交给了FDA。随之而来的是《国家研究法》，该法设立了国家人类医学生物医学和行为研究保护委员会。进一步的立法持续促进医疗保健接受者的道德待遇。1978年，FDA发布了现行的《良好生产规范》（cGMP），21 CFR 210和211部分。</p>
+<p style='margin-left:1em;'>In 1988, the FDA became an agency of the Department of Health and Human Services. Since that time, the ICH has been formed. A significant ICH goal is to maintain safeguards on quality, safety, efficacy, and regulatory obligation for the protection of the public. The 1997 Food and Drug Administration Modernization Act reauthorized the Prescription Drug User Fee Act of 1992 and instituted reforms in agency practices. In 1996, medical devices became subject to Quality System Regulation (QSR) 21 CFR Part 820. In 1996, as well, the Department of Health and Human Services enacted HIPAA into law. This provided the forward momentum for broad changes in the healthcare industry, but the specifics of the regulation were still being written. Shortly thereafter, in 1997, 21 CFR Part 11 Electronic Records; Electronic Signatures was enacted. </p>
+<p style='margin-left:1em;'>1988年，FDA成为卫生与公共服务部的下属机构。那时，ICH已经成立。 它的一个重要目标就是保护公众，维护（药品）质量，安全性，功效和监管义务方面的保障措施。1997年，《FDA现代化法案》重新授权了1992年的《处方药使用者付费法》（PDUFA，该法案有一项“日落条款”，如果国会不重新授权，它将在五年后失效。每五年必须重新商讨该条款，其中可能包括讨论该机构是否需要更多资金、FDA 是否履行了其承诺、行业是否应该持有不同的期望，或者FDA 是否需要以不同的方式传达其期望。）并改革FDA。1996年，医疗器械成为质量体系法规（QSR）21 CFR 820部分的主体。1996年，卫生与公共服务部也将HIPAA颁布为法律。 这为医疗保健行业的广泛变革提供了前进的动力，但该法规的具体内容仍在撰写中（本书成稿时）。此后不久，在1997年21 CFR 11部分“电子记录与电子签名”发布。</p>
+<p style='margin-left:1em;'>The government does not issue laws without forethought. The Office of the Federal Register issues the Federal Register (FR), a weekly disclosure publication that informs citizens of their rights and obligations by providing access to the official text of approved regulations and descriptions of federal organizations, programs, and activities. It also publishes texts of proposed regulations and changes to existing regulations. This gives industry the opportunity to react and share dialog with the government agency that has ownership of the proposal. Reviewers can comment on content and wording, the date the regulation goes into effect, and the penalties for noncompliance. Comments are reviewed in a government forum, and the final text becomes the “final rule.”</p>
+<p style='margin-left:1em;'>政府不会在没有深思熟虑的情况下颁布法律。联邦纪事办公室发布《联邦纪事》（FR），这是每周公开的出版物，通过提供已批准法规的正式文本以及对联邦组织，计划和活动的描述，向公民通报其权利和义务。它还公布的法规提案文本及对现行法规的修改。这使业界有机会与拥有提案所有权的政府机构进行反馈并与他们对话。审阅者可以评论内容和措辞，法规生效的日期以及对违规行为的处罚。评论在政府论坛中进行审核，最终文本成为“最终规则”。</p>
+<p style='margin-left:1em;'>Once enacted, laws are published in the CFR, issued annually on April 1. Laws are enforceable by the respective divisions within the Department of Health and Human Services. It’s important to note, however, that once a final rule appears in the FR, companies are responsible for instituting compliance. Thus, keeping abreast of the regulations requires constant vigilance. </p>
+<p style='margin-left:1em;'>（提案）一旦成为法律，将在每年4月1日出版的CFR中发布，具体由卫生和公共服务部内的各个部门执行。不过，请务必注意，一旦最终规则出现在FR中，公司就有责任建立合规性。因此，与法规保持同步需要时刻保持关注。</p>
+<p style='margin-left:1em;'>The CFR contains regulations of specific government departments and agencies. The CFR has 50 “Titles,” each assigned to a different unit of government. Title 21, Food and Drugs, contains regulations mandated by FDA. Title 45, Public Welfare, falls under the auspices of the National Institutes of Health (NIH). Each title of the CFR is then divided into chapters, and each chapter is divided into parts and subparts. </p>
+<p style='margin-left:1em;'>CFR包含特定政府部门和机构的法规。CFR有50个“主题”，每个主题都分配给不同的政府部门。章节21，食品和药品，包含由FDA执行的法规。章节45，公众福利，由国立卫生研究院（NIH）主持。CFR的每个主题分为若干章节，并将每一章节分为多个部分和子部分</p>
+<p style='margin-left:1em;'>Remember, too, that as new regulations are enacted, they do not supersede existing regulations unless the government has rescinded them. New regulations in essence become adjuncts to the ones already in place. Companies must adhere to predicate rules and remain vigilant about industry best practices for compliance.</p>
+<p style='margin-left:1em;'>还要记住，新法规颁布后，除非政府取消了旧法规，否则它们不会取代现有法规。从本质上讲，新法规成为现有法规的补充。 公司必须遵守既有规则，并对行业最佳实践时刻保持关注。</p>
+</span>
+</div>
 ### Document, Document, Document 文件，文件，文件
 Documents work with each other either concurrently or in tandem. Documents tell how things happen on a regular basis and present a “big picture” of a company’s operations, usually in standard operating procedures (SOPs), quality manuals, plans, and other such documents. Documents such as protocols and proposals tell what the company plans to do. Ongoing assessment and data recording occurs as activities progress. Process reports give the results of projects. Finally, summary reports bring it all together — what is the outcome of a significant set of activities?
 
@@ -122,15 +99,11 @@ company keeps the product records at least two years beyond the shelf life of th
 
 如果该产品通过临床试验，公司将（向管理当局）申请批准生产和销售该产品。在此过程中的每一步（很容易花费十年时间），文档都会记录发生的情况。产品上市后，将继续保持记录，并且进行稳定性研究确认在产品有效期内持续（发挥）效力。必须（对产品）进行仔细且连续的监控，如果产品失去功效或存在其他问题，则公司可能会发出现场警示或召回产品。公司需要将产品记录保存到产品本身有效期到期后至少两年。
 
-***
-
-`Companies need to keep extensive records of everything they do, whether it becomes part of the final product development or not. They need to know what didn’t work so they don’t go down the same road twice.
-John Cline, Ph.D.`
-
-`无论(工作）是否成为最终产品开发的一部分，公司都必须保留所做工作的详尽记录。 他们需要知道哪些方法无效，这样他们就不会在同一地方跌倒两次。
-约翰·克莱恩博士`
-
-***
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<p style='margin-top:1em; text-align:justify'>Companies need to keep extensive records of everything they do, whether it becomes part of the final product development or not. They need to know what didn’t work so they don’t go down the same road twice.</p>
+<p style=margin-top:lem;text-align:justify>无论(工作）是否成为最终产品开发的一部分，公司都必须保留所做工作的详尽记录。 他们需要知道哪些方法无效，这样他们就不会在同一地方跌倒两次。</p>
+    <p style=margin-top:lem;text-align:right>——John Cline, Ph.D. 约翰·克莱恩博士</p>
+</div>
 
 Companies must show their control of systems, processes, and products in documentation. This means self-monitoring and assessment, as well as change management. There is no “magic formula” for documentation for all companies, but the common denominator is this: Companies must have controls in place, and they must have records of what they do, have done, and plan to do.
 
@@ -230,78 +203,72 @@ Standardized formats also make documents easier to write and process for most co
 Document control staff should be able to identify the location of a document in a system at any given time. Staff may also write documents relative to their area or serve in the review process. They may have license to make mechanical, but not content, changes before final approval. Once a document receives final approval, through either a series of review cycles or a concurrence meeting, document control staff should issue the document with no further change. The group should also retrieve previous versions of documents, if any, and provide a history of the document’s development. Document control involves exhaustive attention to detail but does not infringe on the integrity of the documents.
 
 负责文档管理的工作人员应该在任何给定的时刻都能确定文档在系统中的位置。工作人员也可以编写与他们领域相关的文档或者参与审查过程。在文档被正式批准之前，他们有权限去进行格式化而非内容的修改。一旦文件通过一系列的审查或同意会议得到最终批准，文件控制人员应发布该文件，不得进一步更改。该小组还应该收回以前版本的文档（如果有的话），并提供文档演变的历史。文件控制涉及对细节的详尽关注，但不违背文件的完整性。
-### The Writing Task
+### The Writing Task 写作任务
 
 Writing is hard work, and it is high on the list of what people hate to do most. For many, it’s an intimidating task. In regulated industries this can be especially true: You may find yourself in the position of having to document what has happened, what happens regularly, what will happen. Regardless of the focus, writing always requires accuracy, attention to detail, and clarity.
 
+写作是一项艰苦的工作，而且它是人们最不喜欢做的事情之一。对许多人来说，写作是一项令人望而却步的任务。在受管制的行业中，这一点尤为明显：您可能会发现自己需要记录已经发生的事情、定期发生的事情以及将要发生的事情。无论写作的焦点是什么，准确性、细节关注和清晰度都是不可或缺的。
+
 In this industry, few people write in solitary. You may be called upon to prepare a report, write a technical memo, review any number of documents, draft a report that requires the participation of several people, or compile information from many sources as a basis of study. How you tackle these tasks requires some foresight. Understanding the writing project you are about to undertake is the place to begin. You may be the primary author of an SOP, a collaborative author of a dossier, or one of several authors involved in a project such as a facilities validation. You may be the primary author of an activity, such as an audit, that requires a bevy of writing to reach a conclusion. (See the text box Put It in Writing.)
 
-***
+在这个行业中，很少有人独自写作。您可能需要准备报告、撰写技术备忘录、审查各种文件、起草需要多人参与的报告，或者根据多个信息来源编制研究基础。如何应对这些任务需要有一定的远见。了解即将承担的写作项目是开始的地方。您可能是标准操作程序（SOP）的主要作者，是一份档案的合作作者，或者是参与项目（如设施验证）的几位作者之一。您可能是一项活动（如审计）的主要作者，需要进行大量的写作工作以得出结论。（见文本框《书面表达》。）
 
-#### `Put It in Writing`
-`A good audit report results from good planning. Each audit should have a record of activities, from the decision to audit through the audit review. Each step of the process requires writing it down. Here’s a sequence that helps ensure each audit a company conducts gives optimal results.`
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+    <p style='margin-top:1em; text-align:center'><b>Put It in Writing 书面表达</b></p>
+    <p style='margin-top:1em; text-align:justify'>A good audit report results from good planning. Each audit should have a record of activities, from the decision to audit through the audit review. Each step of the process requires writing it down. Here’s a sequence that helps ensure each audit a company conducts gives optimal results.<br>良好的审计报告源于良好的计划。每次审计都应有活动记录，从决定进行审计到审计回顾。过程的每一步都需要将其写下来。下面是一种确保公司进行的每次审计都能达到最佳结果的顺序。</p>
+    <p style='margin-top:1em; text-align:justify'>
+        1. Determine what the customer wants 确定客户的需求<br>
+　　• Internal audit to determine GMP compliance 内部审计以确定GMP合规性<br>
+　　• Focused audit of manufacturing process to determine compliance gaps or reason for a nonconformance 针对制造过程的重点审计，以确定合规性差距或不符合要求的原因<br>
+　　• Supplier audit to determine suitability 供应商审计以确定适宜性<br>
+　　• Manufacturing record audit for errors, omissions, deviations 对制造记录进行审计，以发现错误、遗漏和偏差<br>
+　　• Stability data for a product 产品的稳定性数据<br>
+   2. Determine the audit scope 确定审计范围<br>
+　　• An entire company 整个公司<br>
+　　• One department within the company 公司内的一个部门<br>
+　　• Manufacturing records of a defined time or product 定义的时间或产品的制造记录<br>
+　　• All product packaging operations for one week 一周内所有产品包装操作<br>
+   3. Determine the type of audit 确定审计类型<br>
+　　• Planned inspection 计划检查<br>
+　　• Unannounced inspection 未事先通知的检查<br>
+　　• Document desk audit 文件桌面审计<br>
+   4. Determine the governing documents 确定相关文件<br>
+　　• FDA regulations FDA法规<br>
+　　• ISO standards ISO标准<br>
+　　• Corporate procedures 公司规程<br>
+　　• OSHA standards OSHA标准<br>
+　　• Departmental procedures and required documentation 部门规程和必要文件<br>
+　　• Process maps and diagrams 流程图和示意图<br>
+   5. Determine who to interview 确定应该进行面谈的人员<br>
+　　• Employees conducting the process 进行该工艺的员工<br>
+　　• Newly hired employees 新招聘的员工<br>
+　　• Department managers 部门经理<br>
+　　• All nightshift analysts conducting stability testing 所有进行稳定性测试的夜班分析员<br>
+   6. Determine a statistical sample size 确定统计样本大小<br>
+　　• How many lots are manufactured in one week, month, year 一周、一个月、一年内制造了多少批次<br>
+　　• How many complaint files in the past three months 过去三个月的投诉文件数量<br>
+　　• How many employees in the company 公司有多少员工<br>
+   7. Determine the audit duration if not predetermined 如未预先确定，确定审计持续时间<br>
+   8. Conduct the audit 进行审计<br>
+　　• Know what should happen 知道应该发生什么<br>
+　　• Observe what is happening 观察正在发生的事情<br>
+　　• Verify what happened through documentation 通过文档验证发生了什么<br>
+   9. Meet with audited groups to confirm deficiencies and observations to eliminate misunderstandings and auditing errors 与被审计组会面，确认缺陷和观察结果，消除误解和审计错误<br>
+   10. Write the report 撰写审计报告<br>
+   11. Report the findings to the original customers and auditees 将发现报告给最初的客户和被审计方<br>
+   12. Review corrective and preventive action plans 审查纠正和预防措施计划<br>
+13. Follow-up on the effectiveness of corrective action plans after implementation 在实施后跟进纠正措施计划的有效性</p>
+   <p style='margin-top:1em; text-align:right'><b>Courtesy of Monica Grimaldi, Certified Quality Engineer</b></p>
 
-1. `Determine what the customer wants
-   • Internal audit to determine GMP compliance
-   • Focused audit of manufacturing process to determine compliance gaps or reason for a nonconformance
-   • Supplier audit to determine suitability
-   • Manufacturing record audit for errors, omissions, deviations
-   • Stability data for a product`
-   
-2. `Determine the audit scope
-   • An entire company
-   • One department within the company
-   • Manufacturing records of a defined time or product
-   • All product packaging operations for one week`
 
-3. `Determine the type of audit
-   • Planned inspection
-   • Unannounced inspection
-   • Document desk audit`
-
-4. `Determine the governing documents
-   • FDA regulations
-   • ISO standards
-   • Corporate procedures
-   • OSHA standards
-   • Departmental procedures and required documentation
-   • Process maps and diagrams`
-
-5. `Determine who to interview
-   • Employees conducting the process
-   • Newly hired employees
-   • Department managers
-   • All nightshift analysts conducting stability testing`
-
-6. `Determine a statistical sample size
-   • How many lots are manufactured in one week, month, year
-   • How many complaint files in the past three months
-   • How many employees in the company`
-
-7. `Determine the audit duration if not predetermined`
-
-8. `Conduct the audit
-   • Know what should happen
-   • Observe what is happening
-   • Verify what happened through documentation`
-
-9. `Meet with audited groups to confirm deficiencies and observations to eliminate misunderstandings and auditing errors`
-
-10. `Write the report`
-
-11. `Report the findings to the original customers and auditees`
-
-12. `Review corrective and preventive action plans`
-
-13. `Follow-up on the effectiveness of corrective action plans after implementation`
-
-`Courtesy of Monica Grimaldi, Certified Quality Engineer`
-
-***
 
 The good news is that for many types of writing there are clear guidelines. For writing documents such as SOPs, you need to look to the company standards; the same holds true for validation documents. For other types of writing, you can look to the regulations, industry practices, and government issued guidances. Consider for instance, preparing a Chemistry, Manufacturing, and Controls (CMC) section of a submission for approval to market a solid-dose drug product. How will what you are to write fit into the big picture? The guideline for CMC breaks down the components into manageable groupings of information including (1) the drug substance, (2) the drug product, (3) methods validation, and (4) environmental assessment. Within each of these groupings are subgroupings. You can thus prepare components of each and assemble them accordingly. Of course, you’ll have to do your homework first. Make sure you fully understand what it is that you have to say.
 
+好消息是，在许多类型的写作中都有明确的指导方针。对于编写SOP等文件，您需要遵循公司的标准；对于验证文件也是如此。对于其他类型的写作，您可以参考法规、行业实践和政府发布的指南。例如，考虑准备固体剂型药物市场批准提交的化学、制造和控制（CMC）部分。您将要写的内容如何与整体情况相契合？CMC的指南将这些组成部分分解为可管理的信息组合，包括（1）药物物质，（2）药物产品，（3）方法验证和（4）环境评估。在每个组合中还有子组合。因此，您可以准备每个组合的组成部分，然后进行组合。当然，在此之前您需要进行功课。确保您充分理解自己要表达的内容。
+
 The preliminary work can be tedious, to be sure, but starting the actual writing is usually the toughest part. Many people complain of “writer’s block,” or the inability to get words down on paper. If you suffer from bouts of writer’s block, there are some steps you can take to overcome these down periods. See the following.
+
+的确，初期的准备工作可能很乏味，但实际开始写作通常是最困难的部分。许多人抱怨遭遇“写作障碍”，即无法将思绪转化为文字。如果您遇到写作障碍，可以采取一些步骤来克服这些低潮期。请参考以下建议。
 
 ***
 
