@@ -270,45 +270,52 @@ The preliminary work can be tedious, to be sure, but starting the actual writing
 
 的确，初期的准备工作可能很乏味，但实际开始写作通常是最困难的部分。许多人抱怨遭遇“写作障碍”，即无法将思绪转化为文字。如果您遇到写作障碍，可以采取一些步骤来克服这些低潮期。请参考以下建议。
 
-***
-
-`Arnold Melnick, author of Melnick on Writing, a column in the AMWA Journal, the publication of the American Medical Writers Association, offers five questions to help writers understand their writing patterns.`
-
-#### `Only You Can Solve Your Writer’s Block`
-`Writer’s block is the “temporary inability by a writer to put words on a page.” It’s a common experience for writers, but there are things you can do about it. Answering five simple questions accurately and intelligently can provide an answer to this affliction.`
-
-1. `Do you struggle vainly to “write” something instead of communicating information or ideas to the reader?
-According to Joel Saltzman, author of If You Can Talk, You Can Write, write anything as though you are talking to a friend. Write whatever words might be associated with your document, without pausing to criticize or edit. Intersperse it with whatever random thoughts come to your mind. Then, edit and edit carefully. Good writing is good editing. Very few writers can get their desired effect in the first draft. For writers, how they edit determines whether the writing is good or not.`
-
-2. `Do you know your own patterns of creativity?
-    What are the most favorable work conditions for you? Do you write best early in the morning, late in the day, or at night? Do you do better work with a dish of candy next to your computer or while
-    abstaining from sweets? Do you work better alone or with people nearby? To get the most out of your writing, observe and respect your own personal idiosyncrasies. They guide creativity — or at least they don’t block it.`
-
-3. `Do you work best with notes or without notes?
-    Writers work in different patterns. Some do better with copious notes, others with outlines, others with sketchy notes, and still others without any notes at all. In some cases, writers do better using notes for factual documents (as in reporting data) and without notes for less concrete material (as in light correspondence) — or vice versa. People have different patterns of behavior for different types of writing.`
-
-4. `Is your problem ideas or words?
-    If your difficulty is in ideas, it means that you have no concept of how to get where you want to go. In such a case, here are two recommendations. First, just scribble some notes or words about your idea and about your concepts. Later on, you can flesh out these notes. Second, handwrite some of your thoughts because in the extra time it takes to write out concepts you will probably be able to fill in some of the creative thoughts you had in the first place. `
-
-  `If your difficulty is in words, it means that you know what you want to say, but can’t quite say it. One of the better ways to approach this difficulty is to determine which section of the document you are most sure of, then write it first, even if it is out of order.Everything does not have to be written in sequence.`
-
-  `A second approach is to write down a few of the key words of your document and then expand them by word association. For example, if you are writing a report on a meeting, you might jot down “meeting,” “election,” “conference room,” and “Tuesday morning.” You can then add other words to each of those original words until you have sketched an outline that will permit you to start writing. Next, add material to it. Remember, you can edit out all the extraneous material.`
-
-5. `Are you a procrastinator?`
-    `Procrastination may well be a genetic thing: some people are procrastinators,  some are not, and some swing back and forth. What is  important is that each writer recognize personal patterns of procrastination.  When given a task, do you attack it immediately, or almost  immediately, regardless of when the deadline is or what the import?  Or, no matter how serious the job, do you put it off until almost the  last minute? Look at how you shop. Look at how you pay bills. Look  at how you study for examinations. Good examples, all. Examine  your behavior in writing situations and determine whether or not  — or how much — you are a procrastinator.`
-
-  `Here’s a recommendation to help procrastinators: sit and sit and sit. Station yourself in front of your computer and do not yield to the temptation to get up and walk around or do anything else. Stay seated for a reasonable period until your thoughts start to flow. Others recommend two other approaches. Interestingly, they are opposites. Some experts say start with the most difficult task and get it out of the way, noting that the rest will then be easier. Others recommend the reverse: start with the easiest things because they can be done quickly, and then gradually work your way up to the
-  most difficult task. Meanwhile, you will already have written much of the work. Still another recommendation is to “take five.” Walk around the building, take a short coffee break, do some deep breathing. But, if you “get away” like this, try not to substitute something you enjoy, such as eating ice cream. In essence, don’t reward behavior that you shouldn’t encourage.`
-
-  `It’s also wise to get a sounding board if you have difficulty organizing your thoughts or words. Use a dictating machine, or find a colleague who will act as a sounding board so you can tell what you want to say. You will then probably have created your own first rough draft. This process ties in with natural law that you can talk or dictate about ten times as fast as you can write, so when an idea strikes your brain you can record it in a shorter period of time by speaking, losing far less of the thought. Then transcribe what you’ve said.`
-
-  `In essence, to get rid of writer’s block, or at least reduce it, study your own style of writing and your own personality. Once you understand yourself, you will be well on the way. Stay with who you are, and you will be rewarded.`
-
-  `Excerpted from KYOS—Five Easy Questions to Erase Your Writer’s Block, the AMWA Journal, Vol. 17, No. 1, 2002.`
-  `Courtesy of Arnold Melnick`
-
-***
-
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+    Arnold Melnick, author of Melnick on Writing, a column in the AMWA Journal, the publication of the American Medical Writers Association, offers five questions to help writers understand their writing patterns.
+    <center><b>Only You Can Solve Your Writer’s Block</b></center>
+    Writer’s block is the “temporary inability by a writer to put words on a page.” It’s a common experience for writers, but there are things you can do about it. Answering five simple questions accurately and intelligently can provide an answer to this affliction.
+    <p>1. Do you struggle vainly to “write” something instead of communicating information or ideas to the reader?</p>
+    <p>
+         According to Joel Saltzman, author of If You Can Talk, You Can Write, write anything as though you are talking to a friend. Write whatever words might be associated with your document, without pausing to criticize or edit. Intersperse it with whatever random thoughts come to your mind. Then, edit and edit carefully. Good writing is good editing. Very few writers can get their desired effect in the first draft. For writers, how they edit determines whether the writing is good or not.
+    </p>
+    <p>
+        2.Do you know your own patterns of creativity?
+    </p>
+    <p>
+What are the most favorable work conditions for you? Do you write best early in the morning, late in the day, or at night? Do you do better work with a dish of candy next to your computer or while
+abstaining from sweets? Do you work better alone or with people nearby? To get the most out of your writing, observe and respect your own personal idiosyncrasies. They guide creativity — or at least they don’t block it.
+    </p>
+    <p>
+        3.Do you work best with notes or without notes?</p>
+<p>
+Writers work in different patterns. Some do better with copious notes, others with outlines, others with sketchy notes, and still others without any notes at all. In some cases, writers do better using notes for factual documents (as in reporting data) and without notes for less concrete material (as in light correspondence) — or vice versa. People have different patterns of behavior for different types of writing.
+    </p>
+    <p>
+        3.Is your problem ideas or words?</p>
+<p>
+    If your difficulty is in ideas, it means that you have no concept of how to get where you want to go. In such a case, here are two recommendations. First, just scribble some notes or words about your idea and about your concepts. Later on, you can flesh out these notes. Second, handwrite some of your thoughts because in the extra time it takes to write out concepts you will probably be able to fill in some of the creative thoughts you had in the first place. 
+</p>
+<p>
+    If your difficulty is in words, it means that you know what you want to say, but can’t quite say it. One of the better ways to approach this difficulty is to determine which section of the document you are most sure of, then write it first, even if it is out of order.Everything does not have to be written in sequence.</p>
+<p>
+    A second approach is to write down a few of the key words of your document and then expand them by word association. For example, if you are writing a report on a meeting, you might jot down “meeting,” “election,” “conference room,” and “Tuesday morning.” You can then add other words to each of those original words until you have sketched an outline that will permit you to start writing. Next, add material to it. Remember, you can edit out all the extraneous material.
+    </p>
+    <p>
+        5. Are you a procrastinator?</p>
+   <p>
+       Procrastination may well be a genetic thing: some people are procrastinators,  some are not, and some swing back and forth. What is  important is that each writer recognize personal patterns of procrastination.  When given a task, do you attack it immediately, or almost  immediately, regardless of when the deadline is or what the import?  Or, no matter how serious the job, do you put it off until almost the  last minute? Look at how you shop. Look at how you pay bills. Look  at how you study for examinations. Good examples, all. Examine  your behavior in writing situations and determine whether or not  — or how much — you are a procrastinator.</p>
+<p>
+    Here’s a recommendation to help procrastinators: sit and sit and sit. Station yourself in front of your computer and do not yield to the temptation to get up and walk around or do anything else. Stay seated for a reasonable period until your thoughts start to flow. Others recommend two other approaches. Interestingly, they are opposites. Some experts say start with the most difficult task and get it out of the way, noting that the rest will then be easier. Others recommend the reverse: start with the easiest things because they can be done quickly, and then gradually work your way up to the most difficult task. Meanwhile, you will already have written much of the work. Still another recommendation is to “take five.” Walk around the building, take a short coffee break, do some deep breathing. But, if you “get away” like this, try not to substitute something you enjoy, such as eating ice cream. In essence, don’t reward behavior that you shouldn’t encourage.</p>
+<p>
+    It’s also wise to get a sounding board if you have difficulty organizing your thoughts or words. Use a dictating machine, or find a colleague who will act as a sounding board so you can tell what you want to say. You will then probably have created your own first rough draft. This process ties in with natural law that you can talk or dictate about ten times as fast as you can write, so when an idea strikes your brain you can record it in a shorter period of time by speaking, losing far less of the thought. Then transcribe what you’ve said.</p>
+<p>
+    In essence, to get rid of writer’s block, or at least reduce it, study your own style of writing and your own personality. Once you understand yourself, you will be well on the way. Stay with who you are, and you will be rewarded.</p>
+<p>
+    Excerpted from KYOS—Five Easy Questions to Erase Your Writer’s Block, the AMWA Journal, Vol. 17, No. 1, 2002.</p>
+<p>
+    Courtesy of Arnold Melnick`
+    </p>
+</div>
 ### Writing and Revising
 
 ***
