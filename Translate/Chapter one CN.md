@@ -84,7 +84,7 @@ Managing the regulatory maze is not easy. Yet keeping abreast of the regulations
 <p style='margin-left:1em;'>还要记住，新法规颁布后，除非政府取消了旧法规，否则它们不会取代现有法规。从本质上讲，新法规成为现有法规的补充。 公司必须遵守既有规则，并对行业最佳实践时刻保持关注。</p>
 </span>
 </div>
-### Document, Document, Document 文件，文件，文件
+### Document, Document, Document 文件，文件，还是文件
 Documents work with each other either concurrently or in tandem. Documents tell how things happen on a regular basis and present a “big picture” of a company’s operations, usually in standard operating procedures (SOPs), quality manuals, plans, and other such documents. Documents such as protocols and proposals tell what the company plans to do. Ongoing assessment and data recording occurs as activities progress. Process reports give the results of projects. Finally, summary reports bring it all together — what is the outcome of a significant set of activities?
 
 文件可以同时或串联在一起工作。文件会定期说明事情的发生方式，并通常通过标准操作程序（SOP），质量手册，计划和其他此类文件来呈现公司运营的“全景”。方案和提议之类的文件说明了公司计划采取的措施。随着活动的进行，持续进行评估和数据记录。 过程报告给出了项目的结果。最后，汇总报告将所有内容汇总在一起-一系列重要活动的结果是什么？
@@ -272,131 +272,172 @@ The preliminary work can be tedious, to be sure, but starting the actual writing
 
 <div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
     Arnold Melnick, author of Melnick on Writing, a column in the AMWA Journal, the publication of the American Medical Writers Association, offers five questions to help writers understand their writing patterns.
-    <center><b>Only You Can Solve Your Writer’s Block</b></center>
-    Writer’s block is the “temporary inability by a writer to put words on a page.” It’s a common experience for writers, but there are things you can do about it. Answering five simple questions accurately and intelligently can provide an answer to this affliction.
-    <p>1. Do you struggle vainly to “write” something instead of communicating information or ideas to the reader?</p>
+<p>
+    Arnold Melnick是《Melnick on Writing》一书的作者，该书是美国医学作家协会（AMWA）期刊《AMWA Journal》上的专栏。他提出了五个问题，帮助作家了解他们的写作模式。
+    </p>
+    <center><b>Only You Can Solve Your Writer’s Block 只有你能解决写作障碍</b></center>
+    Writer’s block is the “temporary inability by a writer to put words on a page.” It’s a common experience for writers, but there are things you can do about it. Answering five simple questions accurately and intelligently can provide an answer to this affliction.<br>
+    写作障碍是指作家在一段时间内无法将文字写在纸上的临时困难。这是作家常见的经历，但你可以采取一些措施来解决它。准确而明智地回答五个简单的问题可以找到应对这一困扰的答案。
+    <p>1. Do you struggle vainly to “write” something instead of communicating information or ideas to the reader?<br>你是否徒劳地努力“写作”，而不是向读者传达信息或思想？</p>
     <p>
-         According to Joel Saltzman, author of If You Can Talk, You Can Write, write anything as though you are talking to a friend. Write whatever words might be associated with your document, without pausing to criticize or edit. Intersperse it with whatever random thoughts come to your mind. Then, edit and edit carefully. Good writing is good editing. Very few writers can get their desired effect in the first draft. For writers, how they edit determines whether the writing is good or not.
+         According to Joel Saltzman, author of If You Can Talk, You Can Write, write anything as though you are talking to a friend. Write whatever words might be associated with your document, without pausing to criticize or edit. Intersperse it with whatever random thoughts come to your mind. Then, edit and edit carefully. Good writing is good editing. Very few writers can get their desired effect in the first draft. For writers, how they edit determines whether the writing is good or not.<br>
+        根据乔尔·索尔兹曼（Joel Saltzman）在《如果你能说话，你就能写作》一书中的说法，以与朋友交谈的方式来写作。随意写下与你的文档相关的任何词语，不要停下来批评或编辑。在其中穿插你脑海中出现的任何随机想法。然后进行仔细的编辑和修订。优秀的写作来自于良好的编辑。很少有作家能在第一稿中达到他们想要的效果。对于作家来说，他们如何进行编辑决定了写作的好坏。
     </p>
     <p>
-        2.Do you know your own patterns of creativity?
+        2.Do you know your own patterns of creativity?<br>
+        你了解自己的创造力模式吗？
     </p>
     <p>
 What are the most favorable work conditions for you? Do you write best early in the morning, late in the day, or at night? Do you do better work with a dish of candy next to your computer or while
-abstaining from sweets? Do you work better alone or with people nearby? To get the most out of your writing, observe and respect your own personal idiosyncrasies. They guide creativity — or at least they don’t block it.
+abstaining from sweets? Do you work better alone or with people nearby? To get the most out of your writing, observe and respect your own personal idiosyncrasies. They guide creativity — or at least they don’t block it.<br>
+        对你来说，最有利的工作条件是什么？你是在早上、晚上还是夜晚时写作效果最好？你是在电脑旁边放一碟糖果的情况下工作得更好，还是在不吃甜食的情况下更出色？你是独自工作还是与周围的人一起工作效果更好？为了充分发挥你的写作能力，观察并尊重自己的个人特点。它们指导着创造力，或者至少不会阻碍它。
     </p>
     <p>
-        3.Do you work best with notes or without notes?</p>
+        3.Do you work best with notes or without notes?<br>
+    你是更适合带着笔记工作还是不带笔记工作？</p>
 <p>
-Writers work in different patterns. Some do better with copious notes, others with outlines, others with sketchy notes, and still others without any notes at all. In some cases, writers do better using notes for factual documents (as in reporting data) and without notes for less concrete material (as in light correspondence) — or vice versa. People have different patterns of behavior for different types of writing.
+Writers work in different patterns. Some do better with copious notes, others with outlines, others with sketchy notes, and still others without any notes at all. In some cases, writers do better using notes for factual documents (as in reporting data) and without notes for less concrete material (as in light correspondence) — or vice versa. People have different patterns of behavior for different types of writing.<br>
+    写作者的工作模式各不相同。有些人在撰写时需要大量的笔记，有些人则需要提纲，还有一些人只需要简单的笔记，还有些人则完全不需要任何笔记。在某些情况下，撰写事实性文件（如报告数据）时使用笔记效果更好，而在撰写较为抽象的材料（如轻松的通信）时则不需要笔记，或者反之亦然。对于不同类型的写作，人们具有不同的行为模式。
     </p>
     <p>
-        3.Is your problem ideas or words?</p>
+        3.Is your problem ideas or words?<br>
+    你的问题是创意还是用词？</p>
 <p>
-    If your difficulty is in ideas, it means that you have no concept of how to get where you want to go. In such a case, here are two recommendations. First, just scribble some notes or words about your idea and about your concepts. Later on, you can flesh out these notes. Second, handwrite some of your thoughts because in the extra time it takes to write out concepts you will probably be able to fill in some of the creative thoughts you had in the first place. 
+    If your difficulty is in ideas, it means that you have no concept of how to get where you want to go. In such a case, here are two recommendations. First, just scribble some notes or words about your idea and about your concepts. Later on, you can flesh out these notes. Second, handwrite some of your thoughts because in the extra time it takes to write out concepts you will probably be able to fill in some of the creative thoughts you had in the first place. <br>
+    如果你在创意方面遇到困难，这意味着你不知道如何实现你的目标。在这种情况下，我有两个建议。首先，简单地写下关于你的想法和概念的一些笔记或词语。稍后你可以进一步完善这些笔记。其次，手写一些你的想法，因为在写下概念时，你可能能够填补一开始就有的一些创造性思维。
 </p>
 <p>
-    If your difficulty is in words, it means that you know what you want to say, but can’t quite say it. One of the better ways to approach this difficulty is to determine which section of the document you are most sure of, then write it first, even if it is out of order.Everything does not have to be written in sequence.</p>
+    If your difficulty is in words, it means that you know what you want to say, but can’t quite say it. One of the better ways to approach this difficulty is to determine which section of the document you are most sure of, then write it first, even if it is out of order.Everything does not have to be written in sequence.<br>
+    如果你在用词方面遇到困难，这意味着你知道自己想要表达什么，但却无法准确表达出来。解决这个困难的较好方法之一是确定你最确定的文件部分，然后首先写下它，即使它不按顺序。并不是每件事都必须按顺序写。</p>
 <p>
-    A second approach is to write down a few of the key words of your document and then expand them by word association. For example, if you are writing a report on a meeting, you might jot down “meeting,” “election,” “conference room,” and “Tuesday morning.” You can then add other words to each of those original words until you have sketched an outline that will permit you to start writing. Next, add material to it. Remember, you can edit out all the extraneous material.
+    A second approach is to write down a few of the key words of your document and then expand them by word association. For example, if you are writing a report on a meeting, you might jot down “meeting,” “election,” “conference room,” and “Tuesday morning.” You can then add other words to each of those original words until you have sketched an outline that will permit you to start writing. Next, add material to it. Remember, you can edit out all the extraneous material.<br>
+    第二种方法是先写下你的文件中的几个关键词，然后通过联想来扩展它们。例如，如果你正在撰写一份会议报告，你可以记下“会议”、“选举”、“会议室”和“星期二早上”。然后，你可以为每个关键词添加其他词汇，直到你勾勒出一个可以开始写作的大纲。接下来，添加内容。记住，你可以编辑掉所有多余的材料。
     </p>
     <p>
-        5. Are you a procrastinator?</p>
+        5. Are you a procrastinator?<br>
+    你是个拖延症患者吗？</p>
    <p>
-       Procrastination may well be a genetic thing: some people are procrastinators,  some are not, and some swing back and forth. What is  important is that each writer recognize personal patterns of procrastination.  When given a task, do you attack it immediately, or almost  immediately, regardless of when the deadline is or what the import?  Or, no matter how serious the job, do you put it off until almost the  last minute? Look at how you shop. Look at how you pay bills. Look  at how you study for examinations. Good examples, all. Examine  your behavior in writing situations and determine whether or not  — or how much — you are a procrastinator.</p>
+       Procrastination may well be a genetic thing: some people are procrastinators,  some are not, and some swing back and forth. What is  important is that each writer recognize personal patterns of procrastination.  When given a task, do you attack it immediately, or almost  immediately, regardless of when the deadline is or what the import?  Or, no matter how serious the job, do you put it off until almost the  last minute? Look at how you shop. Look at how you pay bills. Look  at how you study for examinations. Good examples, all. Examine  your behavior in writing situations and determine whether or not  — or how much — you are a procrastinator.<br>
+    拖延可能是一种遗传特征：有些人容易拖延，有些人不会，还有一些人在两者之间徘徊。重要的是每个写作者都要认识到自己的拖延习惯。当面临任务时，你是立即着手完成，不论截止日期是什么时候或者任务的重要性如何？还是无论任务有多重要，你总是拖到最后一刻才开始？看看你购物的方式，看看你支付账单的方式，看看你备考考试的方式。这些都是很好的例子。检视你在写作情境中的行为，确定自己是否是一个拖延症患者，或者拖延的程度有多大。</p>
 <p>
-    Here’s a recommendation to help procrastinators: sit and sit and sit. Station yourself in front of your computer and do not yield to the temptation to get up and walk around or do anything else. Stay seated for a reasonable period until your thoughts start to flow. Others recommend two other approaches. Interestingly, they are opposites. Some experts say start with the most difficult task and get it out of the way, noting that the rest will then be easier. Others recommend the reverse: start with the easiest things because they can be done quickly, and then gradually work your way up to the most difficult task. Meanwhile, you will already have written much of the work. Still another recommendation is to “take five.” Walk around the building, take a short coffee break, do some deep breathing. But, if you “get away” like this, try not to substitute something you enjoy, such as eating ice cream. In essence, don’t reward behavior that you shouldn’t encourage.</p>
+    Here’s a recommendation to help procrastinators: sit and sit and sit. Station yourself in front of your computer and do not yield to the temptation to get up and walk around or do anything else. Stay seated for a reasonable period until your thoughts start to flow. Others recommend two other approaches. Interestingly, they are opposites. Some experts say start with the most difficult task and get it out of the way, noting that the rest will then be easier. Others recommend the reverse: start with the easiest things because they can be done quickly, and then gradually work your way up to the most difficult task. Meanwhile, you will already have written much of the work. Still another recommendation is to “take five.” Walk around the building, take a short coffee break, do some deep breathing. But, if you “get away” like this, try not to substitute something you enjoy, such as eating ice cream. In essence, don’t reward behavior that you shouldn’t encourage.<br>
+    对于拖延症患者，这里有一个建议：坐下来，坐下来，再坐下来。将自己安置在电脑前，不要被走动或做其他事情的诱惑所动摇。坐在那里一段合理的时间，直到你的思绪开始流动起来。其他人提出了另外两种方法。有趣的是，它们正好相反。一些专家建议从最困难的任务开始，将其解决掉，然后其他任务就会变得更容易。而另一些人则建议相反：从最容易的事情开始，因为它们可以迅速完成，然后逐渐递进地完成最困难的任务。与此同时，你已经完成了大部分的工作。还有另一个建议是“休息一下”。绕着建筑物走走，进行短暂的咖啡休息，做些深呼吸。但是，如果你这样“离开”，尽量不要用你喜欢的事物来替代，比如吃冰淇淋。实质上，不要奖励那些你不应该鼓励的行为。</p>
 <p>
-    It’s also wise to get a sounding board if you have difficulty organizing your thoughts or words. Use a dictating machine, or find a colleague who will act as a sounding board so you can tell what you want to say. You will then probably have created your own first rough draft. This process ties in with natural law that you can talk or dictate about ten times as fast as you can write, so when an idea strikes your brain you can record it in a shorter period of time by speaking, losing far less of the thought. Then transcribe what you’ve said.</p>
+    It’s also wise to get a sounding board if you have difficulty organizing your thoughts or words. Use a dictating machine, or find a colleague who will act as a sounding board so you can tell what you want to say. You will then probably have created your own first rough draft. This process ties in with natural law that you can talk or dictate about ten times as fast as you can write, so when an idea strikes your brain you can record it in a shorter period of time by speaking, losing far less of the thought. Then transcribe what you’ve said.<br>
+    如果你在组织思绪或文字方面遇到困难，寻求一个发声板是明智的选择。使用一个录音机，或找一个同事充当发声板，这样你就可以表达你想要说的话。然后，你很可能已经创建了自己的初稿。这个过程符合自然法则，即你说话或口述的速度大约是写作的十倍，因此当一个想法闪过你的脑海时，你可以通过口述在更短的时间内记录下来，减少思维的损失。然后将你所说的内容转录下来。</p>
 <p>
-    In essence, to get rid of writer’s block, or at least reduce it, study your own style of writing and your own personality. Once you understand yourself, you will be well on the way. Stay with who you are, and you will be rewarded.</p>
+    In essence, to get rid of writer’s block, or at least reduce it, study your own style of writing and your own personality. Once you understand yourself, you will be well on the way. Stay with who you are, and you will be rewarded.<br>
+    总的来说，要摆脱写作障碍，或者至少减少它，你需要研究自己的写作风格和个性。一旦你了解自己，你就已经走上了正确的道路。坚持做自己，你将会得到回报。</p>
 <p>
-    Excerpted from KYOS—Five Easy Questions to Erase Your Writer’s Block, the AMWA Journal, Vol. 17, No. 1, 2002.</p>
-<p>
-    Courtesy of Arnold Melnick`
-    </p>
+    Excerpted from KYOS—Five Easy Questions to Erase Your Writer’s Block, the AMWA Journal, Vol. 17, No. 1, 2002.<br>
+    摘自《KYOS - 消除写作障碍的五个简单问题》，AMWA杂志，第17卷，第1期，2002年。</p>
+     <p style=margin-top:lem;text-align:right><b>Courtesy of Arnold Melnick<br>
+         感谢Arnold Melnick的贡献。</b></p>
 </div>
-### Writing and Revising
 
-***
 
-`The best motivation for writing is a deadline.
-Kristine Ogozalek,Regulatory Manager`
+### Writing and Revising 撰写与修订
 
-***
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>The best motivation for writing is a deadline.<br>
+    最好的写作动力是截止日期。
+    <p style=margin-top:lem;text-align:right>Kristine Ogozalek,Regulatory Manager</p>
+</div>
 
 Just about anyone can write *something* ——it’s what happens to it after the first draft that makes it good. In short, pretty much everything that’s written can use some skillful editing and revision. Unless you are a genius, good writing doesn’t just happen. It’s the result of drafting, revising, reassessing, and revising again. Further, the more eyes that see a piece of writing, the better it usually is. This is especially true of the highly technical writing that’s the norm in regulated industries.
 
+几乎任何人都可以写出一些东西，但真正决定作品好坏的是在第一稿之后的修改与修订。简而言之，几乎所有的文字作品都可以通过熟练的编辑和修订来提升。除非你是天才，优秀的写作不是一蹴而就的结果，而是通过起草、修订、重新评估和再次修订来完成的。此外，更多的眼睛看到一篇作品通常会使其变得更好。这在受到监管的行业中尤其如此，因为这些行业通常需要进行高度技术性的写作。
+
 Most writers have had the experience of proofreading their own words and giving the copy an okay, only to discover too late that they overlooked glaring errors because they did what humans tend to do: They saw what they expected to see and not what was there. On the other hand, a writer may spend hours developing an idea or researching a detail, then notice that to include it would confuse or mislead. In such circumstances, the only recourse is to cut the passage. Developing your own writing is no easy task, for you are dealing with yourself as a writer. You may know exactly what you mean, whereas your readers may not. That’s why review and revision play a strong role.
+
+大多数作家都有这样的经历：他们自己校对文字并认为一切都没问题，直到事后才发现自己忽视了明显的错误，因为人们往往会看到他们期望看到的东西，而不是实际存在的东西。另一方面，作家可能会花费数小时来发展一个思想或研究一个细节，然后意识到将其包含在内会引起混淆或误导。在这种情况下，唯一的选择就是删去这段文字。发展自己的写作并不容易，因为你要与自己作为一个作家打交道。你可能非常清楚自己的意思，而读者可能不清楚。这就是为什么审查和修订起到重要作用的原因。
 
 If you write simple memos, e-mails, faxes, and letters that no one but you sees before distribution, it’s best to draft the document and let it rest, if you can. Come back to it and look at it again. Read it out loud if you have the luxury of time. (This helps you “hear” as well as “see.”) If the piece is important, ask someone else to read it through, and be open to suggestions. Be appreciative when a typo or misspelling comes to light, so you can make changes to improve your writing for the better. Do the best fine-tuning you can; draft and revise until the document is as good as you can make it.
 
+如果你写的是简单的备忘录、电子邮件、传真和信函，在分发之前没有其他人看到，最好是起草文件后让它休息一下，如果可能的话。然后回过头再看一遍。如果有充裕的时间，可以大声朗读它（这有助于你“听到”和“看到”）。如果这篇文章很重要，可以请别人帮忙阅读，并对建议持开放态度。当发现拼写错误时，要感激，并进行改正以提高你的写作质量。尽可能进行最好的微调；起草和修订，直到文件达到你能做到的最好水平。
+
 If you are writing a document for a formal review, remember that the better the quality is prior to the review process, the quicker the approval will be forthcoming. Your reviewers, in particular, will thank you for your diligence, because their task will be easier. And in the long run, you may spend less time trying to get the text through final approval.
 
-### Collaborative Writing
+如果你要撰写一份需要正式审核的文件，请记住，在审核过程之前，文件的质量越好，获得批准的速度就越快。特别是你的审阅者将会感谢你的勤奋，因为这会使他们的任务更容易。从长远来看，你可能会花更少的时间来争取最终批准的文本。
+
+### Collaborative Writing 协作撰写
 
 Collaborative writing means that two or more people conjointly contribute information to the draft and completion of a single document. For example, work that runs continuously, such as pilot plant operations, requires systematic record keeping across shifts. Those records may ultimately feed into reports, with several people preparing sections. Certainly, equipment installation and operation protocols and qualification reports require the expertise of all who work on a specific project. Clinical trial reports may have more than one writer, and certainly dossiers headed to regulatory agencies have a host of authors who have provided input.
 
-***
-
-Common sense is not so common.
-Voltaire
-
-***
-
+协作写作意味着两个或更多人共同为一份文件的起草和完成提供信息。例如，连续进行的工作（如试验工厂操作）需要跨班次进行系统的记录。这些记录最终可能会整合到报告中，由多个人负责准备各个部分。当然，设备安装和操作协议以及鉴定报告需要所有参与特定项目的人员的专业知识。临床试验报告可能有多个撰写者，而提交给监管机构的档案则由许多提供意见的作者组成。
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+Common sense is not so common. 常识并非那么平常
+<p style=margin-top:lem;text-align:right>Voltaire</p>
+</div>
 Writers working collaboratively on documents must offer information that ultimately serves one purpose, and although that can be difficult, it’s common. What’s needed when people embark upon a joint writing venture is a clear understanding up front and a sense of document ownership. Many a collaborative writing project has gone awry because none of the writers assumed ownership, and the end product became a document with no clear purpose, simply a compilation of information without unity.
 
-Writers need to agree on the main purpose and supporting points for the document. Often each writer can clarify the others’ thoughts because all have a solid — but somewhat differing — vision of the main idea. Discussion helps clarify the purpose of the report, and this discussion is best done up front before the writing process begins. The next thing to do is to decide who is going to write what. If you write collaboratively, work with your coauthors to define the process that’s easiest for all involved. The two
-approaches that follow are equally workable, and both require some negotiation skills.
+在共同撰写文件时，参与者必须提供最终服务于一个目的的信息，尽管这可能很困难，但却很常见。当人们开始共同撰写时，需要明确的事先了解和文档所有权的意识。许多共同撰写项目失败的原因是没有人承担所有权，最终的成果变成了一个没有明确目的、只是信息的汇编而缺乏统一性的文件。
 
-#### The First Approach
+Writers need to agree on the main purpose and supporting points for the document. Often each writer can clarify the others’ thoughts because all have a solid — but somewhat differing — vision of the main idea. Discussion helps clarify the purpose of the report, and this discussion is best done up front before the writing process begins. The next thing to do is to decide who is going to write what. If you write collaboratively, work with your coauthors to define the process that’s easiest for all involved. The two approaches that follow are equally workable, and both require some negotiation skills.
+
+作者需要就文档的主要目的和支持论点达成一致。通常，每个作者都可以澄清其他人的想法，因为他们对主要观点有一个坚实但略有不同的理解。讨论有助于明确报告的目的，这种讨论最好在写作过程开始之前进行。接下来要做的是决定谁来写什么。如果你在合作撰写，与合作者合作制定对所有参与者最容易的过程。下面的两种方法都是可行的，但都需要一些谈判技巧。
+
+#### The First Approach 第一种方法
 
 The first approach calls for a designated person to draft the document and for the others to add and amend. That’s not to say the first person shouldn’t review and be permitted adjustments to the text before submission of the finished product. The strength of this system is that the person with the strongest language skills does the “cleaning up,” while the writers with the strongest technical expertise have their say. Alterations in the text are with the approval of all writers. You’ll find this approach to be particularly efficient in the composition of short documents.
 
-#### The Second Approach
+第一种方法是指定一个人起草文档，其他人进行添加和修订。这并不意味着第一个人在提交最终成果之前不应该对文本进行审查和调整。这种系统的优势在于语言技巧最强的人进行“修整”，而在技术专长最强的撰写者发表自己的意见。文本的修改需要得到所有撰写者的批准。你会发现这种方法在撰写短文档时特别高效。
+
+#### The Second Approach 第二种方法
 
 The second approach requires more planning than the first approach. In this approach, the writers assess needs of the document and assume ownership of specific portions. All writers need to understand the components of the planned document and what needs to reside where. They then agree on the formatting conventions and the time for text completion. Writers then meet to combine the elements and polish the document, with each reading and making comments on the entire text. Revision and refinement should come through tactful commentary and with the consent of the writer responsible for each individual section. This approach is usually the most effective in the composition of reports or other documents of length.
 
-### Reaching Agreement
+第二种方法比第一种方法需要更多的规划。在这种方法中，撰写者评估文档的需求，并承担特定部分的责任。所有撰写者需要了解计划文档的组成部分以及各个部分的安排。然后，他们就格式约定和文本完成的时间达成一致。撰写者之后会进行会面，将各个部分合并并完善文档，每个人都会阅读整个文本并发表意见。修订和改进应通过得体的评论，并经过负责每个单独部分的撰写者的同意。这种方法通常在撰写报告或其他较长文档时最有效。
 
-Trust in other people’s expertise and a willingness to accept their judgment are crucial to collaborative writing. Remember also that two or more people will have distinct writing styles, and that those styles may vary dramatically; yet sometimes the style distinctions will be barely discernible. Try not to make arbitrary alterations in your coauthors’ work; similarly, be tolerant of any minor changes a coauthor may make in your writing, and reach agreement as to the clarity and completeness of the message. And remember,
-nothing does as much for a common goal as conversation. If you feel a change is necessary, discuss it. Chances are greater that your collaborators will agree after they’ve heard your explanation. Similarly, you’ll feel better about text adjustments after you’ve had the opportunity to hear why your coauthors feel they should be made. Discussion, after all, is the bond that makes collaboration workable in the first place.
+### Reaching Agreement 达成一致
+
+Trust in other people’s expertise and a willingness to accept their judgment are crucial to collaborative writing. Remember also that two or more people will have distinct writing styles, and that those styles may vary dramatically; yet sometimes the style distinctions will be barely discernible. Try not to make arbitrary alterations in your coauthors’ work; similarly, be tolerant of any minor changes a coauthor may make in your writing, and reach agreement as to the clarity and completeness of the message. And remember, nothing does as much for a common goal as conversation. If you feel a change is necessary, discuss it. Chances are greater that your collaborators will agree after they’ve heard your explanation. Similarly, you’ll feel better about text adjustments after you’ve had the opportunity to hear why your coauthors feel they should be made. Discussion, after all, is the bond that makes collaboration workable in the first place.
+
+信任他人的专业知识并愿意接受他们的判断对于协作写作至关重要。同时，要记住两个或更多人会有不同的写作风格，而这些风格可能存在巨大的差异；然而有时候这些风格的区别可能很微小。尽量不要对合著者的作品进行任意更改；同样，对合著者对你的写作进行的任何小的改动要保持宽容，并就信息的清晰度和完整性达成一致意见。而且要记住，对于共同目标来说，没有什么比交流更有帮助。如果你觉得需要进行改变，进行讨论。在听到你的解释之后，你的合作者更有可能同意。同样地，当你有机会听到合著者为何认为需要进行文本调整时，你会对这些调整感到更加满意。毕竟，讨论是使协作变得可行的纽带。
 
 Finally, when writing collaboratively, make every effort to present a document that’s cohesive, clear, and grammatical. Getting a document to this point may take many readings, discussions, and revisions. Your collective goal should be the end result: a quality document ready for either immediate distribution or formal review that will be well received.
 
+最后，在协作写作时，要尽一切努力呈现一份连贯、清晰和符合语法规范的文件。要达到这个目标可能需要多次阅读、讨论和修订。你们的共同目标应该是最终的成果：一份质量优秀的文件，可以立即分发或经过正式审查并受到良好的接受。
+
 It doesn’t matter what kind of writing you are collaborating on. The following is an abstract written by three people: a vice president of development, a regulatory manager, and a consultant. In preliminary discussions, the three determined to submit an abstract to present at an industry conference. The requirement called for a maximum of 300 words. They had several ideas, then narrowed them down to defining how a company can make the transition from discovery to a compliant development operation. The regulatory manager tackled the task of getting the idea down on paper. Here is the first pass. Notice that the manager asks a few questions of her coauthors, and that this draft is far from complete. It has 114 words.
+
+无论你们在协作写作什么类型的文档，都没有关系。以下是由三个人共同撰写的摘要：一位发展副总裁、一位法规经理和一位顾问。在初步讨论中，这三个人决定提交一份摘要，以便在行业会议上进行演讲。要求摘要的字数不超过300个字。他们有几个想法，然后将其缩小为如何使一家公司从发现阶段转变为合规的开发运营。法规经理负责将这个想法写下来。以下是初稿。请注意，经理向她的合著者提出了一些问题，而且这个草稿远远不完整。它有114个字。
 
 The final word count is 300, and the message is succinctly delivered. Here’s a happy note: The abstract was accepted and the authors presented at the conference.
 
-#### First Draft/Idea Stage
+最终的字数达到了300字，并且信息简洁明了地传达出来。一个令人高兴的消息是：摘要被接受，并且作者们在会议上进行了展示。
 
-***
+#### First Draft/Idea Stage 第一稿/创意阶段
 
-**ABSTRACT TITLE:
-
-From discovery to development
-
-**SUMMARY:**
-
-Session focuses building a development organization from the ground up. It includes how to build project management, regulatory, and document functions to take a product from discovery to market.
-
-**LEARNING OBJECTIVES:
-
-Basics for managing development activities with project management, regulatory expertise, and documentation functions.
-
-**ABSTRACT:**
-
-Newer companies are entering a new arena - development. Different skill sets are required for development than are required for research and discovery. Contract organizations and consultants are often used to acquire the expertise that the company itself doesn't have. When consultants are used, companies may not have the knowledge they need.
-
-In-house vs. farmed out?
-
-Documentation?
-
-Main force is all three?
-
-***
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<b>ABSTRACT TITLE 摘要标题:</b>
+<p>
+    From discovery to development<br>
+    从发现到开发
+    </p>
+<p>
+    <b>SUMMARY 概述:</b>
+</p>
+<p>Session focuses building a development organization from the ground up. It includes how to build project management, regulatory, and document functions to take a product from discovery to market.<br>
+    本文的重点是如何从零开始建立一个开发组织。其中包括如何建立项目管理、法规和文档功能，以将产品从发现阶段推向市场。
+</p>
+<p>
+<b>LEARNING OBJECTIVES 学习目标:</b>
+</p>
+<p>Basics for managing development activities with project management, regulatory expertise, and documentation functions.<br>
+    基本掌握项目管理、法规专业知识和文档功能，以有效管理开发活动。
+</p>
+<p>
+<b>ABSTRACT 摘要:</b>
+</p>
+<p>
+Newer companies are entering a new arena - development. Different skill sets are required for development than are required for research and discovery. Contract organizations and consultants are often used to acquire the expertise that the company itself doesn't have. When consultants are used, companies may not have the knowledge they need.<br>
+    新兴公司正在进入一个新的领域——开发。开发所需的技能集与研究和探索所需的技能集不同。公司常常使用承包组织和顾问来获取自身所缺乏的专业知识。当使用顾问时，公司可能缺乏他们所需的知识。
+</p>
+<p>In-house vs. farmed out 内部开发还是外包?</p>
+<p>Documentation 文档管理?</p>
+<p>Main force is all three 主要的推动力是什么？这三者都是吗？?</p>
+</div>
 
 The consultant then reviewed the text and added some information to address the manager’s queries and to refine the writing.
 
-
-
+然后顾问对文本进行了审核，并添加了一些信息来回答经理的问题并完善写作。
