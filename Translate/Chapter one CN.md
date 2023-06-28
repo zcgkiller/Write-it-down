@@ -359,7 +359,7 @@ If you are writing a document for a formal review, remember that the better the 
 
 如果你要撰写一份需要正式审核的文件，请记住，在审核过程之前，文件的质量越好，获得批准的速度就越快。特别是你的审阅者将会感谢你的勤奋，因为这会使他们的任务更容易。从长远来看，你可能会花更少的时间来争取最终批准的文本。
 
-### Collaborative Writing 协作撰写
+#### Collaborative Writing 协作撰写
 
 Collaborative writing means that two or more people conjointly contribute information to the draft and completion of a single document. For example, work that runs continuously, such as pilot plant operations, requires systematic record keeping across shifts. Those records may ultimately feed into reports, with several people preparing sections. Certainly, equipment installation and operation protocols and qualification reports require the expertise of all who work on a specific project. Clinical trial reports may have more than one writer, and certainly dossiers headed to regulatory agencies have a host of authors who have provided input.
 
@@ -376,19 +376,19 @@ Writers need to agree on the main purpose and supporting points for the document
 
 作者需要就文档的主要目的和支持论点达成一致。通常，每个作者都可以澄清其他人的想法，因为他们对主要观点有一个坚实但略有不同的理解。讨论有助于明确报告的目的，这种讨论最好在写作过程开始之前进行。接下来要做的是决定谁来写什么。如果你在合作撰写，与合作者合作制定对所有参与者最容易的过程。下面的两种方法都是可行的，但都需要一些谈判技巧。
 
-#### The First Approach 第一种方法
+##### The First Approach 第一种方法
 
 The first approach calls for a designated person to draft the document and for the others to add and amend. That’s not to say the first person shouldn’t review and be permitted adjustments to the text before submission of the finished product. The strength of this system is that the person with the strongest language skills does the “cleaning up,” while the writers with the strongest technical expertise have their say. Alterations in the text are with the approval of all writers. You’ll find this approach to be particularly efficient in the composition of short documents.
 
 第一种方法是指定一个人起草文档，其他人进行添加和修订。这并不意味着第一个人在提交最终成果之前不应该对文本进行审查和调整。这种系统的优势在于语言技巧最强的人进行“修整”，而在技术专长最强的撰写者发表自己的意见。文本的修改需要得到所有撰写者的批准。你会发现这种方法在撰写短文档时特别高效。
 
-#### The Second Approach 第二种方法
+##### The Second Approach 第二种方法
 
 The second approach requires more planning than the first approach. In this approach, the writers assess needs of the document and assume ownership of specific portions. All writers need to understand the components of the planned document and what needs to reside where. They then agree on the formatting conventions and the time for text completion. Writers then meet to combine the elements and polish the document, with each reading and making comments on the entire text. Revision and refinement should come through tactful commentary and with the consent of the writer responsible for each individual section. This approach is usually the most effective in the composition of reports or other documents of length.
 
 第二种方法比第一种方法需要更多的规划。在这种方法中，撰写者评估文档的需求，并承担特定部分的责任。所有撰写者需要了解计划文档的组成部分以及各个部分的安排。然后，他们就格式约定和文本完成的时间达成一致。撰写者之后会进行会面，将各个部分合并并完善文档，每个人都会阅读整个文本并发表意见。修订和改进应通过得体的评论，并经过负责每个单独部分的撰写者的同意。这种方法通常在撰写报告或其他较长文档时最有效。
 
-### Reaching Agreement 达成一致
+#### Reaching Agreement 达成一致
 
 Trust in other people’s expertise and a willingness to accept their judgment are crucial to collaborative writing. Remember also that two or more people will have distinct writing styles, and that those styles may vary dramatically; yet sometimes the style distinctions will be barely discernible. Try not to make arbitrary alterations in your coauthors’ work; similarly, be tolerant of any minor changes a coauthor may make in your writing, and reach agreement as to the clarity and completeness of the message. And remember, nothing does as much for a common goal as conversation. If you feel a change is necessary, discuss it. Chances are greater that your collaborators will agree after they’ve heard your explanation. Similarly, you’ll feel better about text adjustments after you’ve had the opportunity to hear why your coauthors feel they should be made. Discussion, after all, is the bond that makes collaboration workable in the first place.
 
@@ -406,7 +406,7 @@ The final word count is 300, and the message is succinctly delivered. Here’s a
 
 最终的字数达到了300字，并且信息简洁明了地传达出来。一个令人高兴的消息是：摘要被接受，并且作者们在会议上进行了展示。
 
-#### First Draft/Idea Stage 第一稿/创意阶段
+##### First Draft/Idea Stage 第一稿/创意阶段
 
 <div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
 <b>ABSTRACT TITLE 摘要标题:</b>
@@ -435,17 +435,197 @@ Newer companies are entering a new arena - development. Different skill sets are
 </p>
 <p>In-house vs. farmed out 内部开发还是外包?</p>
 <p>Documentation 文档管理?</p>
-<p>Main force is all three 主要的推动力是什么？这三者都是吗？?</p>
+<p>Main force is all three 主要的推动力是什么？这三者都是吗?</p>
 </div>
+
 
 The consultant then reviewed the text and added some information to address the manager’s queries and to refine the writing.
 
 然后顾问对文本进行了审核，并添加了一些信息来回答经理的问题并完善写作。
 
-#### 2nd Draft: Expanded Text
+##### 2nd Draft: Expanded Text 第二稿：扩写本文
 ~~**FIRST DRAFT/IDEA STAGE**~~
 <div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
 <p><b>ABSTRACT TITLE:</b></p>
-<span style=text-decoration:line-through;>From discovery to development</span><br>
+<span style=text-decoration:line-through;text-decoration-color:red>From discovery to development</span><br>
 <span style=text-decoration:underline;>Discovery! Now What?</span>
 <p><b>SUMMARY:</b></P>
+<span style=text-decoration:line-through;text-decoration-color:red>Sesssion</span><span style=text-decoration:underline;>This session</span> focuses on building a development organization from the ground up. It includes how to build project management, regulatory, and document functions to take a product from discovery to market.
+<p>
+    <b>LEARNING OBJECTIVES:</b>
+</p>
+<span style=text-decoration:line-through;text-decoration-color:red>Basics</span><span style=text-decoration:underline;>Understanding the basics</span> for managing development activities with <span style=text-decoration:underline;>effective </span>project management, regulatory <span style=text-decoration:line-through;text-decoration-color:red>expertise</span><span style=text-decoration:underline;>awareness</span>, and <span style=text-decoration:underline;>compliant</span> documentation<span style=text-decoration:line-through;text-decoration-color:red> functions</span>.
+<p>
+    <b>ABSTRACT:</b>
+</p>
+Newer companies are entering a new arena -- development.<span style=text-decoration:line-through;text-decoration-color:red>Different</span><span style=text-decoration:underline;>Development requires different</span> skill sets <span style=text-decoration:line-through;text-decoration-color:red>are required for development </span>than are <span style=text-decoration:line-through;text-decoration-color:red>required for </span><span style=text-decoration:underline;>do</span> research and discovery. <span style=text-decoration:line-through;text-decoration-color:red>Contract organizations and consultants are often used to acquire the expertise that the company itself doesn't have. When consultants are used, company may not have the knowledge they need</span><span style=text-decoration:underline;>The transition to development thus presents a learning curve . Newer companies often tum to contract organizations and consultants to acquire the expertise that they lack. Companies relying solely on contractors or consultants, however, risk not having control of their own products; worse, they may be going down the wrong path and not know it. So even with outside expertise, companies must equip themselves with certain essentials so they can manage the development process effectively.</span>
+<p style=text-decoration:line-through;text-decoration-color:red>In-house vs. farmed out?</p>
+<p style=text-decoration:line-through;text-decoration-color:red>Documentation?</p>
+<p style=text-decoration:line-through;text-decoration-color:red>Main force is all three?</p>
+<span style=text-decoration:underline>The first factor in building a solid core for development is assessment. Namely, who will start and oversee the development activities? What can occur in house and who can handle it? How will contractors interface with the core company teams? Companies must understand the activities that must occur before they build the infrastructure. A key function is therefore project management. As essential is the regulatory role - the driver between the company and the agency
+that will ultimately approve the product moving into development. The last component is a documentation system that captures development activities, from standard operating procedures to data gathering and reporting. Good records provide the "proof' that the company is compliant; without records, everything else amounts to nil. With the right functions, built on a critical understanding of binding regulations and good business practices, companies can avoid the fits and starts that are inevitable without effective controls.</span>
+
+The revision has 298 words. When the Vice President had a look, she had a few changes, notably that the scope was too broad. In one short presentation,
+the trio could not discuss discovery to marketplace. Thus the scope is limited to development, and the abstract discusses only that bridge. Further,
+she focuses on “young” rather than “newer” companies. She also opted to say “research and development” as a single entity; thus the verb is singular.
+The result is a better abstract. (Her edits are underlined.)
+
+修订稿共有298个单词。副总裁查看后提出了一些修改意见，注意到范围过于广泛。在一个简短的演讲中，三人无法讨论从研究到市场的整个过程。因此，范围被限制在发展阶段，摘要仅涵盖这一过程。此外，她更注重"年轻"而不是"新的"公司。她还选择将"研究与开发"作为一个整体来表达，因此动词是单数形式。结果是一个更好的摘要。（她的修改已用下划线标出。）
+
+##### Final Draft 终稿
+
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<p>
+    <b>ABSTRACT TITLE:</b>
+    </p>
+<p>
+    Discovery! Now What?
+    </p>
+<p>
+    <b>SUMMARY:</b>
+    </p>
+    This session focuses on <span style=text-decoration:underline>creating the essential </span>building <span style=text-decoration:underline>blocks for </span>a <span style=text-decoration:underline>sound</span> development organization from the ground up. <span style=text-decoration:line-through;text-decoration-color:red>It includes how to build </span><span style=text-decoration:underline>These essential building blocks include </span>project management, regulatory, and document functions <span style=text-decoration:underline>necessary</span> to take a product from discovery to <span style=text-decoration:line-through;text-decoration-color:red>market.</span><span style=text-decoration:underline>development.</span>
+<p>
+    <b>LEARNING OBJECTIVES:</b>
+    </p>
+    Understanding <span style=text-decoration:line-through;text-decoration-color:red>the</span><span style=text-decoration:underline>of</span> basics for managing <span style=text-decoration:underline>early</span> development activities with effective project management, regulatory awareness, and compliant documentation.
+<p>
+    <b>ABSTRACT:</b>
+    </p>
+    <p><span style=text-decoration:line-through;text-decoration-color:red>Newer</span><span style=text-decoration:underline>Many young</span> companies are entering a new arena -- development. Development requires different skill sets than <span style=text-decoration:line-through;text-decoration-color:red>do</span><span style=text-decoration:underline>does</span> research and discovery. The transition to development thus presents a learning curve. <span style=text-decoration:line-through;text-decoration-color:red>Newer</span>Most young companies <span style=text-decoration:line-through;text-decoration-color:red>offen </span>turn to contract organizations and consultants to acquire the expertise that they lack. Companies relying solely on <span style=text-decoration:line-through;text-decoration-color:red>contractors or </span>consultants, however, risk not having control of their own products; worse, they may be going down the wrong path and not know it. So even with <span style=text-decoration:line-through;text-decoration-color:red>outside</span><span style=text-decoration:underline>contracted</span> expertise , companies must equip themselves with certain essentials so they can manage the development process effectively.</p>
+    <p>The first factor in building a solid core for development is assessment. Namely, who will start and oversee the development activities? What can occur in house and who can handle it? How will contractors interface with <span style=text-decoration:line-through;text-decoration-color:red>the </span>core company teams? Companies must understand the activities that must occur before they build the infrastructure . A key function is therefore project management. As essential is the regulatory role - the driver between the company and the agency that will ultimately approve the product moving into development. <span style=text-decoration:line-through;text-decoration-color:red>The last component</span><span style=text-decoration:underline>Next</span> is a documentation system that captures development activities, from standard operating procedures to data gathering and reporting. Good records provide the "proof' that the company is compliant ; without records, everything <span style=text-decoration:line-through;text-decoration-color:red>else </span>amounts to nil.</p>
+    <p>With the right functions, built on <span style=text-decoration:line-through;text-decoration-color:red>a </span>critical understanding of binding regulations and good business practices, companies can avoid the fits and starts that are inevitable without effective controls.</p>
+</div>
+
+The final word count is 300, and the message is succinctly delivered. Here’s a happy note: The abstract was accepted and the authors presented at the conference.
+
+最终的字数为300个单词，信息被简洁地传达出来。值得庆幸的是：这个摘要被接受，并且作者在会议上进行了演讲。
+
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<p><b>English: A Living Language</b></p>
+<p>American English, like other living languages, is in constant transition. It is ever adjusting to reflect the changes in culture and technology. The alterations in the language can be controversial and have drawn criticism from many who decry the changes. Others, however, say the ability of this language to embrace change, particularly in the acquisition of new words, is its very strength. Here are some facts about this vital language.</p>
+<p>
+    <li>English belongs to the Germanic group of languages, which are part of the Indo-European system of languages. Germanic languages include German, Dutch, Afrikaans, Swedish, Danish, Norwegian, and Icelandic.</li>
+<li>Mandarin Chinese is spoken by more people, but English is more widely spoken around the globe and has wider dispersion than
+any other language. English is the official language of England, Ireland, the US, Canada, Australia, and New Zealand. It is also the official language of Ghana, Liberia, Nigeria, Uganda, and Zimbabwe in Africa; Jamaica, the Bahamas, the Dominican Republic, and Barbados in the Caribbean; Vanuatu, Fiji, and the Solomon Islands in the Pacific; and a dozen other nations and territories. In more than 20 nations, English shares official status with another language. Some of these nations are Singapore, the Philippines, India, and Pakistan. In still other nations, English holds no official status but is widely spoken, particularly in the business sector. English is also the official language of the United Nations.</li>
+<li>English is divided into three periods: old English (about 449 to 1100 AD); middle English (about 1100 to 1500); and modern English, from 1500 on.</li>
+    </p>
+<p>
+    <li>English is widely used in science and other technical arenas. More Nobel Prizes in literature have been awarded to more writers using English than any other language.</li>
+    </p>
+<p>
+    <li>The word is the basic element of the sentence, and therefore of writing itself. English contains more than one million words. Of these three-quarters are technical. Only about 20,000 words are currently in common use. Of these one-fifth are Anglo-Saxon; threefifths come from French, Latin, and Greek. The rest come from languages around the world.</li>
+<li>The average person has three vocabularies: reading, speaking, and writing. The three are interconnected, but the reading vocabulary is by far the largest. Since we speak more than we write, the speaking language is the second largest. Writing, thus, is the smallest vocabulary. This accounts in part for our difficulty in committing information to paper.</li>
+ <li>In speaking, words carry less than 10 percent of our messages. The rest is conveyed by facial expressions, tone of voice, gestures, and posture. In writing, however, words must carry more than 90 percent of the message. Punctuation and graphics convey the rest.</li>
+    </p>
+   <p>
+     <li>The subject of syntax is word order, or sentence patterns. Syntax is about the relationships between words. Word order changes meaning. Consider these two sentences:</li>   
+    </p>
+    <p>
+      <li>Have you left anything?</li>  
+    </p>
+    <p>
+      <li>Have you anything left?</li>  
+    </p>
+    <p>
+       <li>A group of words is a sentence if it contains a subject, verb, and complete idea. If it does not contain a complete idea, it is a clause.</li> 
+    </p>
+</div>
+
+### Document Formal Review
+Many documents are subject to a formal review process. You may participate as either author or reviewer, and both roles can be daunting. An understanding of the process itself and of the revision that’s inherent as a result will make your task as writer or reviewer easier.
+
+#### Serving as a Reviewer
+
+As reviewer, the first thing you must understand in practicing your skills is this: Although reviewing in itself is far from child’s play, altering a piece of
+writing is easier than creating the original. Your task is difficult because many people are sensitive about what they’ve written, and they have a right to be. The writer who has a sense of ownership in what he has written communicates pride in the work, and that spirit is conducive to good business.
+
+Before you put pen to paper, first understand that writing always reflects the writer; it’s a portrait of the person who created it, and a writer will usually defend what she’s created, even if it doesn’t “measure up” to your criteria. Often, too, a writer’s defense of her work stems from an insecurity about her own writing ability. You must, therefore, exercise some human resource skills in addition to your language skills. Make your comments with respect.
+
+First, understand what’s basic to human nature: The very act of writing is a thinking process; and words, your own and others’, trigger new ideas and,
+often, alternate ways of saying the same thing. Thus, it’s extra easy to have your own sense of language stimulated by what you’re reading, and it’s something to consider with care.
+
+Your job when reviewing anyone else’s writing is to assist in creating clear, readable documents. Here’s a bit of common sense: There’s always more
+than one right way to say just about anything. Another person’s way of saying something may not be like yours, but that doesn’t mean it’s not equally good.
+
+#### The Writer’s Voice
+
+The words a writer uses and the structures of his sentences are as uniquely his as his fingerprints. These elements flavor what he says. If you’re reviewing a document you can change *ambivalent* to *ambiguous* or *between* to *among* when it’s necessary, and you can let a writer know when more or less background or explanation is needed to make meaning clear. You can suggest concrete, specific, everyday words for an audience that will be unimpressed — or worse, confused — by inflated, generalized, uncommon ones. But you should steer clear of changes that don’t materially affect the way the message is understood, or the way the intended audience will receive it.
+
+#### Making Comments
+Reviewing is different from collaborative writing. You can see what happens when an editor’s own writing style is imposed on someone else’s writing.
+A supervisor submitted an update on a laboratory project that included the following line:
+
+*Three unknowns are inherent.*
+
+His manager crossed it out and wrote the following:
+
+*Three unknowns are innate*
+
+Such correction does nothing to improve communication, and it delivers its own unspoken message: “You can’t say it right, but I can.” This sort of
+supercilious, authoritarian revision serves no good purpose; in fact, it hinders the business of getting the job done. So if you are reviewing someone
+else’s writing, remember, if a piece works, leave it alone. The practical effectiveness of the final product is your only concern. And a good final product depends not only on your sense of the factually, grammatically correct but also on your respect for the writer’s judgment. To change without purpose only confuses and often angers. Surely poor judgment lies behind a comment such as the following that appeared on an SOP as it moved through review:
+
+*“Confusing. Rewrite!!”*
+
+A dictate such as this fuels resentment, and in fact, it’s an attack. Would it not be better to say, “I’m not sure whether you mean A or B. Can you clarify?”
+This critique places the responsibility for a reader’s understanding on the writer’s shoulders.
+
+Most documents require numerous reviewers, and people need to think about content — what works and what doesn’t. Epiphany may not come until a reviewer has looked at a document for a second or third time. When a writer drafts a document like an SOP, it usually goes into a mandatory review cycle, so the norm is reviewers’ comments and subsequent revisions based on those comments. The same is true for documents of great length — reviewers may need to see a document in its various phases of development and in its final stages more than one time.
+
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+    Asking a working writer what he thinks about critics is like asking a lamppost what it feels about dogs.
+    <p style=text-align:right><b>John Osborne,
+        Writer</b></p>
+
+One final note: Writers are most effective if they feel relaxed and encouraged, with a person to consult when they’re blocked or unsure about mechanics. Your job as a reviewer will be easier and your results better if you approach it looking for the positive and downplaying the negative. Good reviewers can inspire people to build their strengths; as that happens, the negatives evaporate! Focusing on negative performance, on the other hand, does not eliminate weaknesses, but rather diminishes the strengths. To get the best documentation, first identify the writer’s best: Then build from there. When the document completes a review cycle, the writer can readily tell what is needed to create a complete, working vehicle.
+
+#### Guidelines for Reviewing Documents
+
+How many times have you picked up a pen or pencil, ready to annotate before you’ve read a word? Sometimes, initial restraint facilitates the task.
+Keep the following guidelines in mind when you must review the writing of others.
+
+1. Determine the purpose/objective of the document. Make sure you fully understand the job the document has to do.
+
+2. Read the document through in its entirety for substance. Do not hold a pen in your hand. The temptation to make comments can be overwhelming; yet an emendation to a document on page one may prove unnecessary if the author covers the same ground, perhaps even more effectively, in a later section.
+
+3. Read the document through a second time if you have the luxury; then reflect on it before coming back to it.
+
+4. If the document covers a process, reread the sequential steps again. If you can, allow some “resting” time before you make any changes.
+
+5. Be positive, not negative, in your comments. Suggest, don’t insist.
+
+6. Annotate in order of importance for the following:
+
+   - Content, completeness, and logic — Is the document comprehensive and understandable?
+   - Consistency — Do all parts of the document work together?
+   - Language — Are there typos and spelling errors? Is the grammar correct? Are word choices appropriate?
+
+7. And remember, if the document works, leave it alone. Never “fix” what doesn’t need it.
+
+#### Serving as Author During Document Review
+
+Those who review your writing may have valid comments about the content. Someone else’s perspective may be just what your document needs to make it do its job. If, too, a reviewer is less than constructive in his or her criticism, step back emotionally. Don’t take negative, unproductive notations personally. Such commentary often reflects any number of agendas coincidental to the task at hand. Often posing a diplomatic question to a reviewer yields not only conciliation but also positive results in the document.
+
+It’s a secure writer who questions reviewers’ comments. Often the outcome is a discussion that yields an entirely different — and infinitely better —
+result. Be open to different perspectives for getting the job done well. And remember, the call-outs a reviewer finds may make the difference between
+a document that goes the distance or one that comes back for revision again.
+
+#### Considering the Effects of Diversity
+
+Not all writers of American English are native born. What that means, of course, is that the writing that gets done in English may reflect the native
+tongue of the writer. Leaving out articles, for instance, is a deviation common to writers whose native language doesn’t have them, such as Asian and
+Eastern European languages. These are not serious omissions and usually don’t create context problems. Reviewers can readily insert them.
+
+Prepositions are pesky, too, for many writers. The Germanic languages have them in abundance, and English is a Germanic language. The Romance languages — French, Spanish, Italian, Portuguese, and Romanian — have them, but they don’t translate perfectly. Still other languages, such as Chinese, don’t have them at all. Most foreign-born writers struggle with some elements of the language, and the difficulty of knowing what and how to document is often compounded by insecurity about the working structure of English.
+
+If you are such a writer or work with the documentation of such writers, here’s the important thing: The errors typical in the writings of those who have learned English as adults don’t reflect lack of intelligence; they simply reflect a struggle for mastery of the language. Accept the reality and give or take suggestions with grace.
+
+#### Setting Priorities for Writing
+
+Ideally, to produce a clear, easily understood document, whether you have written all or part of it or are reviewing it, you should adhere to commonsense guidelines for writing and reviewing. To have the time to allow a document in various stages of development sit while you think about the content, perhaps as you work on another job or while you attend a meeting or go to lunch, is a luxury, to be sure, but it offers advantages. When you come back to the document, read it again; then make your adjustments. This may seem impossible, given the demands the working day places on you,
+but important documentation especially needs all the effort you can give it. Understanding the strictures under which you work will help. The most omnipresent is allotted time available: It is often simply not enough. All you can do then, of course, is the best possible job in the time you have. Intelligent assessment of any task will always reveal that the amount of time spent on a job will directly affect its outcome. Be realistic. For some projects there is very little time; for others, there is more.
+
+To allot the maximum time to the tasks at hand for every document, set priorities. If, for instance, several “rush” jobs need to be finished by the end of the workday, take some initial time and evaluate your given tasks. Arrange them in order of importance, most urgent to least, and address them in that order. That way, you’ll address the most important task first, and, with luck, you’ll be able to let it “rest” while you tackle another document and come back to it with a fresh eye. 
+
+This approach may not always work. There’s no accounting for the lastminute emergency, the job demanding you let everything else drop and attend to it, but many times setting priorities will give you the upper hand and let you control your work and prevent your work from controlling you.
