@@ -441,3 +441,11 @@ Newer companies are entering a new arena - development. Different skill sets are
 The consultant then reviewed the text and added some information to address the manager’s queries and to refine the writing.
 
 然后顾问对文本进行了审核，并添加了一些信息来回答经理的问题并完善写作。
+
+#### 2nd Draft: Expanded Text
+~~**FIRST DRAFT/IDEA STAGE**~~
+<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<p><b>ABSTRACT TITLE:</b></p>
+<span style=text-decoration:line-through;>From discovery to development</span><br>
+<span style=text-decoration:underline;>Discovery! Now What?</span>
+<p><b>SUMMARY:</b></P>
