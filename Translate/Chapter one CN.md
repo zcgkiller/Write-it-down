@@ -56,7 +56,7 @@ Further, companies must also understand that new regulations don’t supersede e
 Managing the regulatory maze is not easy. Yet keeping abreast of the regulations and remaining compliant makes good business sense. Monthly publications for industry, available by subscription, detail issues in the industry and governmental rulings. Industry forums, conferences, and courses offered by professional training organizations offer opportunities to remain current. It’s not enough to adhere to the regulations. Companies need to understand the direction in which compliance is moving and keep in step. The last thing a company needs is a routine investigation that discovers nonstandard practices. The result will be a discrepancy observation, citing what needs to be fixed. It’s always better to have everything in place, with documented proof that it is, rather than to scramble to fix what the company has been cited for—this slows productivity and makes poor business sense. One thing is abundantly clear: Documentation will continue to be critical to every facet of doing business within this highly regulated environment.
 
 管理法规迷宫并不容易。 但是，与法规保持一致并保持合规性具有良好的商业意义。可通过订阅获得的行业月刊，详细列出了行业和政府裁决中的问题。专业培训组织提供的行业论坛，会议和课程提供了保持最新状态的机会。 仅仅遵守法规是不够的。公司需要了解合规性发展的方向，并与时俱进。 公司需要做的最后一件事是发现不规范做法的例行调查。 结果将是差异性观察，并指出了需要解决的问题。 最好将所有内容都放在适当的位置，并附上有据可查的证据，而不是为了确定公司被引用的内容而争先恐后地进行，这会降低生产率并降低商业意义。 有一件事很清楚：在这个受到严格监管的环境中，文档对于开展业务的各个方面仍然至关重要。
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
 <span>
 <p style='margin-top:1em; text-align:center'>
 <b>Regulatory Evolution in the United States美国的法规演变</b></p>
@@ -99,11 +99,10 @@ company keeps the product records at least two years beyond the shelf life of th
 
 如果该产品通过临床试验，公司将（向管理当局）申请批准生产和销售该产品。在此过程中的每一步（很容易花费十年时间），文档都会记录发生的情况。产品上市后，将继续保持记录，并且进行稳定性研究确认在产品有效期内持续（发挥）效力。必须（对产品）进行仔细且连续的监控，如果产品失去功效或存在其他问题，则公司可能会发出现场警示或召回产品。公司需要将产品记录保存到产品本身有效期到期后至少两年。
 
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
-<p style='margin-top:1em; text-align:justify'>Companies need to keep extensive records of everything they do, whether it becomes part of the final product development or not. They need to know what didn’t work so they don’t go down the same road twice.</p>
-<p style=margin-top:lem;text-align:justify>无论(工作）是否成为最终产品开发的一部分，公司都必须保留所做工作的详尽记录。 他们需要知道哪些方法无效，这样他们就不会在同一地方跌倒两次。</p>
-    <p style=margin-top:lem;text-align:right>——John Cline, Ph.D. 约翰·克莱恩博士</p>
-</div>
+>Companies need to keep extensive records of everything they do, whether it becomes part of the final product development or not. They need to know what didn’t work so they don’t go down the same road twice.
+>无论(工作）是否成为最终产品开发的一部分，公司都必须保留所做工作的详尽记录。 他们需要知道哪些方法无效，这样他们就不会在同一地方跌倒两次。
+>——John Cline, Ph.D. 约翰·克莱恩博士
+
 
 Companies must show their control of systems, processes, and products in documentation. This means self-monitoring and assessment, as well as change management. There is no “magic formula” for documentation for all companies, but the common denominator is this: Companies must have controls in place, and they must have records of what they do, have done, and plan to do.
 
@@ -213,7 +212,7 @@ In this industry, few people write in solitary. You may be called upon to prepar
 
 在这个行业中，很少有人独自写作。您可能需要准备报告、撰写技术备忘录、审查各种文件、起草需要多人参与的报告，或者根据多个信息来源编制研究基础。如何应对这些任务需要有一定的远见。了解即将承担的写作项目是开始的地方。您可能是标准操作程序（SOP）的主要作者，是一份档案的合作作者，或者是参与项目（如设施验证）的几位作者之一。您可能是一项活动（如审计）的主要作者，需要进行大量的写作工作以得出结论。（见文本框《书面表达》。）
 
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     <p style='margin-top:1em; text-align:center'><b>Put It in Writing 书面表达</b></p>
     <p style='margin-top:1em; text-align:justify'>A good audit report results from good planning. Each audit should have a record of activities, from the decision to audit through the audit review. Each step of the process requires writing it down. Here’s a sequence that helps ensure each audit a company conducts gives optimal results.<br>良好的审计报告源于良好的计划。每次审计都应有活动记录，从决定进行审计到审计回顾。过程的每一步都需要将其写下来。下面是一种确保公司进行的每次审计都能达到最佳结果的顺序。</p>
     <p style='margin-top:1em; text-align:justify'>
@@ -270,7 +269,7 @@ The preliminary work can be tedious, to be sure, but starting the actual writing
 
 的确，初期的准备工作可能很乏味，但实际开始写作通常是最困难的部分。许多人抱怨遭遇“写作障碍”，即无法将思绪转化为文字。如果您遇到写作障碍，可以采取一些步骤来克服这些低潮期。请参考以下建议。
 
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     Arnold Melnick, author of Melnick on Writing, a column in the AMWA Journal, the publication of the American Medical Writers Association, offers five questions to help writers understand their writing patterns.
 <p>
     Arnold Melnick是《Melnick on Writing》一书的作者，该书是美国医学作家协会（AMWA）期刊《AMWA Journal》上的专栏。他提出了五个问题，帮助作家了解他们的写作模式。
@@ -338,10 +337,10 @@ Writers work in different patterns. Some do better with copious notes, others wi
 
 ### Writing and Revising 撰写与修订
 
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>The best motivation for writing is a deadline.<br>
-    最好的写作动力是截止日期。
-    <p style=margin-top:lem;text-align:right>Kristine Ogozalek,Regulatory Manager</p>
-</div>
+>The best motivation for writing is a deadline.
+>最好的写作动力是截止日期。
+>——Kristine Ogozalek,Regulatory Manager
+
 
 Just about anyone can write *something* ——it’s what happens to it after the first draft that makes it good. In short, pretty much everything that’s written can use some skillful editing and revision. Unless you are a genius, good writing doesn’t just happen. It’s the result of drafting, revising, reassessing, and revising again. Further, the more eyes that see a piece of writing, the better it usually is. This is especially true of the highly technical writing that’s the norm in regulated industries.
 
@@ -364,10 +363,12 @@ If you are writing a document for a formal review, remember that the better the 
 Collaborative writing means that two or more people conjointly contribute information to the draft and completion of a single document. For example, work that runs continuously, such as pilot plant operations, requires systematic record keeping across shifts. Those records may ultimately feed into reports, with several people preparing sections. Certainly, equipment installation and operation protocols and qualification reports require the expertise of all who work on a specific project. Clinical trial reports may have more than one writer, and certainly dossiers headed to regulatory agencies have a host of authors who have provided input.
 
 协作写作意味着两个或更多人共同为一份文件的起草和完成提供信息。例如，连续进行的工作（如试验工厂操作）需要跨班次进行系统的记录。这些记录最终可能会整合到报告中，由多个人负责准备各个部分。当然，设备安装和操作协议以及鉴定报告需要所有参与特定项目的人员的专业知识。临床试验报告可能有多个撰写者，而提交给监管机构的档案则由许多提供意见的作者组成。
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
-Common sense is not so common. 常识并非那么平常
-<p style=margin-top:lem;text-align:right>Voltaire</p>
-</div>
+
+>Common sense is not so common. 常识并非那么平常
+>——Voltaire
+
+
+
 Writers working collaboratively on documents must offer information that ultimately serves one purpose, and although that can be difficult, it’s common. What’s needed when people embark upon a joint writing venture is a clear understanding up front and a sense of document ownership. Many a collaborative writing project has gone awry because none of the writers assumed ownership, and the end product became a document with no clear purpose, simply a compilation of information without unity.
 
 在共同撰写文件时，参与者必须提供最终服务于一个目的的信息，尽管这可能很困难，但却很常见。当人们开始共同撰写时，需要明确的事先了解和文档所有权的意识。许多共同撰写项目失败的原因是没有人承担所有权，最终的成果变成了一个没有明确目的、只是信息的汇编而缺乏统一性的文件。
@@ -408,35 +409,32 @@ The final word count is 300, and the message is succinctly delivered. Here’s a
 
 ##### First Draft/Idea Stage 第一稿/创意阶段
 
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
-<b>ABSTRACT TITLE 摘要标题:</b>
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
+<b>ABSTRACT TITLE:</b>
 <p>
-    From discovery to development<br>
-    从发现到开发
+    From discovery to development>
     </p>
 <p>
-    <b>SUMMARY 概述:</b>
+    <b>SUMMAR:</b>
 </p>
-<p>Session focuses building a development organization from the ground up. It includes how to build project management, regulatory, and document functions to take a product from discovery to market.<br>
-    本文的重点是如何从零开始建立一个开发组织。其中包括如何建立项目管理、法规和文档功能，以将产品从发现阶段推向市场。
-</p>
-<p>
-<b>LEARNING OBJECTIVES 学习目标:</b>
-</p>
-<p>Basics for managing development activities with project management, regulatory expertise, and documentation functions.<br>
-    基本掌握项目管理、法规专业知识和文档功能，以有效管理开发活动。
+<p>Session focuses building a development organization from the ground up. It includes how to build project management, regulatory, and document functions to take a product from discovery to market.
 </p>
 <p>
-<b>ABSTRACT 摘要:</b>
+<b>LEARNING OBJECTIVES:</b>
+</p>
+<p>Basics for managing development activities with project management, regulatory expertise, and documentation functions.
 </p>
 <p>
-Newer companies are entering a new arena - development. Different skill sets are required for development than are required for research and discovery. Contract organizations and consultants are often used to acquire the expertise that the company itself doesn't have. When consultants are used, companies may not have the knowledge they need.<br>
-    新兴公司正在进入一个新的领域——开发。开发所需的技能集与研究和探索所需的技能集不同。公司常常使用承包组织和顾问来获取自身所缺乏的专业知识。当使用顾问时，公司可能缺乏他们所需的知识。
+<b>ABSTRACT:</b>
 </p>
-<p>In-house vs. farmed out 内部开发还是外包?</p>
-<p>Documentation 文档管理?</p>
-<p>Main force is all three 主要的推动力是什么？这三者都是吗?</p>
+<p>
+Newer companies are entering a new arena - development. Different skill sets are required for development than are required for research and discovery. Contract organizations and consultants are often used to acquire the expertise that the company itself doesn't have. When consultants are used, companies may not have the knowledge they need.
+</p>
+<p>In-house vs. farmed out?</p>
+<p>Documentation?</p>
+<p>Main force is all three?</p>
 </div>
+
 
 
 The consultant then reviewed the text and added some information to address the manager’s queries and to refine the writing.
@@ -445,10 +443,10 @@ The consultant then reviewed the text and added some information to address the 
 
 ##### 2nd Draft: Expanded Text 第二稿：扩写本文
 ~~**FIRST DRAFT/IDEA STAGE**~~
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
 <p><b>ABSTRACT TITLE:</b></p>
-<span style=text-decoration:line-through;text-decoration-color:red>From discovery to development</span><br>
-<span style=text-decoration:underline;>Discovery! Now What?</span>
+<span style=text-decoration:line-through;text-decoration-color:red>From discovery to development 从药物发现到开发</span><br>
+<span style=text-decoration:underline;>Discovery! Now What? 药物发现！ 现在要怎么做？</span>
 <p><b>SUMMARY:</b></P>
 <span style=text-decoration:line-through;text-decoration-color:red>Sesssion</span><span style=text-decoration:underline;>This session</span> focuses on building a development organization from the ground up. It includes how to build project management, regulatory, and document functions to take a product from discovery to market.
 <p>
@@ -474,7 +472,7 @@ The result is a better abstract. (Her edits are underlined.)
 
 ##### Final Draft 终稿
 
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
 <p>
     <b>ABSTRACT TITLE:</b>
     </p>
@@ -501,56 +499,71 @@ The final word count is 300, and the message is succinctly delivered. Here’s a
 
 最终的字数为300个单词，信息被简洁地传达出来。值得庆幸的是：这个摘要被接受，并且作者在会议上进行了演讲。
 
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
-<p><b>English: A Living Language</b></p>
-<p>American English, like other living languages, is in constant transition. It is ever adjusting to reflect the changes in culture and technology. The alterations in the language can be controversial and have drawn criticism from many who decry the changes. Others, however, say the ability of this language to embrace change, particularly in the acquisition of new words, is its very strength. Here are some facts about this vital language.</p>
+<div class="warning" style='1.5em; background-color:#eef0f4; color:#69337A'>
+<p><b>English: A Living Language 英语：一门鲜活的语言</b></p>
+    <p>American English, like other living languages, is in constant transition. It is ever adjusting to reflect the changes in culture and technology. The alterations in the language can be controversial and have drawn criticism from many who decry the changes. Others, however, say the ability of this language to embrace change, particularly in the acquisition of new words, is its very strength. Here are some facts about this vital language.</p>
 <p>
-    <li>English belongs to the Germanic group of languages, which are part of the Indo-European system of languages. Germanic languages include German, Dutch, Afrikaans, Swedish, Danish, Norwegian, and Icelandic.</li>
+    美式英语，像其他活语言一样，处于不断的演变中。它不断调整以反映文化和科技的变化。语言的变化可能引起争议，并受到许多人的批评。然而，其他人认为这种语言在接纳新词汇方面的能力正是它的优势所在。以下是关于这门重要语言的一些事实。</p>
+<p>
+    <li>English belongs to the Germanic group of languages, which are part of the Indo-European system of languages. Germanic languages include German, Dutch, Afrikaans, Swedish, Danish, Norwegian, and Icelandic.<br>英语属于日耳曼语系的语言，它是印欧语系的一部分。日耳曼语系包括德语、荷兰语、南非荷兰语、瑞典语、丹麦语、挪威语和冰岛语。</li>
 <li>Mandarin Chinese is spoken by more people, but English is more widely spoken around the globe and has wider dispersion than
-any other language. English is the official language of England, Ireland, the US, Canada, Australia, and New Zealand. It is also the official language of Ghana, Liberia, Nigeria, Uganda, and Zimbabwe in Africa; Jamaica, the Bahamas, the Dominican Republic, and Barbados in the Caribbean; Vanuatu, Fiji, and the Solomon Islands in the Pacific; and a dozen other nations and territories. In more than 20 nations, English shares official status with another language. Some of these nations are Singapore, the Philippines, India, and Pakistan. In still other nations, English holds no official status but is widely spoken, particularly in the business sector. English is also the official language of the United Nations.</li>
-<li>English is divided into three periods: old English (about 449 to 1100 AD); middle English (about 1100 to 1500); and modern English, from 1500 on.</li>
+any other language. English is the official language of England, Ireland, the US, Canada, Australia, and New Zealand. It is also the official language of Ghana, Liberia, Nigeria, Uganda, and Zimbabwe in Africa; Jamaica, the Bahamas, the Dominican Republic, and Barbados in the Caribbean; Vanuatu, Fiji, and the Solomon Islands in the Pacific; and a dozen other nations and territories. In more than 20 nations, English shares official status with another language. Some of these nations are Singapore, the Philippines, India, and Pakistan. In still other nations, English holds no official status but is widely spoken, particularly in the business sector. English is also the official language of the United Nations.<br>普通话是被更多人使用的语言，但英语在全球范围内的使用更为广泛，分布也更加广泛，超过其他任何语言。英语是英国、爱尔兰、美国、加拿大、澳大利亚和新西兰的官方语言。在非洲，英语是加纳、利比里亚、尼日利亚、乌干达和津巴布韦的官方语言；在加勒比地区，它是牙买加、巴哈马、多米尼加共和国和巴巴多斯的官方语言；在太平洋地区，它是瓦努阿图、斐济和所罗门群岛的官方语言；还有其他十几个国家和地区也是如此。在20多个国家，英语与其他语言共享官方地位。其中一些国家包括新加坡、菲律宾、印度和巴基斯坦。在其他国家，英语虽然没有官方地位，但在商业领域特别流行。英语也是联合国的官方语言。</li>
+<li>English is divided into three periods: old English (about 449 to 1100 AD); middle English (about 1100 to 1500); and modern English, from 1500 on.<br>英语可以分为三个时期：古英语（约公元449年至1100年）、中英语（约1100年至1500年）和现代英语（1500年至今）。</li>
     </p>
 <p>
-    <li>English is widely used in science and other technical arenas. More Nobel Prizes in literature have been awarded to more writers using English than any other language.</li>
+    <li>English is widely used in science and other technical arenas. More Nobel Prizes in literature have been awarded to more writers using English than any other language.<br>英语在科学和其他技术领域被广泛使用。在诺贝尔文学奖中，使用英语的作家获得的奖项比任何其他语言的作家都多。</li>
     </p>
 <p>
-    <li>The word is the basic element of the sentence, and therefore of writing itself. English contains more than one million words. Of these three-quarters are technical. Only about 20,000 words are currently in common use. Of these one-fifth are Anglo-Saxon; threefifths come from French, Latin, and Greek. The rest come from languages around the world.</li>
-<li>The average person has three vocabularies: reading, speaking, and writing. The three are interconnected, but the reading vocabulary is by far the largest. Since we speak more than we write, the speaking language is the second largest. Writing, thus, is the smallest vocabulary. This accounts in part for our difficulty in committing information to paper.</li>
- <li>In speaking, words carry less than 10 percent of our messages. The rest is conveyed by facial expressions, tone of voice, gestures, and posture. In writing, however, words must carry more than 90 percent of the message. Punctuation and graphics convey the rest.</li>
+    <li>The word is the basic element of the sentence, and therefore of writing itself. English contains more than one million words. Of these three-quarters are technical. Only about 20,000 words are currently in common use. Of these one-fifth are Anglo-Saxon; threefifths come from French, Latin, and Greek. The rest come from languages around the world.<br>单词是句子的基本要素，也是写作本身的基础。英语中包含超过一百万个单词，其中四分之三是技术术语。目前只有大约20,000个单词在常用中。其中五分之一是盎格鲁-撒克逊语，三分之三来自法语、拉丁语和希腊语。其余的来自世界各地的语言。</li>
+<li>The average person has three vocabularies: reading, speaking, and writing. The three are interconnected, but the reading vocabulary is by far the largest. Since we speak more than we write, the speaking language is the second largest. Writing, thus, is the smallest vocabulary. This accounts in part for our difficulty in committing information to paper.<br>普通人的词汇量包括阅读、口语和书写。这三者相互关联，但阅读词汇量是最大的。由于我们说的比写的多，口语词汇是第二大的。因此，书写词汇是最小的。这在一定程度上解释了我们在书面表达信息时的困难。</li>
+ <li>In speaking, words carry less than 10 percent of our messages. The rest is conveyed by facial expressions, tone of voice, gestures, and posture. In writing, however, words must carry more than 90 percent of the message. Punctuation and graphics convey the rest.<br>在口语中，单词传达的信息不到10%。其余的信息通过面部表情、语调、手势和姿势传达。然而，在书面表达中，单词必须传达超过90%的信息。标点符号和图形传达其余的信息。</li>
     </p>
    <p>
-     <li>The subject of syntax is word order, or sentence patterns. Syntax is about the relationships between words. Word order changes meaning. Consider these two sentences:</li>   
+     <li>The subject of syntax is word order, or sentence patterns. Syntax is about the relationships between words. Word order changes meaning. Consider these two sentences:<br>句法的主题是词序或句子结构。句法关注的是单词之间的关系。词序会改变意义。考虑下面这两个句子：</li>   
+    </p>
+    <ul>
+      <p>
+      <li>Have you left anything?<br>你落下东西了吗？</li>  
     </p>
     <p>
-      <li>Have you left anything?</li>  
-    </p>
-    <p>
-      <li>Have you anything left?</li>  
-    </p>
-    <p>
-       <li>A group of words is a sentence if it contains a subject, verb, and complete idea. If it does not contain a complete idea, it is a clause.</li> 
+      <li>Have you anything left?<br>你有东西落下了吧？</li>  
+    </p>  
+    </ul>
+        <p>
+       <li>A group of words is a sentence if it contains a subject, verb, and complete idea. If it does not contain a complete idea, it is a clause.<br>如果一个词组包含主语、动词和完整的思想，那么它就是一个句子。如果它不包含完整的思想，那么它就是一个从句</li> 
     </p>
 </div>
 
-### Document Formal Review
+
+### Document Formal Review 文件正式审核
 Many documents are subject to a formal review process. You may participate as either author or reviewer, and both roles can be daunting. An understanding of the process itself and of the revision that’s inherent as a result will make your task as writer or reviewer easier.
 
-#### Serving as a Reviewer
+许多文件都需要经过正式的审核流程。您可以作为作者或审核人员参与其中，而这两种角色都可能令人生畏。了解审核过程本身以及由此产生的修订将使您作为作者或审核人员的任务更加轻松。
 
-As reviewer, the first thing you must understand in practicing your skills is this: Although reviewing in itself is far from child’s play, altering a piece of
-writing is easier than creating the original. Your task is difficult because many people are sensitive about what they’ve written, and they have a right to be. The writer who has a sense of ownership in what he has written communicates pride in the work, and that spirit is conducive to good business.
+#### Serving as a Reviewer 作为审核人员
+
+As reviewer, the first thing you must understand in practicing your skills is this: Although reviewing in itself is far from child’s play, altering a piece of writing is easier than creating the original. Your task is difficult because many people are sensitive about what they’ve written, and they have a right to be. The writer who has a sense of ownership in what he has written communicates pride in the work, and that spirit is conducive to good business.
+
+作为审核人员，您首先要明白的是：虽然审核本身并不是儿戏，但修改一篇文章比起创作原作要容易得多。您的任务之所以困难，是因为许多人对自己所写的内容都很敏感，而且他们有权这样做。作为作者，对自己所写的作品有一种所有权感，表达出对工作的自豪感，这种精神有助于良好的业务发展。
 
 Before you put pen to paper, first understand that writing always reflects the writer; it’s a portrait of the person who created it, and a writer will usually defend what she’s created, even if it doesn’t “measure up” to your criteria. Often, too, a writer’s defense of her work stems from an insecurity about her own writing ability. You must, therefore, exercise some human resource skills in addition to your language skills. Make your comments with respect.
+
+在您动笔之前，首先要明白的是，写作总是反映作者本人；它是作者的一幅画像，即使它不符合您的标准，作者通常也会为自己创作的内容辩护。而且，作者对自己作品的辩护往往源于对自己写作能力的不安。因此，您需要在语言技能之外运用一些人力资源技巧。请以尊重（作者）地态度提出您的意见。
 
 First, understand what’s basic to human nature: The very act of writing is a thinking process; and words, your own and others’, trigger new ideas and,
 often, alternate ways of saying the same thing. Thus, it’s extra easy to have your own sense of language stimulated by what you’re reading, and it’s something to consider with care.
 
-Your job when reviewing anyone else’s writing is to assist in creating clear, readable documents. Here’s a bit of common sense: There’s always more
-than one right way to say just about anything. Another person’s way of saying something may not be like yours, but that doesn’t mean it’s not equally good.
+首先，要理解人性的基本特点：写作本身就是一个思考的过程；文字，不论是你自己的还是他人的，都会引发新的想法，常常会产生表达同一内容的不同方式。因此，你的语言感觉很容易受到你所阅读的内容的刺激，这是需要仔细考虑的事情。
 
-#### The Writer’s Voice
+Your job when reviewing anyone else’s writing is to assist in creating clear, readable documents. Here’s a bit of common sense: There’s always more than one right way to say just about anything. Another person’s way of saying something may not be like yours, but that doesn’t mean it’s not equally good.
+
+当你审核他人的写作时，你的工作是帮助创建清晰易读的文件。这是一点常识：几乎任何事情都有多种正确的表达方式。另一个人表达某事的方式可能与你不同，但这并不意味着它不够好。
+
+#### The Writer’s Voice 作者的声音
 
 The words a writer uses and the structures of his sentences are as uniquely his as his fingerprints. These elements flavor what he says. If you’re reviewing a document you can change *ambivalent* to *ambiguous* or *between* to *among* when it’s necessary, and you can let a writer know when more or less background or explanation is needed to make meaning clear. You can suggest concrete, specific, everyday words for an audience that will be unimpressed — or worse, confused — by inflated, generalized, uncommon ones. But you should steer clear of changes that don’t materially affect the way the message is understood, or the way the intended audience will receive it.
+
+作者使用的词语和句子结构与他的指纹一样独特。这些元素为他所说的内容增添了特色。如果你正在审核一份文件，在必要时你可以将“ambivalent”改为“ambiguous”，将“between”改为“among”，并让作家知道何时需要更多或更少的背景或解释来使意义清晰。你可以为受众提出具体、具体、日常的词语，对于那些过于夸张、泛泛而谈、不常见的词语，受众可能会感受不到，甚至感到困惑。但你应该避免进行不会实质性影响信息理解方式或目标受众接受方式的更改。
 
 #### Making Comments
 Reviewing is different from collaborative writing. You can see what happens when an editor’s own writing style is imposed on someone else’s writing.
@@ -573,7 +586,7 @@ This critique places the responsibility for a reader’s understanding on the wr
 
 Most documents require numerous reviewers, and people need to think about content — what works and what doesn’t. Epiphany may not come until a reviewer has looked at a document for a second or third time. When a writer drafts a document like an SOP, it usually goes into a mandatory review cycle, so the norm is reviewers’ comments and subsequent revisions based on those comments. The same is true for documents of great length — reviewers may need to see a document in its various phases of development and in its final stages more than one time.
 
-<div class="warning" style='padding:0.1em; background-color:#eef0f4; color:#69337A'>
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     Asking a working writer what he thinks about critics is like asking a lamppost what it feels about dogs.
     <p style=text-align:right><b>John Osborne,
         Writer</b></p>
