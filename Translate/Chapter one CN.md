@@ -565,80 +565,101 @@ The words a writer uses and the structures of his sentences are as uniquely his 
 
 作者使用的词语和句子结构与他的指纹一样独特。这些元素为他所说的内容增添了特色。如果你正在审核一份文件，在必要时你可以将“ambivalent”改为“ambiguous”，将“between”改为“among”，并让作家知道何时需要更多或更少的背景或解释来使意义清晰。你可以为受众提出具体、具体、日常的词语，对于那些过于夸张、泛泛而谈、不常见的词语，受众可能会感受不到，甚至感到困惑。但你应该避免进行不会实质性影响信息理解方式或目标受众接受方式的更改。
 
-#### Making Comments
-Reviewing is different from collaborative writing. You can see what happens when an editor’s own writing style is imposed on someone else’s writing.
-A supervisor submitted an update on a laboratory project that included the following line:
+#### Making Comments 发表评论
+Reviewing is different from collaborative writing. You can see what happens when an editor’s own writing style is imposed on someone else’s writing. A supervisor submitted an update on a laboratory project that included the following line
 
-*Three unknowns are inherent.*
+审核与协作写作不同。当编辑的写作风格强加于他人的写作时，就会出现一些问题。一位主管提交了一个关于实验项目的更新，其中包括以下句子：
 
-His manager crossed it out and wrote the following:
+*Three unknowns are inherent.（三个未知因素是固有的。）*
 
-*Three unknowns are innate*
+His manager crossed it out and wrote the following 他的经理划掉了这句话，并写下了以下内容:
 
-Such correction does nothing to improve communication, and it delivers its own unspoken message: “You can’t say it right, but I can.” This sort of
-supercilious, authoritarian revision serves no good purpose; in fact, it hinders the business of getting the job done. So if you are reviewing someone
-else’s writing, remember, if a piece works, leave it alone. The practical effectiveness of the final product is your only concern. And a good final product depends not only on your sense of the factually, grammatically correct but also on your respect for the writer’s judgment. To change without purpose only confuses and often angers. Surely poor judgment lies behind a comment such as the following that appeared on an SOP as it moved through review:
+*Three unknowns are innate.（三个未知因素是内在的。）*
+
+Such correction does nothing to improve communication, and it delivers its own unspoken message: “You can’t say it right, but I can.” This sort of supercilious, authoritarian revision serves no good purpose; in fact, it hinders the business of getting the job done. So if you are reviewing someone else’s writing, remember, if a piece works, leave it alone. The practical effectiveness of the final product is your only concern. And a good final product depends not only on your sense of the factually, grammatically correct but also on your respect for the writer’s judgment. To change without purpose only confuses and often angers. Surely poor judgment lies behind a comment such as the following that appeared on an SOP as it moved through review:
 
 *“Confusing. Rewrite!!”*
 
-A dictate such as this fuels resentment, and in fact, it’s an attack. Would it not be better to say, “I’m not sure whether you mean A or B. Can you clarify?”
-This critique places the responsibility for a reader’s understanding on the writer’s shoulders.
+这样的修正对改进沟通没有任何帮助，而且传达了自己未明言的信息：“你说不对，但我可以。”这种傲慢、专断的修订没有任何好处；事实上，它阻碍了完成工作的进程。所以，如果你在审查他人的写作时，请记住，如果一篇文章已经达到预期效果，就不要再修改它。最终产品的实际有效性是你唯一关心的。一个好的最终产品不仅取决于你对事实和语法的正确判断，还取决于你对作者判断的尊重。没有目的地进行改动只会造成困惑，通常还会引起愤怒。当一个标准操作程序（SOP）在审查过程中出现以下评论时，无疑是因为判断不当：
 
-Most documents require numerous reviewers, and people need to think about content — what works and what doesn’t. Epiphany may not come until a reviewer has looked at a document for a second or third time. When a writer drafts a document like an SOP, it usually goes into a mandatory review cycle, so the norm is reviewers’ comments and subsequent revisions based on those comments. The same is true for documents of great length — reviewers may need to see a document in its various phases of development and in its final stages more than one time.
+*"令人困惑。重写！！"*
 
-<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
-    Asking a working writer what he thinks about critics is like asking a lamppost what it feels about dogs.
-    <p style=text-align:right><b>John Osborne,
-        Writer</b></p>
+A dictate such as this fuels resentment, and in fact, it’s an attack. Would it not be better to say, “I’m not sure whether you mean A or B. Can you clarify?” This critique places the responsibility for a reader’s understanding on the writer’s shoulders.
+
+这样的命令性批评会激起反感，实际上，它是一种攻击。更好的做法难道不是说，“我不确定你是指A还是B。你能否澄清一下？”这种批评将读者理解的责任放在了作者的肩上。通过这样的方式，我们给予作者更多的责任，使其能够清楚地传达信息。
+
+Most documents require numerous reviewers, and people need to think about content — what works and what doesn’t.  Epiphany may not come until a reviewer has looked at a document for a second or third time. When a writer drafts a document like an SOP, it usually goes into a mandatory review cycle, so the norm is reviewers’ comments and subsequent revisions based on those comments. The same is true for documents of great length — reviewers may need to see a document in its various phases of development and in its final stages more than one time.
+
+大多数文件需要多个审核人，人们需要思考内容——什么有效，什么无效。顿悟可能直到审核人第二次或第三次查看文件时才会出现。当作者起草一份标准操作规程（SOP）等文件时，通常需要经过强制审核周期，因此常规做法是审核人的评论以及基于这些评论的后续修订。对于很长的文件也是如此——审核人可能需要多次查看文件的不同开发阶段以及最终阶段。
+
+>Asking a working writer what he thinks about critics is like asking a lamppost what it feels about dogs.
+    
+    询问一个工作中的作家对评论家的看法，就像问一个路灯柱子对狗的感受如何一样。
+    
+    ​		——John Osborne, Writer
 
 One final note: Writers are most effective if they feel relaxed and encouraged, with a person to consult when they’re blocked or unsure about mechanics. Your job as a reviewer will be easier and your results better if you approach it looking for the positive and downplaying the negative. Good reviewers can inspire people to build their strengths; as that happens, the negatives evaporate! Focusing on negative performance, on the other hand, does not eliminate weaknesses, but rather diminishes the strengths. To get the best documentation, first identify the writer’s best: Then build from there. When the document completes a review cycle, the writer can readily tell what is needed to create a complete, working vehicle.
 
-#### Guidelines for Reviewing Documents
+最后一点：作家在感到轻松和受到鼓励的情况下才能最有效地工作，他们需要有人可以咨询，当他们遇到障碍或对语法有疑问时。如果你在审核时积极寻找优点并淡化缺点，你的工作将更轻松，结果也会更好。优秀的审核者可以激励人们发展自己的优势，随着这一过程的进行，负面因素会消散！而如果过于关注负面表现，将不会消除弱点，反而会削弱优势。为了获得最佳的文档，首先要识别出作家的优势，然后从这些优势出发进行改进。当文档经过审核流程后，作家能够很容易地知道需要做哪些工作来创建一个完整、可行的文档。
 
-How many times have you picked up a pen or pencil, ready to annotate before you’ve read a word? Sometimes, initial restraint facilitates the task.
-Keep the following guidelines in mind when you must review the writing of others.
+#### Guidelines for Reviewing Documents 文档审核指南
 
-1. Determine the purpose/objective of the document. Make sure you fully understand the job the document has to do.
+How many times have you picked up a pen or pencil, ready to annotate before you’ve read a word? Sometimes, initial restraint facilitates the task. Keep the following guidelines in mind when you must review the writing of others.
 
-2. Read the document through in its entirety for substance. Do not hold a pen in your hand. The temptation to make comments can be overwhelming; yet an emendation to a document on page one may prove unnecessary if the author covers the same ground, perhaps even more effectively, in a later section.
+有多少次你在还没读到一字之前就拿起笔准备做批注？有时候，最初的克制会有助于任务的完成。在审查他人的写作时，请牢记以下准则。
 
-3. Read the document through a second time if you have the luxury; then reflect on it before coming back to it.
+1. Determine the purpose/objective of the document. Make sure you fully understand the job the document has to do.<br>确定文档的目的和目标。确保你完全理解文档需要完成的任务。
 
-4. If the document covers a process, reread the sequential steps again. If you can, allow some “resting” time before you make any changes.
+2. Read the document through in its entirety for substance. Do not hold a pen in your hand. The temptation to make comments can be overwhelming; yet an emendation to a document on page one may prove unnecessary if the author covers the same ground, perhaps even more effectively, in a later section.<br>全文阅读文档，关注其内容要点。不要拿着笔。对于修改意见的冲动可能会很强烈，但如果作者在后面的部分涵盖了相同的内容，甚至更有效地表达，那么在第一页对文档进行修改可能是不必要的。
 
-5. Be positive, not negative, in your comments. Suggest, don’t insist.
+3. Read the document through a second time if you have the luxury; then reflect on it before coming back to it.<br>如果你有时间的话，可以再次全文阅读文档，然后反思一下，再回过头来审查它。
 
-6. Annotate in order of importance for the following:
+4. If the document covers a process, reread the sequential steps again. If you can, allow some “resting” time before you make any changes.<br>如果文档涉及一个过程，请再次阅读其中的顺序步骤。如果可能的话，在进行任何更改之前，留出一些时间来让其休整。
 
-   - Content, completeness, and logic — Is the document comprehensive and understandable?
-   - Consistency — Do all parts of the document work together?
-   - Language — Are there typos and spelling errors? Is the grammar correct? Are word choices appropriate?
+5. Be positive, not negative, in your comments. Suggest, don’t insist.<br>在评论中保持积极态度，而非消极。建议而不是坚持己见。
 
-7. And remember, if the document works, leave it alone. Never “fix” what doesn’t need it.
+6. Annotate in order of importance for the following 按照以下重要性的顺序进行批注:
 
-#### Serving as Author During Document Review
+   - Content, completeness, and logic — Is the document comprehensive and understandable?<br>内容、完整性和逻辑性 — 文档是否全面且易于理解？
+   - Consistency — Do all parts of the document work together?<br>一致性 — 文档的各个部分是否相互协调？
+   - Language — Are there typos and spelling errors? Is the grammar correct? Are word choices appropriate?<br>语言表达 — 是否存在拼写错误和错别字？语法是否正确？词汇选择是否恰当？
 
-Those who review your writing may have valid comments about the content. Someone else’s perspective may be just what your document needs to make it do its job. If, too, a reviewer is less than constructive in his or her criticism, step back emotionally. Don’t take negative, unproductive notations personally. Such commentary often reflects any number of agendas coincidental to the task at hand. Often posing a diplomatic question to a reviewer yields not only conciliation but also positive results in the document.
+7. And remember, if the document works, leave it alone. Never “fix” what doesn’t need it.<br>请记住，如果文档有效，就不要去改动它。不要对不需要修正的部分进行“修复”。
 
-It’s a secure writer who questions reviewers’ comments. Often the outcome is a discussion that yields an entirely different — and infinitely better —
-result. Be open to different perspectives for getting the job done well. And remember, the call-outs a reviewer finds may make the difference between
-a document that goes the distance or one that comes back for revision again.
+#### Serving as Author During Document Review 在文档审核过程中担任作者角色
 
-#### Considering the Effects of Diversity
+Those who review your writing may have valid comments about the content. Someone else’s perspective may be just what your document needs to make it do its job. If, too, a reviewer is less than constructive in his or her criticism, step back emotionally.  Don’t take negative, unproductive notations personally. Such commentary often reflects any number of agendas coincidental to the task at hand. Often posing a diplomatic question to a reviewer yields not only conciliation but also positive results in the document.
 
-Not all writers of American English are native born. What that means, of course, is that the writing that gets done in English may reflect the native
-tongue of the writer. Leaving out articles, for instance, is a deviation common to writers whose native language doesn’t have them, such as Asian and
-Eastern European languages. These are not serious omissions and usually don’t create context problems. Reviewers can readily insert them.
+对于审核您的写作的人来说，他们可能对内容有有效的评论。他人的观点可能正是您的文档所需要的，以使其达到其目的。如果某个审核人在批评中缺乏建设性，情感上要保持冷静。不要将消极、无生产力的批注当作个人攻击。这样的评论通常反映出与任务有关的各种巧合的议程。通常向审核人提出一些委婉的问题不仅可以达成和解，而且对文档产生积极的影响。
 
-Prepositions are pesky, too, for many writers. The Germanic languages have them in abundance, and English is a Germanic language. The Romance languages — French, Spanish, Italian, Portuguese, and Romanian — have them, but they don’t translate perfectly. Still other languages, such as Chinese, don’t have them at all. Most foreign-born writers struggle with some elements of the language, and the difficulty of knowing what and how to document is often compounded by insecurity about the working structure of English.
+It’s a secure writer who questions reviewers’ comments. Often the outcome is a discussion that yields an entirely different — and infinitely better — result. Be open to different perspectives for getting the job done well. And remember, the call-outs a reviewer finds may make the difference between a document that goes the distance or one that comes back for revision again.
 
-If you are such a writer or work with the documentation of such writers, here’s the important thing: The errors typical in the writings of those who have learned English as adults don’t reflect lack of intelligence; they simply reflect a struggle for mastery of the language. Accept the reality and give or take suggestions with grace.
+一个有把握的作家会质疑审核人的评论。往往结果是一场讨论，产生了完全不同且更好的结果。要对不同的观点持开放态度，以便将工作做好。并且请记住，审核人发现的问题可能决定了文档能否一次通过或需要进行修订。
 
-#### Setting Priorities for Writing
+#### Considering the Effects of Diversity 考虑到多样性的影响
 
-Ideally, to produce a clear, easily understood document, whether you have written all or part of it or are reviewing it, you should adhere to commonsense guidelines for writing and reviewing. To have the time to allow a document in various stages of development sit while you think about the content, perhaps as you work on another job or while you attend a meeting or go to lunch, is a luxury, to be sure, but it offers advantages. When you come back to the document, read it again; then make your adjustments. This may seem impossible, given the demands the working day places on you,
-but important documentation especially needs all the effort you can give it. Understanding the strictures under which you work will help. The most omnipresent is allotted time available: It is often simply not enough. All you can do then, of course, is the best possible job in the time you have. Intelligent assessment of any task will always reveal that the amount of time spent on a job will directly affect its outcome. Be realistic. For some projects there is very little time; for others, there is more.
+Not all writers of American English are native born. What that means, of course, is that the writing that gets done in English may reflect the native tongue of the writer. Leaving out articles, for instance, is a deviation common to writers whose native language doesn’t have them, such as Asian and Eastern European languages. These are not serious omissions and usually don’t create context problems. Reviewers can readily insert them.
+
+并非所有以英语写作的美国英语作家都是以英语为母语的。这意味着，用英语进行的写作可能会反映作者的母语。例如，漏掉冠词是非英语为母语的作家常见的偏差，比如亚洲和东欧语言的母语者。这些并不是严重的遗漏，通常不会造成语境问题。审核人员可以很容易地补充上这些冠词。
+
+Prepositions are pesky, too, for many writers. The Germanic languages have them in abundance, and English is a Germanic language. The Romance languages — French, Spanish, Italian, Portuguese, and Romanian — have them, but they don’t translate perfectly. Still other languages, such as Chinese, don’t have them at all. Most foreign-born writers struggle with some elements of  the language, and the difficulty of knowing what and how to document is often compounded by insecurity about the working structure of English.
+
+对于许多写作者来说，介词也是一个棘手的问题。日耳曼语系的语言大量使用介词，而英语是日耳曼语系的一种语言。罗曼语系的语言，如法语、西班牙语、意大利语、葡萄牙语和罗马尼亚语，也有介词，但它们并不能完全对应翻译。其他一些语言，比如中文，根本没有介词。大多数外国出生的作家在语言的某些方面都会遇到困难，对于如何进行文档编写的选择和方式，往往受到对英语工作结构的不安的影响而更加困扰。我们需要理解这些写作者在语言上的挣扎，并尊重他们的努力。
+
+If you are such a writer or work with the documentation of such writers, here’s the important thing: The errors typical in the  writings of those who have learned English as adults don’t reflect lack of intelligence; they simply reflect a struggle for mastery of the language. Accept the reality and give or take suggestions with grace.
+
+如果你是这样的写作者或者与这样的写作者的文档工作相关，这里有一件重要的事情：那些已经成年学习英语的人在写作中常见的错误并不代表他们缺乏智力，而只是反映了他们在掌握语言方面的努力和挣扎。接受这个现实，并以优雅的方式接受或提出建议。我们应该以包容的态度对待他们的努力，并互相帮助进步。
+
+#### Setting Priorities for Writing 为写作设定优先事项
+
+Ideally, to produce a clear, easily understood document, whether you have written all or part of it or are reviewing it, you should adhere to commonsense guidelines for writing and reviewing. To have the time to allow a document in various stages of development sit while you think about the content, perhaps as you work on another job or while you attend a meeting or go to lunch, is a luxury, to be sure, but it offers advantages. When you come back to the document, read it again; then make your adjustments. This may seem impossible, given the demands the working day places on you, but important documentation especially needs all the effort you can give it. Understanding the strictures under which you work will help. The most omnipresent is allotted time available: It is often simply not enough. All you can do then, of course, is the best possible job in the time you have. Intelligent assessment of any task will always reveal that the amount of time spent on a job will directly affect its outcome.  Be realistic. For some projects there is very little time; for others, there is more.
+
+理想情况下，为了撰写一份清晰易懂的文档，无论你是完全自己写作还是进行审查，你都应该遵循一些常识性的写作和审查准则。让文档在不同的开发阶段保持一段时间的休息，让你有时间思考内容，或许在你做其他工作、参加会议或吃午饭时，虽然这是一种奢侈，但它会带来优势。当你回到文档时，再次阅读它，然后进行调整。考虑到工作日对你的要求，这似乎是不可能的，但重要的文档尤其需要你付出所有的努力。了解你所工作的严格限制会有所帮助。最普遍存在的限制是时间的分配：通常时间是不够的。当然，在你所拥有的时间内，你所能做的就是尽力完成最好的工作。明智的评估任何任务都会揭示出工作所花费的时间将直接影响其结果。要保持现实。对于某些项目来说，时间非常紧迫；而对于其他项目来说，时间则相对更充裕。
 
 To allot the maximum time to the tasks at hand for every document, set priorities. If, for instance, several “rush” jobs need to be finished by the end of the workday, take some initial time and evaluate your given tasks. Arrange them in order of importance, most urgent to least, and address them in that order. That way, you’ll address the most important task first, and, with luck, you’ll be able to let it “rest” while you tackle another document and come back to it with a fresh eye. 
 
+为了将最大的时间分配给每个文档的任务，需要设定优先事项。例如，如果有几个“急件”需要在工作日结束之前完成，花一些时间来评估所给定的任务。按重要性的顺序进行排列，从最紧急到最不紧急，并按照这个顺序处理它们。这样，你将首先处理最重要的任务，并且幸运的话，你可以在处理其他文档时让它“休息”，然后以全新的眼光回来处理它。
+
 This approach may not always work. There’s no accounting for the lastminute emergency, the job demanding you let everything else drop and attend to it, but many times setting priorities will give you the upper hand and let you control your work and prevent your work from controlling you.
+
+这种方法并不总是适用。无法预料到最后一刻的紧急情况，有些任务要求你放下其他事情，立即处理它。但是，许多情况下设定优先事项会让你占据主动，掌控你的工作，防止工作控制你。这样做能让你在工作中保持控制，并避免被工作所束缚。
