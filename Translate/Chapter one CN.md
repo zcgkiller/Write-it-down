@@ -1,7 +1,4 @@
-
-## 1 
-
-### Writing Within the Regulated Environment 法规环境下的写作
+# 1 Writing Within the Regulated Environment 法规环境下的写作
 
 As far as most regulatory bodies are concerned, if you didn’t write it down, it didn’t happen. Working in the pharmaceutical, medical device, or biologic milieu is tantamount to journal keeping. In fact, “Write it down” sums up what it takes to get the job done properly. Successful operations require a working union of the day-to-day activities that keep the wheels of the business turning and the documentation that affirms those activities.
 
@@ -15,7 +12,7 @@ The sheer volume of documentation that takes place makes writing well a critical
 
 大量的文档使写作成为一项至关重要的技能，这对成功至关重要。 确实，写作对许多人来说是令人生畏的。 也许是因为对写作进行了如此严格的审查，所以人们不愿将自己的文字写在纸上。 如果您的工作职责中包括写作，那么您可以采取一些方法来减轻任务的艰巨性。 首先是要了解为什么要写作以及该写作如何与其他文档一起工作。 接下来是获得传递语法正确且一致的清晰完整消息所需的工具。 本书所涉及的就是获得必要的工具。
 
-### Writing for Compliance with Binding Regulations 遵守约束性法规的写作
+## Writing for Compliance with Binding Regulations 遵守约束性法规的写作
 
 Why does writing play such an integral part in companies that develop, manufacture, and market therapeutic products? The answer lies largely with the regulatory forces that drive the healthcare industry in the United States and abroad.
 
@@ -84,7 +81,7 @@ Managing the regulatory maze is not easy. Yet keeping abreast of the regulations
 <p style='margin-left:1em;'>还要记住，新法规颁布后，除非政府取消了旧法规，否则它们不会取代现有法规。从本质上讲，新法规成为现有法规的补充。 公司必须遵守既有规则，并对行业最佳实践时刻保持关注。</p>
 </span>
 </div>
-### Document, Document, Document 文件，文件，还是文件
+## Document, Document, Document 文件，文件，还是文件
 Documents work with each other either concurrently or in tandem. Documents tell how things happen on a regular basis and present a “big picture” of a company’s operations, usually in standard operating procedures (SOPs), quality manuals, plans, and other such documents. Documents such as protocols and proposals tell what the company plans to do. Ongoing assessment and data recording occurs as activities progress. Process reports give the results of projects. Finally, summary reports bring it all together — what is the outcome of a significant set of activities?
 
 文件可以同时或串联在一起工作。文件会定期说明事情的发生方式，并通常通过标准操作程序（SOP），质量手册，计划和其他此类文件来呈现公司运营的“全景”。方案和提议之类的文件说明了公司计划采取的措施。随着活动的进行，持续进行评估和数据记录。 过程报告给出了项目的结果。最后，汇总报告将所有内容汇总在一起-一系列重要活动的结果是什么？
@@ -161,7 +158,7 @@ Note that a visit by FDA or another government agency is not the only time a com
 
 注意FDA或其他政府部门并不是仅在检查的时候才会到访。公司可能是另一寻求合同服务或合资企业的公司的审计对象，这样的审计可能会像（迎接）其他检查一样耗费精力，然而一切文件记录在案的实践可以转化为好的商业机会。
 
-### Document Control 文件控制
+## Document Control 文件控制
 
 While this is not a book about document control, it’s important that writers understand that companies must control their documents and that writers must conform to the process in their companies. The systems vary from company to company, but effective companies know which documentation is drafted, written, under review, beginning revision, or moving into obsolescence. The degree of sophistication that characterizes the system is relative to the degree of sophistication of the company itself. A company with many sites needs systems that are more complex than those required by smaller companies.
 
@@ -202,7 +199,7 @@ Standardized formats also make documents easier to write and process for most co
 Document control staff should be able to identify the location of a document in a system at any given time. Staff may also write documents relative to their area or serve in the review process. They may have license to make mechanical, but not content, changes before final approval. Once a document receives final approval, through either a series of review cycles or a concurrence meeting, document control staff should issue the document with no further change. The group should also retrieve previous versions of documents, if any, and provide a history of the document’s development. Document control involves exhaustive attention to detail but does not infringe on the integrity of the documents.
 
 负责文档管理的工作人员应该在任何给定的时刻都能确定文档在系统中的位置。工作人员也可以编写与他们领域相关的文档或者参与审查过程。在文档被正式批准之前，他们有权限去进行格式化而非内容的修改。一旦文件通过一系列的审查或同意会议得到最终批准，文件控制人员应发布该文件，不得进一步更改。该小组还应该收回以前版本的文档（如果有的话），并提供文档演变的历史。文件控制涉及对细节的详尽关注，但不违背文件的完整性。
-### The Writing Task 写作任务
+## The Writing Task 写作任务
 
 Writing is hard work, and it is high on the list of what people hate to do most. For many, it’s an intimidating task. In regulated industries this can be especially true: You may find yourself in the position of having to document what has happened, what happens regularly, what will happen. Regardless of the focus, writing always requires accuracy, attention to detail, and clarity.
 
@@ -258,8 +255,6 @@ In this industry, few people write in solitary. You may be called upon to prepar
    12. Review corrective and preventive action plans 审查纠正和预防措施计划<br>
 13. Follow-up on the effectiveness of corrective action plans after implementation 在实施后跟进纠正措施计划的有效性</p>
    <p style='margin-top:1em; text-align:right'><b>Courtesy of Monica Grimaldi, Certified Quality Engineer</b></p>
-
-
 
 The good news is that for many types of writing there are clear guidelines. For writing documents such as SOPs, you need to look to the company standards; the same holds true for validation documents. For other types of writing, you can look to the regulations, industry practices, and government issued guidances. Consider for instance, preparing a Chemistry, Manufacturing, and Controls (CMC) section of a submission for approval to market a solid-dose drug product. How will what you are to write fit into the big picture? The guideline for CMC breaks down the components into manageable groupings of information including (1) the drug substance, (2) the drug product, (3) methods validation, and (4) environmental assessment. Within each of these groupings are subgroupings. You can thus prepare components of each and assemble them accordingly. Of course, you’ll have to do your homework first. Make sure you fully understand what it is that you have to say.
 
@@ -335,7 +330,7 @@ Writers work in different patterns. Some do better with copious notes, others wi
 </div>
 
 
-### Writing and Revising 撰写与修订
+## Writing and Revising 撰写与修订
 
 >The best motivation for writing is a deadline.
 >最好的写作动力是截止日期。
@@ -358,7 +353,7 @@ If you are writing a document for a formal review, remember that the better the 
 
 如果你要撰写一份需要正式审核的文件，请记住，在审核过程之前，文件的质量越好，获得批准的速度就越快。特别是你的审阅者将会感谢你的勤奋，因为这会使他们的任务更容易。从长远来看，你可能会花更少的时间来争取最终批准的文本。
 
-#### Collaborative Writing 协作撰写
+### Collaborative Writing 协作撰写
 
 Collaborative writing means that two or more people conjointly contribute information to the draft and completion of a single document. For example, work that runs continuously, such as pilot plant operations, requires systematic record keeping across shifts. Those records may ultimately feed into reports, with several people preparing sections. Certainly, equipment installation and operation protocols and qualification reports require the expertise of all who work on a specific project. Clinical trial reports may have more than one writer, and certainly dossiers headed to regulatory agencies have a host of authors who have provided input.
 
@@ -366,8 +361,6 @@ Collaborative writing means that two or more people conjointly contribute inform
 
 >Common sense is not so common. 常识并非那么平常
 >——Voltaire
-
-
 
 Writers working collaboratively on documents must offer information that ultimately serves one purpose, and although that can be difficult, it’s common. What’s needed when people embark upon a joint writing venture is a clear understanding up front and a sense of document ownership. Many a collaborative writing project has gone awry because none of the writers assumed ownership, and the end product became a document with no clear purpose, simply a compilation of information without unity.
 
@@ -377,19 +370,19 @@ Writers need to agree on the main purpose and supporting points for the document
 
 作者需要就文档的主要目的和支持论点达成一致。通常，每个作者都可以澄清其他人的想法，因为他们对主要观点有一个坚实但略有不同的理解。讨论有助于明确报告的目的，这种讨论最好在写作过程开始之前进行。接下来要做的是决定谁来写什么。如果你在合作撰写，与合作者合作制定对所有参与者最容易的过程。下面的两种方法都是可行的，但都需要一些谈判技巧。
 
-##### The First Approach 第一种方法
+#### The First Approach 第一种方法
 
 The first approach calls for a designated person to draft the document and for the others to add and amend. That’s not to say the first person shouldn’t review and be permitted adjustments to the text before submission of the finished product. The strength of this system is that the person with the strongest language skills does the “cleaning up,” while the writers with the strongest technical expertise have their say. Alterations in the text are with the approval of all writers. You’ll find this approach to be particularly efficient in the composition of short documents.
 
 第一种方法是指定一个人起草文档，其他人进行添加和修订。这并不意味着第一个人在提交最终成果之前不应该对文本进行审查和调整。这种系统的优势在于语言技巧最强的人进行“修整”，而在技术专长最强的撰写者发表自己的意见。文本的修改需要得到所有撰写者的批准。你会发现这种方法在撰写短文档时特别高效。
 
-##### The Second Approach 第二种方法
+#### The Second Approach 第二种方法
 
 The second approach requires more planning than the first approach. In this approach, the writers assess needs of the document and assume ownership of specific portions. All writers need to understand the components of the planned document and what needs to reside where. They then agree on the formatting conventions and the time for text completion. Writers then meet to combine the elements and polish the document, with each reading and making comments on the entire text. Revision and refinement should come through tactful commentary and with the consent of the writer responsible for each individual section. This approach is usually the most effective in the composition of reports or other documents of length.
 
 第二种方法比第一种方法需要更多的规划。在这种方法中，撰写者评估文档的需求，并承担特定部分的责任。所有撰写者需要了解计划文档的组成部分以及各个部分的安排。然后，他们就格式约定和文本完成的时间达成一致。撰写者之后会进行会面，将各个部分合并并完善文档，每个人都会阅读整个文本并发表意见。修订和改进应通过得体的评论，并经过负责每个单独部分的撰写者的同意。这种方法通常在撰写报告或其他较长文档时最有效。
 
-#### Reaching Agreement 达成一致
+### Reaching Agreement 达成一致
 
 Trust in other people’s expertise and a willingness to accept their judgment are crucial to collaborative writing. Remember also that two or more people will have distinct writing styles, and that those styles may vary dramatically; yet sometimes the style distinctions will be barely discernible. Try not to make arbitrary alterations in your coauthors’ work; similarly, be tolerant of any minor changes a coauthor may make in your writing, and reach agreement as to the clarity and completeness of the message. And remember, nothing does as much for a common goal as conversation. If you feel a change is necessary, discuss it. Chances are greater that your collaborators will agree after they’ve heard your explanation. Similarly, you’ll feel better about text adjustments after you’ve had the opportunity to hear why your coauthors feel they should be made. Discussion, after all, is the bond that makes collaboration workable in the first place.
 
@@ -407,7 +400,7 @@ The final word count is 300, and the message is succinctly delivered. Here’s a
 
 最终的字数达到了300字，并且信息简洁明了地传达出来。一个令人高兴的消息是：摘要被接受，并且作者们在会议上进行了展示。
 
-##### First Draft/Idea Stage 第一稿/创意阶段
+#### First Draft/Idea Stage 第一稿/创意阶段
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
 <b>ABSTRACT TITLE:</b>
@@ -441,7 +434,7 @@ The consultant then reviewed the text and added some information to address the 
 
 然后顾问对文本进行了审核，并添加了一些信息来回答经理的问题并完善写作。
 
-##### 2nd Draft: Expanded Text 第二稿：扩写本文
+#### 2nd Draft: Expanded Text 第二稿：扩写本文
 ~~**FIRST DRAFT/IDEA STAGE**~~
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
 <p><b>ABSTRACT TITLE:</b></p>
@@ -470,7 +463,7 @@ The result is a better abstract. (Her edits are underlined.)
 
 修订稿共有298个单词。副总裁查看后提出了一些修改意见，注意到范围过于广泛。在一个简短的演讲中，三人无法讨论从研究到市场的整个过程。因此，范围被限制在发展阶段，摘要仅涵盖这一过程。此外，她更注重"年轻"而不是"新的"公司。她还选择将"研究与开发"作为一个整体来表达，因此动词是单数形式。结果是一个更好的摘要。（她的修改已用下划线标出。）
 
-##### Final Draft 终稿
+#### Final Draft 终稿
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
 <p>
@@ -535,12 +528,12 @@ any other language. English is the official language of England, Ireland, the US
 </div>
 
 
-### Document Formal Review 文件正式审核
+## Document Formal Review 文件正式审核
 Many documents are subject to a formal review process. You may participate as either author or reviewer, and both roles can be daunting. An understanding of the process itself and of the revision that’s inherent as a result will make your task as writer or reviewer easier.
 
 许多文件都需要经过正式的审核流程。您可以作为作者或审核人员参与其中，而这两种角色都可能令人生畏。了解审核过程本身以及由此产生的修订将使您作为作者或审核人员的任务更加轻松。
 
-#### Serving as a Reviewer 作为审核人员
+### Serving as a Reviewer 作为审核人员
 
 As reviewer, the first thing you must understand in practicing your skills is this: Although reviewing in itself is far from child’s play, altering a piece of writing is easier than creating the original. Your task is difficult because many people are sensitive about what they’ve written, and they have a right to be. The writer who has a sense of ownership in what he has written communicates pride in the work, and that spirit is conducive to good business.
 
@@ -559,13 +552,13 @@ Your job when reviewing anyone else’s writing is to assist in creating clear, 
 
 当你审核他人的写作时，你的工作是帮助创建清晰易读的文件。这是一点常识：几乎任何事情都有多种正确的表达方式。另一个人表达某事的方式可能与你不同，但这并不意味着它不够好。
 
-#### The Writer’s Voice 作者的声音
+### The Writer’s Voice 作者的声音
 
 The words a writer uses and the structures of his sentences are as uniquely his as his fingerprints. These elements flavor what he says. If you’re reviewing a document you can change *ambivalent* to *ambiguous* or *between* to *among* when it’s necessary, and you can let a writer know when more or less background or explanation is needed to make meaning clear. You can suggest concrete, specific, everyday words for an audience that will be unimpressed — or worse, confused — by inflated, generalized, uncommon ones. But you should steer clear of changes that don’t materially affect the way the message is understood, or the way the intended audience will receive it.
 
 作者使用的词语和句子结构与他的指纹一样独特。这些元素为他所说的内容增添了特色。如果你正在审核一份文件，在必要时你可以将“ambivalent”改为“ambiguous”，将“between”改为“among”，并让作家知道何时需要更多或更少的背景或解释来使意义清晰。你可以为受众提出具体、具体、日常的词语，对于那些过于夸张、泛泛而谈、不常见的词语，受众可能会感受不到，甚至感到困惑。但你应该避免进行不会实质性影响信息理解方式或目标受众接受方式的更改。
 
-#### Making Comments 发表评论
+### Making Comments 发表评论
 Reviewing is different from collaborative writing. You can see what happens when an editor’s own writing style is imposed on someone else’s writing. A supervisor submitted an update on a laboratory project that included the following line
 
 审核与协作写作不同。当编辑的写作风格强加于他人的写作时，就会出现一些问题。一位主管提交了一个关于实验项目的更新，其中包括以下句子：
@@ -593,7 +586,7 @@ Most documents require numerous reviewers, and people need to think about conten
 大多数文件需要多个审核人，人们需要思考内容——什么有效，什么无效。顿悟可能直到审核人第二次或第三次查看文件时才会出现。当作者起草一份标准操作规程（SOP）等文件时，通常需要经过强制审核周期，因此常规做法是审核人的评论以及基于这些评论的后续修订。对于很长的文件也是如此——审核人可能需要多次查看文件的不同开发阶段以及最终阶段。
 
 >Asking a working writer what he thinks about critics is like asking a lamppost what it feels about dogs.
-    
+
     询问一个工作中的作家对评论家的看法，就像问一个路灯柱子对狗的感受如何一样。
     
     ​		——John Osborne, Writer
@@ -602,7 +595,7 @@ One final note: Writers are most effective if they feel relaxed and encouraged, 
 
 最后一点：作家在感到轻松和受到鼓励的情况下才能最有效地工作，他们需要有人可以咨询，当他们遇到障碍或对语法有疑问时。如果你在审核时积极寻找优点并淡化缺点，你的工作将更轻松，结果也会更好。优秀的审核者可以激励人们发展自己的优势，随着这一过程的进行，负面因素会消散！而如果过于关注负面表现，将不会消除弱点，反而会削弱优势。为了获得最佳的文档，首先要识别出作家的优势，然后从这些优势出发进行改进。当文档经过审核流程后，作家能够很容易地知道需要做哪些工作来创建一个完整、可行的文档。
 
-#### Guidelines for Reviewing Documents 文档审核指南
+### Guidelines for Reviewing Documents 文档审核指南
 
 How many times have you picked up a pen or pencil, ready to annotate before you’ve read a word? Sometimes, initial restraint facilitates the task. Keep the following guidelines in mind when you must review the writing of others.
 
@@ -626,7 +619,7 @@ How many times have you picked up a pen or pencil, ready to annotate before you�
 
 7. And remember, if the document works, leave it alone. Never “fix” what doesn’t need it.<br>请记住，如果文档有效，就不要去改动它。不要对不需要修正的部分进行“修复”。
 
-#### Serving as Author During Document Review 在文档审核过程中担任作者角色
+### Serving as Author During Document Review 在文档审核过程中担任作者角色
 
 Those who review your writing may have valid comments about the content. Someone else’s perspective may be just what your document needs to make it do its job. If, too, a reviewer is less than constructive in his or her criticism, step back emotionally.  Don’t take negative, unproductive notations personally. Such commentary often reflects any number of agendas coincidental to the task at hand. Often posing a diplomatic question to a reviewer yields not only conciliation but also positive results in the document.
 
@@ -636,7 +629,7 @@ It’s a secure writer who questions reviewers’ comments. Often the outcome is
 
 一个有把握的作家会质疑审核人的评论。往往结果是一场讨论，产生了完全不同且更好的结果。要对不同的观点持开放态度，以便将工作做好。并且请记住，审核人发现的问题可能决定了文档能否一次通过或需要进行修订。
 
-#### Considering the Effects of Diversity 考虑到多样性的影响
+## Considering the Effects of Diversity 考虑到多样性的影响
 
 Not all writers of American English are native born. What that means, of course, is that the writing that gets done in English may reflect the native tongue of the writer. Leaving out articles, for instance, is a deviation common to writers whose native language doesn’t have them, such as Asian and Eastern European languages. These are not serious omissions and usually don’t create context problems. Reviewers can readily insert them.
 
@@ -650,7 +643,7 @@ If you are such a writer or work with the documentation of such writers, here’
 
 如果你是这样的写作者或者与这样的写作者的文档工作相关，这里有一件重要的事情：那些已经成年学习英语的人在写作中常见的错误并不代表他们缺乏智力，而只是反映了他们在掌握语言方面的努力和挣扎。接受这个现实，并以优雅的方式接受或提出建议。我们应该以包容的态度对待他们的努力，并互相帮助进步。
 
-#### Setting Priorities for Writing 为写作设定优先事项
+## Setting Priorities for Writing 为写作设定优先事项
 
 Ideally, to produce a clear, easily understood document, whether you have written all or part of it or are reviewing it, you should adhere to commonsense guidelines for writing and reviewing. To have the time to allow a document in various stages of development sit while you think about the content, perhaps as you work on another job or while you attend a meeting or go to lunch, is a luxury, to be sure, but it offers advantages. When you come back to the document, read it again; then make your adjustments. This may seem impossible, given the demands the working day places on you, but important documentation especially needs all the effort you can give it. Understanding the strictures under which you work will help. The most omnipresent is allotted time available: It is often simply not enough. All you can do then, of course, is the best possible job in the time you have. Intelligent assessment of any task will always reveal that the amount of time spent on a job will directly affect its outcome.  Be realistic. For some projects there is very little time; for others, there is more.
 
