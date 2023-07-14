@@ -342,5 +342,69 @@ The following technical note does not call for reader action directly because th
 
 The following memo focuses on the events and does not call for action from the reader; its purpose is to inform the recipient, a Regulatory Director, of the results of a complaint investigation. The Director, in turn, will compose a complaint response.
 
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
+    <b><i>KIM LABORATORIES, S. A. Memorandum</i></b>　　　　　　　　Page 1 of 1
+    <p>
+        DATE: October 11, 2005
+    </p>
+	<p>
+        TO: Rui Li
+    </p>
+	<p>
+    	FROM: Eugenia Cline
+    </p>
+	<p>
+    	RE: 2 mg/5 mL complaint
+    </p>
+    <p>
+        Quality Assurance has reviewed the following 0.5 mg/1 mL product complaint and found radioactivity in the excess precipatated material and low final activity in the product.
+    </p>
+    <table>
+        <tr>
+            <td>Site</td>
+        	<td>Lot</td>
+        	<td>Isotope Manufacture</td>
+        	<td>Isotope Lot</td>
+        </tr>
+        <tr>
+            <td>Wellman Pharmacy</td>
+            <td>66B2</td>
+            <td>Radiostuff Inc.</td>
+            <td>456</td>
+        </tr>
+    </table>
+    <p>
+        The isotope from Radiostuff Inc. has periodically become bound in the excess precipitate formed during the labeling of the product. The isotope caught up in the precipitate is a result of isotope colloids forming during the preparation of the isotope-product complex. The formation of isotope colloids is dependent on the lot of isotope. In addition to this product complaint, three additional complaints the same day proved to be related to the labeling of the products with isotope lot 66B2. In addition to isotope lot–related issues, there are several other interrelated variables, including the importance of strictly following the labeling procedure on the package insert. Quality Assurance completed a report on the causes of isotope colloid formation during the labeling procedure in January 2005. It is available in the QA Archives. 
+    </p>
+    <p>
+        A review of the production records found them to be acceptable. The complaint incident does not represent a serious or unexpected drug experience, so a report of the incident to FDA is unnecessary. However, a review of isotope-related complaints from last year is now underway to determine if further clarification of this recurring situation is possible.
+    </p>
+    <p style=text-align:right><b>Courtesy of Michael Nolan</b></p>
+    <b>Explaining Trade Dress Revisions</b>
+    <p>
+        The thrust of the following memo is to announce a trade dress revision. It does not call for any action on the part of the readers and simply presents information about a change in market image of a product. Ultimately it will become part of a product development outline. It is direct and to the point and uses the corporate “we.”
+    </p>
+</div>
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
+<p style=text-align:right>
+    <b>Lily Labs Interoffice Memo</b>
+    </p>
+    <P>
+        To: Dr. Maureen Conlan</P>
+    <p style=text-indent:1.5em>Dr. Kathleen Monroe</p>
+	<p style=text-indent:1.5em>Dr. John Tessman</P>
+    <P>
+        From: Seth Porter</P>
+    <p>
+        Location: New Product Development</p>
+    <p>
+        Date: Nov. 22, 2005</p>
+    <p>
+        Re: Trade Dress Revisions
+    </P>
+</div
 
+
+
+​    
 
