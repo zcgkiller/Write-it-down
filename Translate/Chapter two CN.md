@@ -380,11 +380,12 @@ The following memo focuses on the events and does not call for action from the r
         A review of the production records found them to be acceptable. The complaint incident does not represent a serious or unexpected drug experience, so a report of the incident to FDA is unnecessary. However, a review of isotope-related complaints from last year is now underway to determine if further clarification of this recurring situation is possible.
     </p>
     <p style=text-align:right><b>Courtesy of Michael Nolan</b></p>
-    <b>Explaining Trade Dress Revisions</b>
-    <p>
-        The thrust of the following memo is to announce a trade dress revision. It does not call for any action on the part of the readers and simply presents information about a change in market image of a product. Ultimately it will become part of a product development outline. It is direct and to the point and uses the corporate “we.”
-    </p>
 </div>
+
+### Explaining Trade Dress Revisions
+
+The thrust of the following memo is to announce a trade dress revision. It does not call for any action on the part of the readers and simply presents information about a change in market image of a product. Ultimately it will become part of a product development outline. It is direct and to the point and uses the corporate “we.”
+
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
 <p style=text-align:right>
     <b>Lily Labs Interoffice Memo</b>
@@ -402,9 +403,148 @@ The following memo focuses on the events and does not call for action from the r
     <p>
         Re: Trade Dress Revisions
     </P>
-</div
+	<p>
+        We have made the following changes to the market image of Nadolol tablets, 300 mg. Labetalol HCI Tablets, 300 mg: The tablet will be coated with an Opadry to match blue552 in the Opadry color kit. These tablets will be film coated and have no bisect. The imprint “LL” will appear on one side of the tablet.
+</p>
+</div>
 
+## The Words You Choose
 
+Much has been said about objectivity and subjectivity. Remaining objective is generally the goal for writing, unless we are preparing a piece of correspondence that contains a personal message. What does being “objective” rather than “subjective” mean? Being objective really means focusing on the best, most direct delivery of information for the reader’s understanding without interjection from the writer. Subjectivity allows the writer’s opinion to come through.
 
-​    
+However, many people who teach and assess writing have come to understand that, while some passages can be more objective than others, no writer can rid himself of subjectivity completely. The words writers choose are the results of their thinking patterns and their personalities; so are their language constructions. Thus, the writer’s voice really reflects the individual who first composes a document. Perhaps that’s why so many eyes see most documents generated within companies developing or manufacturing therapeutic products, at contract research organizations, and at clinical sites. In an effort to be objective, rather than subjective, most technical people focus on the activity rather than the doer of the activity when recording information. However, whereas this approach is logical, it’s not law. People, after all, comprise companies. People communicate what they know to others. They present their findings and ideas so that other people can examine them, either immediately or in the future.
 
+Readers generally receive information better if it includes a doer of the action, an active “we did this” rather than “this was done” approach. Studies show that when reading the passive voice the audience tends to turn the information around anyway before digesting it. Thus, it often makes sense to say “we” when you mean your department or area. Indeed, the corporate “we” is a handy device when you speak on behalf of a unit. You can also refer to your department or area directly: “New Product Development (NPD) has completed the formulation.” (Chapters 9, 10, and 11 give more information about the passive voice.)
+
+Don’t shun using “I” either. Many documents that speak directly to people appropriately incorporate “I,” the writer. “I’m sending you the dissolution data you requested yesterday” is direct and to the point in a brief memo. Even in longer reports, it’s okay to include yourself. “During July, I completed the validation of the in-house method” delivers information straightforwardly in a periodic report. Howard Kanare, author of Writing the Laboratory Notebook, points out that a notebook entry that says “I saw the mixture turn blue after 10 min.,” is preferable to what scientists often write: “It was observed that the mixture changed color after a few minutes had elapsed.”
+
+A word of caution is probably wise here, however. Many technical arenas have for so long avoided the use of the first person and first person plural in correspondence and documentation that it feels unnatural, and may even seem “unprofessional.” Exercise some judgment, but make your decision knowing that including the doer of the action violates no professional writing standards.
+
+The following passage is an excerpt from a Drug Master File from a Pre- Market Approval Application (PMAA). Notice that it is objective and factual, yet the writer here does not choose to eliminate the corporate “we.” The result is direct and easy to read text.
+
+> Abrams, Inc. began development of the active pharmaceutical ingredient in 2003. Development was in three phases. An initial small scale processing produced material for toxicology studies and research. In 2003 through 2004, Abrams scaled the process to provide sufficient final intermediate to allow production by an alternate manufacturing source for the final active pharmaceutical ingredient. No manufacturing occurred before 2004.
+
+> In 2004, Abrams, under our directive, undertook a major development project to improve process safety and reduce process cycle-time and process waste. The result of this final phase development effort was the drug product which is the subject of this submission.
+
+We provide the details of the lots produced during development and explain the changes in the processes relative to lot usage in the development studies. 
+
+## Using Suitable Language
+
+You must also make sure your memos, letters, and reports present your information in terminology your readers will understand. If you are a chemist writing to another chemist, you share expertise, and complex technical terms will probably pose few problems. If you are a chemist, however, writing to an information systems specialist, you may very well run into difficulties, just as you might in conveying information if you are a chemical engineer writing to a line supervisor. Again, awareness of the expertise of the recipient is tantamount to successful delivery and acceptance. 
+
+The following excerpt from an engineering department planning a laboratory renovation was addressed to a director of analytical development.
+
+> Enclosed herewith is the laboratory master plan proposal which abandons the one previously proposed by engineering in favor of a proposed master plan for a facility with six additional modified workstations, and one additional door to the corridor to facilitate access and egress and interfacing between the analytical laboratory undergoing restoration and quality control.
+
+Here the writer has forgotten that the reader of his review, a chemist, is not a facility engineer and has not been a party to all the discussions that have gone into developing the original proposal. Even though the director may understand what is necessary in the laboratory, she may not be prepared to work out the difference between a “master plan proposal” and the plan “previously proposed.” She can easily become befuddled if the vocabulary impedes the message. 
+
+The phrasing “to facilitate access and egress and interfacing between the laboratory undergoing restoration and quality control,” means, simply put, “to make going back and forth between the analytical development lab and quality control easier.” In his choice of words, the writer betrays either ignorance of the person who will be reading his analysis or carelessness in presenting the information. 
+
+You can avoid the grief that will surely befall you if you submit writing such as this. For one thing, look for words such as “proposed” and “proposal” that each seem to be one word referring to two different things or ideas. This is called “equivocation,” and here it is confusing—not richly ambiguous as it would be in a piece of literature. Second, if it isn’t possible to reduce technical verbiage to concrete terms, supply brief definitions—a phrase or two—or examples to clarify things for the nontechnical reader. Third, on the assumption that as master plans, such documents are subject to review long after they have been put together and after their authors have moved on to other jobs, ask the reviewer to supply context or briefly repeat background information that other memos might include in more detail—that is, the circumstances of the suggestions under review. 
+
+At times it’s appropriate to use technical terminology. Most professions have their own “shorthand”—terms that are unique to a particular subject area. Among specialists, this shorthand, or jargon, can save time and even communicate information more precisely than if it were eliminated. When you say “We’re working out the ‘bugs’ in the system,” or “The computer is down,” you’re communicating succinctly to people who are computer knowledgeable but perhaps unclearly to those who aren’t. What you must do, then, is evaluate your audience and make sure you’re using diction that will do the best job for you. When a chemist refers to “two unknowns,” another chemist will immediately understand that two impurities have not been identified. A less technical person might not. 
+
+Evaluate what needs to be said and to whom. What can happen as a result of unnecessary jargon is that your reader will think you’re trying to put something over on him, or worse, won’t understand what’s being said at all. In addition, since most companies have their own jargon, you may run the risk of including terminology that means one thing to you, but something quite different to an external reader. 
+
+## Controlling Acronyms
+
+Acronyms are specialized jargon. They’re created from the first letters of a group of words, or from a combination of letters and parts of words. For example, GC is an acronym for gas chromatography; IPA is an acronym for isopropyl alcohol; and SOP is an acronym for Standard Operating Procedure. These acronyms are perfectly clear to most technical people and they probably need no explanation. 
+
+Yet acronyms are endemic in this industry—so much so that FDA includes a list of common acronyms on its website. A very real danger of acronyms wreaking havoc can occur when a company uses an acronym to mean a thing easily understood internally, but that means something entirely else to an external auditor, joint-venture manufacturer, or FDA inspector. Even cGMP, which most of the industry understands to mean current Good Manufacturing Practices, can indicate something quite different—cyclic guanosine monophosphate. 
+
+So unless you are sure your reader knows that DTA means differential thermal analysis, you’ll be better off spelling the words out. It never hurts to handle acronyms the way most technical writing experts advise: Simply spell out the full term in the first citation and follow it with the acronym in parenthesis. 
+
+>We hope to complete the Modified Release Facility (MRF) by June.
+>In subsequent references within the document, simply use the acronym.
+>The MRF facility will be producing solid dosage products.
+
+To prevent confusion and ensure consistency, careful writers follow these guidelines as well.
+
+- In most cases, do not use periods within or after the acronym, except at the end of a sentence.
+- Do not use an apostrophe with a plural acronym.
+  - CRFs, IRBs, INDs
+- When affixing a prefix to an acronym, hyphenate the prefix and the acronym.
+- pre-IND submission activities
+
+Most companies have also realized that it’s sensible to maintain a list of acronyms specific to the company. This they usually do as part of a style guide or style sheet. Such a tool makes the appropriate acronym available to writers and deflects the possibility of confusion or misunderstanding as to what company writers mean. (Chapter 14 provides a lengthy list of industry-specific acronyms.) 
+
+## Connotation and Denotation
+
+The English language is such that we have many, many words to indicate the same thing. These are synonyms. And while synonyms will appear in the dictionary as definitions for each other, there are often subtle variations. So the first definition is the primary meaning of a word, the denotation; what follows are usually the connotations of the word. A word like “smell” may be defined as “odor” or “scent,” but the three words have different connotations, the associations we place on them, with “odor” being most negative, “smell” somewhat less negative, and “scent” as positive and light, and aroma also positive, but stronger. You must, therefore, choose your words carefully so that the precise understanding of the message is the result. 
+
+## Defining Terms
+
+Once you know to avoid unnecessary jargon and unidentified acronyms that may baffle and befuddle readers, concern yourself with clarifying the rest of the words essential to the message. Remember, information is useful only if it makes sense, and what makes sense to you may not make sense to your readers. 
+
+Readers with technical expertise similar to yours will most likely understand specialized data without lengthy explanation. But readers with less technical expertise than yours will generally have trouble absorbing the information. Therefore, evaluate the appropriateness of your words and select terms so as to make the information readily comprehensible and impossible to misinterpret. In a work environment, only the rare reader will consult a dictionary to read a letter or memo, let alone a long report. In technical writing, terms open to interpretation deserve definition. 
+
+For instance, if an engineer writes a report on the safe installation and operation of electrical equipment that includes as its audience new technicians, he may need to include a definition of “grounding.” Similarly, an inhouse manual that describes an SOP system should include a definition of key terms as they apply to the system. For instance, “Active SOP” can be defined to include the existing version of an SOP undergoing revision. When the revised version becomes “active,” the previous version is “retired”; however, a “withdrawn” SOP can denote a document no longer in use in any version. The terms “retired” and “withdrawn” can be easily interchanged unless they are clearly defined. Consider these terms: “current document,” “obsolete document,” “inactive document,” “disabled document,” and “enabled document.” These designations are common to document control systems and will vary from company to company. Hence, they demand definition. 
+
+There are several effective ways to define terms. These include parenthetical, restatement, classification, operation, etymology, background, and negation. Often a definition will employ more than one technique. In essence, here’s how they work. 
+
+### Parenthetical Definition
+
+Parenthetical definitions include an explanation in parenthesis after the word.
+
+>We discarded the effervescent (bubbling) mixture.
+>Identify the scientific (taxonomic) name of a phylum, class, order, family, or genus.
+
+### Restatement Definition
+
+Restatement definitions offer an appositive word or phrase that restates the term. Note that this type of definition calls for two commas when it appears within a sentence to set off the restatement, unless it comes at the beginning or end of a sentence. Sometimes a restatement definition is a separate sentence.
+
+>A polygraph, an instrument used in lie detection, records changes in pulse, blood pressure, and respiration.
+>
+>The trees outside the new facility are deciduous; that is, they shed their leaves by the end of October.
+
+### Classification Definition
+
+Classification tells what family a word belongs to.
+
+>A dog is a member of the canine family.
+>A tumor is a neoplasm.
+>Bluetongue II virus is a member of the Reoviridae family.
+
+### Operation Definition
+
+An operation definition tells how something works or happens.
+
+>A disorder of the pituitary gland or pancreas causes diabetes, a metabolic disease characterized by excessive urination, persistent thirst, and often, an inability to metabolize sugar.
+>
+>Air-to-air solar heating circulates cool air from inside the facility, across a collector plate, which is heated by sunlight on the roof, and then back into the facility.
+
+### Etymology Definition
+
+Etymology looks back in time to the roots of words. Approximately two thirds of the words in the English language have their origins in Latin and Greek.
+
+>“Biology” comes from the root “bio,” meaning “life,” and “ology,” meaning “study of.”
+>
+>“Chromatograph” comes from the root “chroma,” meaning “color,” and “graph,” meaning “write.”
+
+### Background Definition
+
+A background definition gives some history.
+
+> Gasohol, a mixture of 90% unleaded gasoline and 10% ethyl alcohol (ethanol), has gained some acceptance as a fuel, since it is comparable in performance to 100% unleaded gasoline with the added benefit of having superior antiknock properties. 
+
+### Negation Definition
+
+Definition by negation means telling what something is not.
+
+> Adsorption is not a misspelling of absorption. Adsorption causes liquid to adhere to a surface, like dew on a leaf, while absorption pulls liquid in, much like a sponge drinks up water. 
+
+## Nondiscriminatory Language
+
+Cautious writers take care to avoid using language that sounds discriminatory. Racism and sexism have worked their way insidiously into the American language. It’s probably impossible to rid writing of every metaphor that holds meanings for male and female or ethnic affiliation, but you can certainly act to be sure you use the language to promote social equality rather than hinder it. Choose terms and expressions that don’t refer to people in ways that can be considered negative or discriminatory. 
+
+One way to avoid discriminatory statements is to choose qualifiers carefully. To say “a woman manager” is discriminatory. To refer to “the Hispanic technician on the six o’clock shift” is as well. And to write that “her innovative ideas belie her age,” even with the intent to compliment, is foolhardy. Unnecessarily drawing attention to differences without cause is discriminatory. 
+
+Be careful, too, not to use “he,” “him,” or “his” exclusively when referring to colleagues. One way to avoid offending is to use “he or she” or “him or her,” for instance. But, as you can see, that can be awkward. Many writers, for that reason, use the plural, or interchange gender pronouns. It’s also a good idea to choose the sexually neutral word over the traditional equivalent. For instance, “chair” or “chairperson” works just as well as the commonly used “chairman.” 
+
+> The geographical distribution of the Germanic languages, of which English is one, has been more extensive than that of any other group of languages. 
+
+## Living Language
+
+American English, like other living languages, is in constant transition. It is ever adjusting to reflect the changes in society. The alterations in the language can be controversial and have drawn some criticism from purists who wish to retain the form they learned initially. Yet the reality is that English borrows words from other languages incessantly, sometimes with the foreign pronunciation and sometimes without, adhering more to the standards for American English pronunciation. Immigrants bring terminology that quickly gets absorbed into the vernacular; new ideas receive new labels; and words are regularly shortened and combined with other words. And so language alters itself. 
+
+Unlike many other nations, the United States has no official organization to prevent the language from changing. Indeed, the language has been called a polyglot; that is, it has a vocabulary stemming from myriad languages, a vocabulary that is ever-evolving. It’s easy to let this phenomenon bog you down—even overwhelm you. Try not to let it; concentrate on the logic of what you have to say to whom and strive to write clearly and precisely. Let the language be the common denominator in communication. That means using language your audience understands. 
