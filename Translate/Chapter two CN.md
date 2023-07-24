@@ -204,31 +204,45 @@ Consider this internal memo about preventive maintenance to a project engineer. 
     <p>During the weekly staff meeting, the question of possible “downtime” in production because of simple maintenance needs was not discussed. A meeting should be arranged that includes the maintenance manager. Regular preventive maintenance must be addressed.</P>
 <p>在每周的员工会议上，并未讨论可能因简单维护需求而导致生产停机的问题。我们应该安排一次会议，包括维护经理在内，来讨论定期的预防性维护计划。</P>
     </div>
-
 While the paragraphs in this memo are grammatically reasonable and present key information, they’re not doing the best job they can. The writer has focused on the information that precipitated the memo. Seriously lacking is what the writer expects from the recipient. How does the information relate to the reader? What role has the reader played in the development of events? And who should arrange the meeting that will address preventive maintenance? Will the reader be involved in making the decision about preventive maintenance?
+
+尽管这份备忘录中的段落在语法上是合理的，并且提供了关键信息，但它们还可以做得更好。作者把重点放在引起这份备忘录的信息上。严重不足的是作者没有表明对收件人的期望。信息与收件人有何关联？收件人在事件的发展中扮演了什么角色？谁应该安排将要讨论预防性维护的会议？收件人是否会参与做出预防性维护的决策？
 
 A rewrite that addresses the engineer directly, using “we,” “our,” “you,” and “your” produces a much clearer message that’s more likely to get results. In the first version, the writer refers to himself once, but not at all to the reader. In the second version, the writer includes the reader ten times and directs the engineer to action. The rewritten memo is more effective because the reader knows what action he must take, and he knows it up front.
 
-#### Rewrite
+用“我们”、“我们的”、“你”和“你的”直接对工程师进行重写，可以产生更清晰的信息，这样更有可能得到结果。在第一个版本中，作者提到了自己一次，但没有提到收件人。而在第二个版本中，作者在十处提到了收件人，并指示工程师采取行动。重写后的备忘录更加有效，因为收件人知道他必须采取什么行动，并且他能在前面就了解这一点。
+
+#### Rewrite 重写版
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
-    <p><b>JORSTAD LABORATORIES</b>			Internal Memorandum</p>
+    <p><b>JORSTAD LABORATORIES</b>　　　　　　　Internal Memorandum内部备忘录</p>
     <P><b>DATE:</b>August 16, 2005</P>
     <p><b>TO:</b>Matthew Zarelli</p>
     <p><b>FROM:</b>John Lopez</b></p>
-    <p><b>RE:</b>Preventive Maintenance</p>
+    <p><b>RE:</b>Preventive Maintenance预防性维护</p>
     <p>Please arrange a meeting and include the maintenance manager so that we can discuss preventive maintenance and devise a plan for action. As we discussed at our weekly meeting on August 16, 2005, we are going to review the work orders for your area to see if aspects of the current regular preventive maintenance program are sufficient.</P>
+<p>
+    请安排一次会议，并邀请维护经理参加，我们将讨论预防性维护并制定行动计划。正如我们在2005年8月16日的周例会上讨论的，我们将审核你所负责区域的工作订单，以确定当前的定期预防性维护计划是否足够。
+</p>
     <p>As you pointed out then, the preventive maintenance for “sophisticated components of the fluid bed dryer” was contracted out to Glatt and Co., and thus that equipment is regularly serviced. However, maintenance of equipment not under contract remains an issue. Since our meeting, I have reviewed all the work orders for the past month, and you are right: Preventive maintenance has not been a priority. In addition, during the weekly staff meetings, we did not discuss whether any equipment has suffered “downtime” because of maintenance needs. I firmly agree that we must address these issues, and our meeting will be the place to start.</P>
+<p>
+    正如你当时指出的，流化床干燥器的“复杂组件”的预防性维护已经委托给了Glatt公司，因此该设备得到了定期维护。然而，未纳入合同的设备维护仍然是一个问题。自我们会议以来，我已经审查了过去一个月的所有工作订单，你说得对：预防性维护并不是我们的优先事项。此外，在每周的员工会议上，我们也没有讨论是否因维护需求而导致任何设备出现“停机”情况。我完全同意我们必须解决这些问题，并且我们的会议将是开始的地方。
+</p>
     </div>
 
-### Announcing an Inspection
+
+### Announcing an Inspection 检查通知
 
 >When we give serious consideration to who will read what we’ve written, what they already know, and what they need to know, we are much more likely to hit the mark.
+>
+>当我们认真考虑谁将阅读我们所写的内容，他们已经了解的信息以及他们需要了解的内容时，我们更有可能达到目标。
 >
 >——**Arlene Johnson,**
 >——**Author**
 
 The following memo effectively addresses several key people who need the information contained therein to prepare for an FDA inspection. Notice how the memo tells people directly what they need to do in preparation for the FDA visit. Further, while it refers recipients to the established protocol, it reiterates what the writer feels is essential. In addition, it refers to the recipients 15 times, with the words “you” and “your” and “we” and “our,” as well as with the use of the imperative voice of “you” under stood. This technique clearly makes the readers part of the message. This memo is effective.
+
+以下备忘录有效地通知了几位需要其中信息来准备FDA检查的关键人员。请注意，备忘录直接告诉人们在FDA访问前需要做什么准备。此外，虽然备忘录将收件人引用到既定的协议中，但它重申了作者认为的重要内容。此外，备忘录在15处提到了收件人，使用了“你”和“你的”以及“我们”和“我们的”等词语，同时使用了“你”暗示的祈使语气。这种技巧明确地将读者融入了信息之中。这份备忘录非常有效。
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     <p>
@@ -249,29 +263,41 @@ The following memo effectively addresses several key people who need the informa
         <b>From:</b> Beatrice Solomon
     </p>
     <p>
-        <b>Re: </b>Upcoming FDA Inspection
+        <b>Re: </b>Upcoming FDA Inspection 即将到来的FDA检查
     </p>
     <p>
         We anticipate FDA will be on the premises sometime next month. To prepare our facility for the visit, we will be holding a mock inspection on Friday, the thirteenth. Please inform your respective staff. You may want to review the company protocol for handling inspections, as well.
     </p>
     <p>
+        我们预计FDA将在下个月的某个时候到访。为了为此次访问做好准备，我们将在13号星期五进行模拟检查。请通知您的各自团队。您可能还需要复习公司处理检查的协议。
+    </p>
+    <p>
         We plan to provide two escorts per inspector. In addition, I’d like to reiterate that our position is to do the following:
     </p>
     <p>
-        <li>Provide requested documentation to the company inspection leader as quickly as possible.</li>
-        <li>Avoid being confrontational.</li>
-        <li>Answer only the questions you are asked.</li>
-        <li>Clarify all observations.</li>
-        <li>Agree to implement corrective action, if any, as soon as possible.</li>
+        我们计划为每个检查员提供两名陪同人员。此外，我想再次强调我们的立场是：
+    </p>
+    <p>
+        <li>Provide requested documentation to the company inspection leader as quickly as possible.尽快向公司检查负责人提供所需文件</li>
+        <li>Avoid being confrontational.避免对抗性行为</li>
+        <li>Answer only the questions you are asked.只回答您被问到的问题</li>
+        <li>Clarify all observations.澄清所有观察结果</li>
+        <li>Agree to implement corrective action, if any, as soon as possible.同意尽快实施纠正措施（如果有）</li>
     </p>
     <p>
         We will evaluate our mock inspection on Monday to identify any potential problems. If you have any questions, please contact me before week’s end. Thanks.
     </p>
+    <p>
+        我们将于星期一评估我们的模拟检查，以确定任何潜在问题。如果您有任何问题，请在本周末之前与我联系。谢谢。
+    </p>
 </div>
 
-### Announcing a GMP Audit
+
+### Announcing a GMP Audit GMP审计通知
 
 The same common-sense approach works when you are writing to readers outside the company: Include them in the message. The following notice to a contractor advises of an impending current Good Manufacturing Practice (cGMP) audit. Notice how it addresses the reader directly and calls for action.
+
+同样的常识方法在您向公司外的读者写信时同样适用：将他们纳入到信息中。下面这封给承包商的通知是关于即将进行的当前良好生产规范（cGMP）审核。请注意它如何直接面向读者，并呼吁采取行动。
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     <center><b>Ronway Laboratories</b></center>
@@ -291,10 +317,19 @@ Chelsea, West Virginia 24608
         We at Ronway are pleased with the range of services Micro Systems is prepared to offer us. Our dramatic increase in manufacturing puts us in a position to use contract services, and we believe Micro Systems will augment our operations satisfactorily. As I mentioned to you during our phone conversation, all that remains is a routine GMP audit of your facilities.
     </p>
     <p>
+        我们罗恩维实验室对Micro Systems准备为我们提供的各项服务感到满意。我们制造业务的大幅增长使我们有了使用承包服务的机会，我们相信Micro Systems将能够令我们的业务得到满意的提升。正如我们在电话交谈中提到的，现在只需对贵公司进行一次常规的GMP审核。
+    </p>
+    <p>
         We plan to send two auditors to your facilities on Tuesday, July 14th  to perform an evaluation. They will assess your analytical testing to verify your Certificates of Analyses, your manufacturing site, and those processes that concern our manufacturing requirements. Please provide them with the appropriate documentation as well as guided access to your facilities.
     </p>
     <p>
+        我们计划于7月14日星期二派遣两名审计员前往贵公司的设施进行评估。他们将对贵公司的分析测试进行评估，以核实您的分析证书、您的制造场所以及涉及我们制造要求的相关流程。请向他们提供相应的文档，并引导他们进入贵公司的设施。
+    </p>
+    <p>
         Thanks for your cooperation. We at Ronway look forward to a productive working relationship with Micro Systems.
+    </p>
+    <p>
+        感谢您的合作。我们罗恩维实验室期待与Micro Systems建立一种富有成效的工作关系。
     </p>
     <p>
         Sincerely,
@@ -308,9 +343,12 @@ Director of Quality Control
     </p>
 </div>
 
-### Giving Product Information
+
+### Giving Product Information 提供产品信息
 
 The following letter provides information about a product. It speaks directly to the recipient and includes both reader and writer, referring to previous conversations.
+
+以下是有关产品的信函。它直接面向收件人，并包含了读者和写信者的信息，提及了之前的交谈。
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     <center><b><i>Lasentec</i></b></center>
@@ -330,66 +368,97 @@ Orono, ME 04469
         I look forward to continuing our discussion of your experiences in crystallization research. I have enclosed the latest information available describing the application of Lasentec® technologies in the monitoring and control of batch crystallizers.
     </p>
     <p>
+        我期待着继续讨论您在结晶研究方面的经验。我附上了最新的信息，介绍了Lasentec®技术在批量结晶器的监测和控制方面的应用。
+    </p>
+    <p>
         The two instrumentation systems we discussed, FBRM© and PVM©, were developed by Lasentec for real-time <i>in-process</i> measurement of Particle Count, Size, Shape, and Imaging. Both systems are probe-based for easy installation and application. The probes are inserted directly into your process vessel or pipeline. They do not require material extraction and sample preparation.
+    </p>
+    <p>
+        我们讨论的两个仪器系统，FBRM©和PVM©，是Lasentec公司开发的，用于实时过程中粒子数量、大小、形状和成像的测量。这两个系统都是基于探针的，安装和应用都非常方便。探针直接插入到您的工艺容器或管道中，无需提取物质和样品准备。
     </p>
     <p>
         LASENTEC FBRM© (<b>F</b>ocused <b>B</b>eam <b>R</b>eflectance <b>M</b>easurement) provides a continuous, high-speed measurement of the Particle Population, enabling you to track the rate and degree of change both on a particle count and particle dimension basis. Even at high solids concentration, FBRM© can provide a <i>sensitive</i> and precise measurement of
     </p>
+     <p>
+             LASENTEC FBRM©（聚焦光束反射测量）提供连续的高速粒子数量测量，使您能够跟踪粒子数量和粒子尺寸的变化速率和程度。即使在高固体浓度下，FBRM©仍能提供对以下指标敏感且精确的测量：</p>
     <p>
-        <li>Population in <i>independent</i> size ranges</li>
-        <li>Rate and degree of nucleation</li>
-        <li>Rate and degree of growth, reduction and agglomeration</li>
-        <li>Process endpoint</li>
-        <li>Batch to batch consistency</li>
-        <li>Continuous process stability</li>
+        <li>Population in <i>independent</i> size ranges 在独立尺寸范围内的粒子数量</li>
+        <li>Rate and degree of nucleation成核速率和程度</li>
+        <li>Rate and degree of growth, reduction and agglomeration 生长、减小和聚集速率和程度</li>
+        <li>Process endpoint 过程终点</li>
+        <li>Batch to batch consistency 批次一致性</li>
+        <li>Continuous process stability 连续过程稳定性</li>
     </p>
     <p>
         LASENTEC PVM© (<b>P</b>article <b>V</b>ision and <b>M</b>easurement) provides a continuous stream of high-resolution microscope images of your particles and particle structures as they naturally exist <i>in process</i>.
     </p>
     <p>
+    LASENTEC PVM©（粒子视觉与测量）提供一连串高分辨率显微镜图像，展示您的粒子和粒子结构在实际过程中的状态。</p>
+    <p>
         PVM© images will provide an in-depth knowledge of your particle-to-particle interaction, and gives you the ability to visually track dynamic process changes in real-time. It is a powerful R&D tool for imaging particle, droplet, and bubble systems at full process concentrations.
+    </p>
+    <p>
+         PVM©图像将提供有关您的粒子之间相互作用的深入了解，并使您能够实时跟踪动态过程变化。它是一个强大的研发工具，可在完整的过程浓度下成像粒子、液滴和气泡系统。
     </p>
     <p>
         I believe that you will find the enclosed papers relate directly to your planned research project. After you have had a chance to review this material and are prepared to further discuss our collaboration, I would be pleased to carry out a feasibility test to demonstrate the effectiveness of our instruments in your particular application.
     </p>
     <p>
+        我相信您会发现附上的论文与您计划中的研究项目直接相关。在您有机会查阅这些资料并准备进一步讨论我们的合作时，我将很乐意进行可行性测试，以展示我们的仪器在您的特定应用中的有效性。
+    </p>
+    <p>
         Please call me at your convenience, at 1-800 LASENTEC (1-800-527-3683).
+    </p>
+    <p>
+        请在方便的时候拨打我的电话，号码是1-800 LASENTEC (1-800-527-3683)。
     </p>
     <p>
         Best regards,
     </p>
     <p>
         Terry P. Redman<br>
-Application Engineer<br>
+        Application Engineer<br>
         TerryR@Lasentec.com</p>
     <p>
        Enclosures 
     </p>
-<p style=text-align:right>
+    <p style=text-align:right>
     <b>Courtesy of Lasentec, Inc.</b>
     </p>
-<p>
-   (See Chapter Four for more examples of correspondence.)
+    <p>(See Chapter Four for more examples of correspondence.)
     </p>
-</div>
-## Focusing on the Information
+    </div>
+
+## Focusing on the Information 焦点信息的重要性
 
 Writing directly to readers, when you know who they are and want a specific response, is usually the most effective way to deliver information. However, much of the time, your purpose in writing will be to present information that’s part of a larger picture. Such documents as analytical reports, summary reports, and project analyses frequently make little or no mention of the reader, nor do they need to, because their purpose is to provide a history or other information.
 
+当你知道读者是谁，并且希望得到特定的回应时，直接写给读者通常是传递信息最有效的方式。然而，很多时候，你写作的目的是提供作为更大背景的信息。例如，分析报告、总结报告和项目分析经常很少或根本不提及读者，因为它们的目的是提供历史或其他信息。
+
 Documents that don’t call for reader action directly must still present what readers need to know to understand what has happened, what is happening, or what will be happening, as well as the conclusions and recommendations resulting from specific findings. Often, documents are but links in a chain of documents, and getting the overall picture of a project may require understanding of much more than what the document at hand presents.
+
+虽然不需要直接要求读者采取行动的文件仍然必须提供读者需要了解的信息，以理解已经发生、正在发生或将要发生的事情，以及由具体发现得出的结论和建议。通常，这些文件只是文件链中的一环，要了解整个项目的全貌可能需要理解比手头文件呈现的信息更多。
 
 Even if immediate reviewers and approvers comprehend what’s in a report, filling in the gaps can be useful, even if it means repeating some information the initial readers already know. In the same vein, controlling your delivery so that it is clear and direct also makes sense. Using internal jargon, for instance, in a report that may be subject to future outside scrutiny is foolish, for doing so invites questions that demand answers. How much better to be lucid and complete in the first place!
 
+即使立即审核者和批准者理解报告中的内容，填补信息的空白也是有用的，即使这意味着重复一些初始读者已经知道的信息。同样，在控制你的表达方式时，清晰和直接也是明智的选择。例如，在可能会受到未来外部审查的报告中使用内部行话是愚蠢的，因为这样做会引发需要回答的问题。多么好的做法是一开始就清晰而完整地表述！
+
 It’s better to err on the side of giving more information than your immediate audience needs than to be sparse in data or detail, which you may be asked to produce at some future point. There’s a fine line, here, however. Your written histories should provide the information relevant to certain activities; they should not trigger unrelated questions that arise from the inclusion of inappropriate details. Worse is to make statements that are unsupported; blanket statements without support are sure triggers for queries from readers, and when readers start to question, you may ultimately wind up giving more information than you intend or need to. Good writing gives readers what they need to know. Thus, a writer may deliver the same information in several versions depending on the readers’ need to know and level of technical comprehension. 
 
-### Summarizing an Investigation
+在给予比你的立即读者需要的更多信息的一方面，要比数据或细节不足更好。因为在未来某个时候可能需要你提供这些细节。然而，在这里存在一个微妙的平衡。你的书面历史应该提供与某些活动相关的信息，但不应该引发来自包含不适当细节的问题。更糟糕的是，做出不受支持的陈述；没有支持的概括性陈述肯定会引发读者的质疑，当读者开始质疑时，你最终可能会提供比你本意或需要的更多信息。好的写作要给读者提供他们需要了解的信息。因此，作家可能会根据读者需要了解和技术理解水平在几个版本中传递相同的信息。
+
+### Summarizing an Investigation 调查总结
 
 Many documents focus purely on events. Investigations, for example, tend to be directed toward activities leading up to a conclusion. Readers play no role other than that of understanding the information and perhaps responding to it routinely. For instance, a manufacturing deviation report will present the findings of an investigation; the result of those findings may provide the basis for deciding whether to rework or discard a batch.
 
+很多文档纯粹关注事件本身。例如，调查通常着重于导致结论的活动。读者在其中没有其他角色，除了理解信息，可能还需要常规回应。例如，一个制造偏差报告会呈现调查的结果；这些结果可能成为决定是否重新加工或丢弃一批产品的依据。
+
 The following technical note does not call for reader action directly because the purpose is to provide a history of an occurrence. Addressed to the Director of Quality Control, the memo summarizes the result of an investigation. 
 
+下面的技术说明不需要直接要求读者采取行动，因为其目的是提供一个事件的历史记录。这封备忘录是写给质量控制主管，总结了一次调查的结果。
+
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
-    <b><i>JORSTAD LABORATORIES</i>　　　　Internal Memorandum</b>
+    <b><i>JORSTAD LABORATORIES</i>　　　　Internal Memorandum 内部备忘录</b>
     <p>
        <b>DATE:</b> February 18, 2005 
     </p>
@@ -400,15 +469,22 @@ The following technical note does not call for reader action directly because th
         <b>FROM:</b> Hal McCornac
     </p>
     <P>
-        <b>RE: </b>098C3-Q1234RT-18M and 098C3-Q1235RT-18M test failures
+        <b>RE: </b>098C3-Q1234RT-18M and 098C3-Q1235RT-18M test failures 实验失败
     </P>
     <p>
         February 15 retesting of 098C3-Q1234RT-18M and 098C3-Q1235RT-18M failed to confirm the test results obtained from the dissolution tests performed on January 29 and 30, 200- The February 15 testing showed a higher potency than the earlier testing did. An investigation revealed that the low potency was a result of the vials being previously opened, and consequently the samples had absorbed moisture and increased in weight. Thus, while the weights in the tests were identical, the ratio of active ingredient to total weight was not, since the first test samples had proportionately higher water content, and therefore proportionately smaller active ingredient.
     </p>
     <p>
+        在2月15日重新测试098C3-Q1234RT-18M和098C3-Q1235RT-18M的结果未能确认1月29日和30日进行的溶解试验结果。2月15日的测试显示效力高于之前的测试。经过调查发现，效力低下是由于试管之前被打开，导致样本吸收了湿气并增加了重量。因此，虽然测试中的重量相同，但有效成分与总重量的比例不同，因为第一次测试样本含有较高的水分，从而有效成分相对较小。
+    </p>
+    <p>
         Retesting using a new standard from an unopened vial verified a potency of 947.67 mcg/mg and a standard factor of 0.0671 mcg/ml. Assays LIC-99-0039 and LIC-99- 0040 substantiate these results.
     </p>
+    <p>
+        使用一个未打开的新标准进行重新测试，确认效力为947.67 mcg/mg，标准因子为0.0671 mcg/ml。 LIC-99-0039和LIC-99- 0040试验结果证实了这些结果。
+    </p>
 </div>
+
 
 ### Summarizing a Complaint Investigation
 
