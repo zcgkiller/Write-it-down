@@ -70,56 +70,74 @@ The above passage falls short because it does not directly address the readers a
 >
 >注意：如果怀疑实验大衣被污染，请立即脱下并装入袋中，彻底清洗所有暴露的皮肤表面。有关其他措施，请参阅MSDS表格。请联系化学卫生官员收集被污染的实验大衣。
 
-## Readers’ Language Skills
+## Readers’ Language Skills 读者的语言能力
 
 Whether you are writing for internal distribution or external, you must consider the language skills of your readers. When writing to a regulatory body, you can be confident that readers will have a degree of sophistication to enable them to understand fairly complex data. These people have read similar documentation repeatedly. 
 
+无论是写给内部分发还是外部读者，都必须考虑读者的语言能力。当向监管机构撰写时，可以有信心读者具备一定的复杂数据理解能力。这些人已经反复阅读了类似的文件。
+
 If you prepare a manuscript, you can also be confident that if you write according to the style set forth by the publication, the readers will readily comprehend what you say. These readers are your colleagues and will have comparable language skill sets. The same holds true for posters and slide sets. The audience that reviews posters in an exhibit hall does so because of interest in what others in the industry are doing; they attend presentations for the same reason. 
+
+如果准备一份稿件，可以确信，如果按照期刊设定的风格写作，读者会轻松理解你的观点。这些读者是你的同行，他们具备相似的语言技能。海报和幻灯片集也是如此。在展览大厅审查海报的观众之所以这样做，是因为他们对行业内其他人正在做什么感兴趣；他们参加演讲的原因也是一样。
 
 Not all readers possess the same skills. Some documents must be comprehensible to a much lower reading level, and it is critical that they be. Work instructions for a manufacturing environment are best in clear, direct language that speaks to a tenth grade or lower reading level. Informed consent for potential participants in clinical trials is also best written to an eighth grade or lower reading level as well, as is patient literature. 
 
+并非所有读者拥有相同的技能水平。有些文件必须能够让语言水平较低的读者理解，并且这一点至关重要。制造环境下的作业指导最好使用清晰、直接的语言，适合十年级或更低水平的读者。临床试验潜在参与者的知情同意书也最好写成八年级或更低水平的语言，病人资料也是如此。
+
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
-    <center><b>Informed Consent</b></center>
+    <center><b>Informed Consent 知情同意书</b></center>
     <p>
-        <b>What Is Informed Consent?</b>
+        <b>What Is Informed Consent? 什么是知情同意书</b>
     </p>
     <p>
         Informed consent is not a signature on a piece of paper. It is a process undertaken to assure that people are fully informed about the choices available for their health care. Informed consent is based on the legal and ethical rights of individuals to direct their own care and the ethical duty of physicians to involve their patients in their own care. Individuals have the right to refuse information about procedures or surgeries, but they must initiate the request, not be offered it. After it is determined that the person understands the proposed intervention and has reached a decision, his/her signature on the informed consent form denotes acceptance of the proposed intervention.
     </p>
     <p>
-        <b>When Is Informed Consent Needed?</b>
+        知情同意不仅仅是在一张纸上签字。它是一个过程，旨在确保人们对其健康护理的选择有充分了解。知情同意基于个人在法律和伦理上对自己的护理有自主权的权利，以及医生在伦理上将患者纳入自己护理的责任。个人有权拒绝有关程序或手术的信息，但必须主动提出请求，而不是被提供。在确定个人已经理解了拟议的干预措施并作出决定后，他/她在知情同意书上签字表示接受拟议的干预措施。
+    </p>
+    <p>
+        <b>When Is Informed Consent Needed? 什么时候需要知情同意书</b>
     </p>
     <p>
         Informed consents are required for invasive interventions (for example, procedures, anesthesia, and surgeries); before being given certain medications (for example, flu shots) or receiving certain tests (for example, HIV testing); and before participating in research projects. What needs to be included in an informed consent? Informed consent needs to include:
     </p>
     <p>
-        <li>The rationale for the intervention</li>
-        <li>The nature of the proposed intervention</li>
-        <li>Reasonable and medically appropriate alternatives to the proposed intervention</li>
-        <li>The risks and benefits of the proposed and all alternative interventions</li>
-        <li>The anticipated outcome of the proposed intervention.</li>
+        知情同意书在进行侵入性干预（例如手术、麻醉和治疗等）、接受某些药物（例如流感疫苗）或进行特定检测（例如HIV检测）之前是必需的，并且在参与研究项目之前也需要。知情同意书需要包括以下内容：
     </p>
     <p>
-        <b>Who Can Give Informed Consent?</b>
+        <li>The rationale for the intervention 干预方案的理由</li>
+        <li>The nature of the proposed intervention 拟议干预的性质</li>
+        <li>Reasonable and medically appropriate alternatives to the proposed intervention 合理和医学上适当的替代方案</li>
+        <li>The risks and benefits of the proposed and all alternative interventions 拟议干预及所有替代方案的风险和利益</li>
+        <li>The anticipated outcome of the proposed intervention.拟议干预的预期结果</li>
+    </p>
+    <p>
+        <b>Who Can Give Informed Consent?谁可以做知情同意</b>
     </p>
     <p>
         Conscious, competent individuals can give informed consent. An incompetent or incapacitated individual needs a surrogate decision maker to give informed consent. Parents give informed consent for their dependent children. In most states, emancipated minors can give informed consent. Most states also allow minors to seek treatment for sexually transmitted diseases, pregnancy, and drug or alcohol abuse on their own.
     </p>
     <p>
-        <b>Tips for Writing Informed Consent</b>
+    意识清醒、能力正常的个人可以做知情同意。无能或丧失能力的个人需要由代理决策人来做知情同意。父母可以代表他们的未成年子女做知情同意。在大多数州，解除监护权的未成年人也可以做知情同意。大多数州也允许未成年人自行就诊治疗性传播疾病、怀孕以及药物或酒精滥用问题。
+</p>
+    <p>
+        <b>Tips for Writing Informed Consent 编写知情同意书的提示</b>
     </p>
     <p>
       When writing informed consent forms, be sensitive to a person's ability to digest complicated or bad news, and be sensitive to personal (cultural or religious) beliefs of the regional population.
     </p>
     <p>
-        Rely on the following when writing informed consent forms:
+    在编写知情同意书时，要考虑到个人理解复杂或不好的消息的能力，并对地区人口的个人（文化或宗教）信仰保持敏感。
+</p>
+    <p>
+        Rely on the following when writing informed consent forms 编写知情同意书时，请考虑以下内容：:
     </p>
     <p>
-        <li>Provide alternative language (Spanish, for example) informed consent forms for individuals whose first language is not English.</li>
-        <li>Explain the proposed intervention in consumer friendly language, not technical jargon.</li>
-        <li>Define all terms and write out phonetic pronunciation of all unfamiliar terms.</li>
-        <li>List risks in as nonthreatening a way as possible.</li>
-        <li>Put risks in perspective. For example, about 1 in 50,000 healthy people die from general anesthesia; you have about double that chance to die in an automobile accident.</li>
+        <li>Provide alternative language (Spanish, for example) informed consent forms for individuals whose first language is not English. 为非英语为母语的个人提供其他语言的知情同意书（例如西班牙语）</li>
+        <li>Explain the proposed intervention in consumer friendly language, not technical jargon. 用易于理解的消费者友好语言解释拟议的干预措施，而不是技术术语</li>
+        <li>Define all terms and write out phonetic pronunciation of all unfamiliar terms. 定义所有术语，并写出所有不熟悉术语的音标</li>
+        <li>List risks in as nonthreatening a way as possible. 以最不具威胁性的方式列出风险</li>
+        <li>Put risks in perspective. For example, about 1 in 50,000 healthy people die from general anesthesia; you have about double that chance to die in an automobile accident. 将风险放入适当的背景中。例如，约有5万名健康人中有1人会因全身麻醉而死亡；与此相比，您在车祸中死亡的机会大约是这个数字的两倍</li>
     </p>
     <p style=text-align:right>
        <b>Courtesy of Joan Lorenz</b>
@@ -128,43 +146,65 @@ Not all readers possess the same skills. Some documents must be comprehensible t
 
 Another consideration is whether readers are native born speakers and writers of English, or if they are foreign born. In most pharmaceutical, device, and biologic environments, the mixture of employees is multinational. The same is true of patient populations for clinical trials. The result is that, although your readers may have sufficient language skills to comprehend most communication related to activities with which they are familiar, they may not understand a term you consider critical, or they may have difficulty decoding a complex passage. If you suspect that’s a possibility, it’s easy to give a quick explanation or include a brief glossary if the document is long, or to rewrite to simplify presentation. Remember that it’s a rare reader who will confess to “not understanding” if he thinks his lack of comprehension stems from his own inabilities. Provide the meanings you intend your readers to have so that there will be no misunderstanding.
 
+另一个需要考虑的因素是读者是否以英语为母语，并且是否是外国出生。在大多数制药、医疗设备和生物学环境中，员工的组合是多国的。在临床试验的患者群体中也是如此。结果是，尽管您的读者可能具备足够的语言技能来理解与他们熟悉的活动相关的大部分交流，但他们可能不理解您认为关键的术语，或者可能难以解读复杂的段落。如果您怀疑可能存在这种情况，可以很容易地进行简单解释，或者如果文件很长，可以包含简要的词汇表，或者简化表达方式。请记住，很少有读者会承认“不理解”，如果他认为自己的理解困难源于自身能力。提供您打算让读者理解的含义，以确保不会产生误解。
+
 Further, if you are a writer for whom English is a second language, you may be bringing certain conceptions about writing, unfounded in standard American conventions, to your workplace. In some cultures for instance, when a writer sums up information for a reader, it is tantamount to saying, “You probably won’t understand the data, so I’ll have to explain it.” Such a message can seem insulting. In written English, however, the standard is to explain the significance of data. Always tell your readers what you mean and what the significances of certain facts are. Never leave the message open to interpretation.
 
+此外，如果英语是您的第二语言，您可能会将某些关于写作的概念带入工作场所，而这些概念可能与美国标准约定无关。例如，在某些文化中，当作者为读者总结信息时，等同于在说：“你可能不会理解这些数据，所以我必须解释一下。” 这样的信息可能会显得冒犯。然而，在英语写作中，标准是解释数据的意义。始终告诉您的读者您的意思以及某些事实的意义。永远不要让信息存在多种解释的可能性。
+
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
-    <center>The average person has three vocabularies:</center>
-    <li>Reading is the largest.</li>
-    <li>Speaking is the next largest.</li>
-    <li>Writing is the smallest.</li>
+    <center>The average person has three vocabularies 普通人有三种词汇量：:</center>
+    <li>Reading is the largest. 阅读词汇量最大</li>
+    <li>Speaking is the next largest. 口语词汇量次之</li>
+    <li>Writing is the smallest. 写作词汇量最小</li>
     <p>
         In writing, words must carry 90 percent of our messages. Punctuation and graphics convey the rest.
     </p>
+    <p>
+         在写作中，文字必须承载我们信息的90%。标点和图形传达其余部分。
+    </p>
 
-## Writing Directly to the Reader
+
+## Writing Directly to the Reader 直接面向读者写作
 
 Many documents work best when they speak directly to the readers. When you seek an immediate response from specific readers, the best way to make sure the response is what you want is to involve them. You may write directly to fellow employees where you work; you may also write directly to readers external to the company. Sometimes you will write to one person specifically; just as often, your immediate readers may be two or more.
 
+许多文件在直接面向读者时效果最佳。当你希望从特定读者那里获得即时回应时，最好的方法是让他们参与其中。你可以直接向你所在公司的同事们写作；也可以直接向公司外的读者写作。有时你会专门写给某个人；同样经常，你的直接读者可能是两个或更多人。
+
 Many pieces of writing address readers directly. Letters, memos, and emails certainly do. So does informed consent for clinical trials. Other documents that speak directly to readers, such as methods, instructions, procedures, and operator manuals, usually work best in the imperative voice, which simply means the “you” in the writing is understood. The imperative voice uses the present tense and is the only instance in English where you can compose a complete sentence without actually writing out the subject. For example, “Write it down” is a directive, and the “you” is understood to be the reader. Understood as well is that the audience for these documents has been trained in the processes. Typical steps in a procedure, such as these that tell how to measure flow rate, have an implied “you”:
 
+许多写作作品直接面向读者。比如信函、备忘录和电子邮件。同样，临床试验的知情同意书也是如此。其他直接面向读者的文档，如方法、指令、程序和操作手册，通常最好使用祈使语态，这意味着写作中的“你”是隐含的。祈使语态使用现在时态，并且是英语中唯一一个可以在不实际写出主语的情况下组成完整句子的情况。例如，“Write it down”（把它写下来）是一个指令，而“you”（你）被理解为读者。同时，这些文档的受众通常在这些过程中接受了培训。程序中的典型步骤，例如告诉如何测量流量的步骤，有一个隐含的“you”：
+
 6.1 Make sure the clamp securing the funnel to the vibrator is properly affixed.
+
+6.1 确保将漏斗固定在振动器上的夹子正确安装。
+
 6.2 Open the air valve and adjust the regulator to 16 psi.
 
-(See Chapter Five for more information about procedure writing.)
+6.2 打开空气阀，并将调节器调整到16 psi。
 
-### A Preventive Maintenance Memo
+(See Chapter Five for more information about procedure writing.有关程序编写的更多信息，请参阅第五章。)
+
+### A Preventive Maintenance Memo 预防性维护备忘录
 
 Consider this internal memo about preventive maintenance to a project engineer. Here the author writes directly to the engineer but does not include him in the communication at all.
 
-#### Original
+请考虑以下给项目工程师的内部备忘录。在这里，作者直接向工程师写信，但却完全没有将他纳入沟通的范围内。
+
+#### Original 原稿
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
-    <p><b>JORSTAD LABORATORIES</b>			Internal Memorandum</p>
+    <p><b>JORSTAD LABORATORIES</b>　　　　　　　　Internal Memorandum内部备忘录</p>
     <P><b>DATE:</b>August 16, 2005</P>
     <p><b>TO:</b>Matthew Zarelli</p>
     <p><b>FROM:</b>John Lopez</b></p>
-    <p><b>RE:</b>Preventive Maintenance</p>
+    <p><b>RE:</b>Preventive Maintenance预防性维护</p>
     <p>At the weekly meeting on August 14, 2005, it was decided to review aspects of the preventive maintenance program to assess its sufficiency. The preventive maintenance for sophisticated components of the fluid bed dryer has been contracted out to Glatt and Co. The in-house work orders for the past month have all been reviewed, and none are related to preventive maintenance.</P>
+ <p>在2005年8月14日的每周会议上，我们决定审查预防性维护计划的各个方面，以评估其是否足够完备。复杂的流化床干燥机组件的预防性维护已经委托给了Glatt and Co.过去一个月的公司内部工作订单已经全部审核，没有一个与预防性维护相关。</P>
     <p>During the weekly staff meeting, the question of possible “downtime” in production because of simple maintenance needs was not discussed. A meeting should be arranged that includes the maintenance manager. Regular preventive maintenance must be addressed.</P>
+<p>在每周的员工会议上，并未讨论可能因简单维护需求而导致生产停机的问题。我们应该安排一次会议，包括维护经理在内，来讨论定期的预防性维护计划。</P>
     </div>
+
 While the paragraphs in this memo are grammatically reasonable and present key information, they’re not doing the best job they can. The writer has focused on the information that precipitated the memo. Seriously lacking is what the writer expects from the recipient. How does the information relate to the reader? What role has the reader played in the development of events? And who should arrange the meeting that will address preventive maintenance? Will the reader be involved in making the decision about preventive maintenance?
 
 A rewrite that addresses the engineer directly, using “we,” “our,” “you,” and “your” produces a much clearer message that’s more likely to get results. In the first version, the writer refers to himself once, but not at all to the reader. In the second version, the writer includes the reader ten times and directs the engineer to action. The rewritten memo is more effective because the reader knows what action he must take, and he knows it up front.
