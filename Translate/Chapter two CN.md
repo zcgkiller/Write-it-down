@@ -1,42 +1,74 @@
-# 2 Connecting Writer and Reader
+# 2 Connecting Writer and Reader 连结作者与读者
 People who assess it overwhelmingly point to one problem in writing: a lack of understanding of and perception about the audience. Knowing whom your documents address and what response you want is a key to successful technical writing. This kind of writing informs people of past activities, findings, and decisions; it presents data and makes recommendations; it provides records of ongoing projects; it tells people how and why to take certain actions; it tells what kind of outcome is likely from intended actions; and it always has an audience — sometimes immediate and well known, other times projected. Often documents directed to a future audience go to immediate readers who need the information for interim work processes.
 
+评估写作时，人们普遍指出一个问题：缺乏对受众的理解和感知。了解你的文档面向的是谁，以及你希望得到什么样的反应，是成功技术写作的关键。这种写作方式告知人们过去的活动、发现和决策；它提供数据并提出建议；它记录正在进行的项目；它告诉人们如何以及为什么采取某些行动；它告诉人们预期的行动可能会产生什么样的结果；而且它总是有受众的——有时是直接和熟知的，有时是预期的。通常，针对未来受众的文档会送到需要这些信息进行中期工作过程的立即读者手中。
+
 >When you write to FDA, the entire industry is a potential audience.
->						——Monica Grimaldi,
->					Certified Quality Engineer
+>
+>当你写给FDA时，整个行业都是潜在的受众。
+>
+>​						——Monica Grimaldi,
+>​					Certified Quality Engineer
 
 You can create grammatically correct and efficient passages that offer the information you need to convey. But overlooking the effects of your words on your readers is all too easy. That’s why, when you write, you need to step back and evaluate the readers. Who are they? How will they respond to the information you’re giving? Most people run the risk of not being objective about their readers, because when they write they are much more involved with what they have to say than they are with how readers will receive it.
 
+你可以创建语法正确且高效的段落，以提供你需要传达的信息。但忽视你的文字对读者的影响是非常容易的。这就是为什么当你写作时，你需要退后一步，评估读者。他们是谁？他们会如何对你提供的信息作出反应？大多数人会存在主观性，因为在写作时，他们更关注自己要表达的内容，而不是读者将如何接收它。
+
 This holds particularly true in the technical disciplines, where an initial reader may have knowledge of a project equal to that of the writer, but the intended audience may not be privy to the underlying details of a project. Other documents, such as technical notes, have no direct or immediate audience, and the intent is to supply a record of a problem resolved or record an issue. Nevertheless, while you may not know *now* who will seek a future record, you can assume someone will, so you will need to include enough background information to make the message understandable to the possible future reader.
+
+这一点在技术领域尤其适用，其中初始读者可能对项目的了解与作者相当，但预期的受众可能不了解项目的基本细节。其他文档，如技术笔记，可能没有直接或即时的受众，其目的是提供已解决的问题或记录一个问题的记录。然而，虽然你现在可能不知道未来谁会寻求这份记录，但你可以假设会有人这样做，因此你需要包含足够的背景信息，使信息对可能的未来读者能够理解。
 
 The laboratory notebook is a good example of writing that’s done for an immediate audience: those persons coordinating projects and overseeing routine activities who are in positions to make decisions. Should the data in the notebook lead to significant discovery, then the data in the notebook become the foundation for development. So future audiences may include anyone who seeks a record of a project, including a regulatory body such as the Food and Drug Administration (FDA). Thus, information must be clear, complete, and comprehensible to all pertinent, possible readers, not just the immediate ones.
 
+实验室笔记本是一个很好的例子，它是为了即时的受众而写的：那些协调项目和监督日常活动、有权做出决定的人。如果笔记本中的数据导致重大发现，那么这些数据将成为开发的基础。因此，未来的受众可能包括寻求项目记录的任何人，包括食品药品监督管理局（FDA）等监管机构。因此，信息必须对所有相关可能的读者清晰、完整、易懂，而不仅仅是即时的受众。
+
 >The palest ink is better than the best memory.
->							——Chinese proverb
+>
+>好记性不如烂笔头
+>
+>​							——Chinese proverb
 
 Similarly, you may write a report to inform a scientific area of the company of a project’s progress, but a projected audience may well be a regulatory body who will look at the report at some point in the future. Thus, it’s smart to include information that the projected audience may require for complete understanding — but which is, nevertheless, not crucial for your immediate audience. Consider the case of a Quality Assurance (QA) Director who served as the project lead in the validation of a renovated plant facility. He included far more background and information than he had to for the simple reason that the facility would eventually be subject to a compliance inspection. He deemed it best to capture the complete history of the renovated facility, because he did not want to be in the position of having to recreate it at a future point.
 
+同样，你可能会写一份报告，向公司的某个科学领域通报项目的进展，但预期的受众可能是未来某个时间点会审阅报告的监管机构。因此，聪明的做法是包含一些预期受众可能需要的信息，以便完全理解——而这些信息对于你的直接受众来说并非至关重要。考虑一个质量保证（QA）主管的案例，他担任了翻新工厂设施验证项目的负责人。他获得了比必要信息更多的背景和细节，这是因为该设施最终将接受合规检查。他认为最好记录下翻新设施的完整历史，因为他不希望在未来的某个时候不得不重新创建这些信息。
+
 A dossier that goes to a regulatory agency for review and product approval usually includes a large number of supporting documents, such as those prepared as the development progressed often over a period of ten years or more. When information is summarized, such as within individual portions of a New Drug Application (NDA) or Common Technical Document (CTD), writers really won’t know who the precise readers will be for the sections or their supporting documents. There may be many readers who will read various sections of a submission. For instance, a reviewer at FDA for a Chemistry, Manufacturing, and Controls (CMC) section of a submission will most probably not be the same reviewer as the one who looks at clinical data. And neither reviewer will have seen the supporting study documents when they were actually written. Those will have had a more immediate audience at the time the actual study reached completion. The common link here is usually the project manager at the agency who has been working with the company’s regulatory people and providing insight and suggestions for compiling the submission. And that dialog should set the tone for the writing.
 
-Questions to ask before putting pen to paper — or booting up the computer — are the following:
+提交给监管机构进行审查和产品批准的档案通常包含大量的支持文件，这些文件在开发过程中通常会在十年或更长时间内逐步准备。当信息被总结时，比如在新药申请（NDA）或共同技术文件（CTD）的各个部分中，作者真的不知道具体读者将会是哪些人或者他们的支持文件是谁。可能会有很多读者阅读提交的各个部分。例如，FDA的审查员在审查提交的制造与控制部分时，很可能不会是审查临床数据的审查员。而且，当实际编写支持研究文件时，两位审查员都不会看到这些文件。这些文件在实际研究完成时可能有更直接的读者。这里的共同联系通常是监管机构的项目经理，他一直与公司的监管人员合作，并为编制提交文件提供见解和建议。这个对话应该为写作设置基调。
 
-- Who are the immediate readers?
+Questions to ask before putting pen to paper — or booting up the computer — are the following
 
-- Who may read this document in the future?
+在动笔或打开计算机之前，需要考虑以下几个问题：
 
-- How much do the immediate readers already know about the topic?
+- Who are the immediate readers?立即的读者是谁？
 
-- What do future readers need to know to understand the topic?
+- Who may read this document in the future?未来可能会阅读这份文件的人是谁？
 
-- What response do you want? 
+- How much do the immediate readers already know about the topic?立即的读者对这个主题了解多少？
+
+- What do future readers need to know to understand the topic?未来的读者需要了解什么来理解这个主题？
+
+- What response do you want? 你希望得到什么样的反应？
 
 Consider this passage from a Chemical Hygiene Plan. It is incomplete and vague. What is missing that the readers need to know? How can it be more explicit and direct?
 
+考虑化学卫生计划中的这段话。 它是不完整且模糊的。 读者需要了解什么？ 怎样才能更明确、更直接呢？
+
 > Where there is no immediate danger to the skin from contact with a hazardous chemical, it is still prudent to select clothing to minimize exposed skin surfaces. A laboratory coat should be worn over street clothes and be laundered regularly. A laboratory coat is intended to prevent contact with direct, chemical dusts, and minor chemical splashes of spills. If it becomes contaminated, it should be removed immediately and affected skin surface washed thoroughly. Employees should wear long legged clothing and avoid short trousers or skirts to cover areas that lab coats do not. Shoes should be worn in the laboratory at all times. Sandals and perforated shoes are not permitted in the laboratory. In addition long hair should be confined.
+>
+> 即使没有与有害化学品接触时的直接危险，选择衣物以最大程度地减少暴露的皮肤面积仍是明智的。应该穿戴实验室大衣覆盖在平时的服装上，并且定期清洗。实验室大衣的用途是防止直接接触化学粉尘和轻微的化学飞溅或溢泼。如果实验室大衣被污染，应立即脱下并彻底清洗受影响的皮肤面。员工应该穿着长裤，并避免穿着短裤或短裙，以遮盖实验室大衣无法覆盖的部位。实验室内必须随时穿鞋，不允许穿凉鞋和有孔鞋。此外，长发应该束起来。
 
 The above passage falls short because it does not directly address the readers and does not follow through in its directive. Further, the passage does not include related information the readers need. Who launders the lab coats? In the following rewrite, there is no question. The rewrite also gets rid of the conditional (“should be”), speaks directly to the reader, and tells how to follow through.
 
->Where there is no immediate danger to the skin from contact with a hazardous chemical, it is still prudent to select clothing to minimize the risk of exposure. Wear clothing with long legs to cover areas that lab coats do not. Avoid short pants or skirts to minimize exposure risk. Wear socks and closed shoes at all times; do not wear sandals and perforated shoes. In addition, confine long hair for your safety and to prevent compromising the integrity of the lab work. In addition, do not wear jewelry that can catch in laboratory equipment. Most important, always wear a laboratory coat over street clothes. Laboratory coats prevent contact with dirt, chemical dusts, and minor chemical splashes or spills. Always wear clean laboratory coats and dispatch soiled ones to the hamper bins in the change room.<br>Note: If you suspect your lab coat has become contaminated, remove it immediately, bag it, and wash all exposed skin surfaces thoroughly. Refer to the MSDS sheet for any additional measures. Call the Chemical Hygiene Officer to collect the contaminated lab coat.
+上面的段落存在不足，因为它没有直接与读者进行沟通，并且在指示方面没有后续。此外，该段落也没有包含读者所需的相关信息。谁洗涤实验室大衣？在以下的改写中，没有问题。改写还去掉了条件语气（“应该”），直接与读者交流，并告诉如何执行。
+
+>Where there is no immediate danger to the skin from contact with a hazardous chemical, it is still prudent to select clothing to minimize the risk of exposure. Wear clothing with long legs to cover areas that lab coats do not. Avoid short pants or skirts to minimize exposure risk. Wear socks and closed shoes at all times; do not wear sandals and perforated shoes. In addition, confine long hair for your safety and to prevent compromising the integrity of the lab work. In addition, do not wear jewelry that can catch in laboratory equipment. Most important, always wear a laboratory coat over street clothes. Laboratory coats prevent contact with dirt, chemical dusts, and minor chemical splashes or spills. Always wear clean laboratory coats and dispatch soiled ones to the hamper bins in the change room.
+>
+>Note: If you suspect your lab coat has become contaminated, remove it immediately, bag it, and wash all exposed skin surfaces thoroughly. Refer to the MSDS sheet for any additional measures. Call the Chemical Hygiene Officer to collect the contaminated lab coat.
+>
+>在与危险化学品接触时，如果皮肤没有直接受到危害，仍然应选择衣服以最小化暴露风险。穿长裤以覆盖实验大衣无法保护的部位。避免穿短裤或裙子以降低暴露风险。始终穿袜子和闭合鞋子，不要穿凉鞋或有孔的鞋子。此外，为了您的安全和防止影响实验工作的完整性，请束缚长发。此外，不要佩戴可能卡在实验设备中的珠宝。最重要的是，始终穿实验室大衣覆盖街服。实验室大衣可以防止接触污垢、化学尘埃和轻微的化学飞溅或泼溅。始终穿着干净的实验室大衣，并将脏的大衣放入更衣室的衣篓。
+>
+>注意：如果怀疑实验大衣被污染，请立即脱下并装入袋中，彻底清洗所有暴露的皮肤表面。有关其他措施，请参阅MSDS表格。请联系化学卫生官员收集被污染的实验大衣。
 
 ## Readers’ Language Skills
 
