@@ -486,9 +486,11 @@ The following technical note does not call for reader action directly because th
 </div>
 
 
-### Summarizing a Complaint Investigation
+### Summarizing a Complaint Investigation 总结一项投诉调查
 
 The following memo focuses on the events and does not call for action from the reader; its purpose is to inform the recipient, a Regulatory Director, of the results of a complaint investigation. The Director, in turn, will compose a complaint response.
+
+以下备忘录侧重于事件，不需要读者采取行动；其目的是向收件人，即监管总监，通报投诉调查的结果。监管总监随后将撰写投诉回复。
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     <b><i>KIM LABORATORIES, S. A. Memorandum</i></b>　　　　　　　　Page 1 of 1
@@ -502,17 +504,20 @@ The following memo focuses on the events and does not call for action from the r
     	FROM: Eugenia Cline
     </p>
 	<p>
-    	RE: 2 mg/5 mL complaint
+    	RE: 2 mg/5 mL complaint 投诉
     </p>
     <p>
         Quality Assurance has reviewed the following 0.5 mg/1 mL product complaint and found radioactivity in the excess precipatated material and low final activity in the product.
     </p>
+    <p>
+        质量保证已经审查了以下0.5毫克/1毫升产品投诉，并发现在过量沉淀物中有放射性，并且产品中的最终活性较低。
+    </p>
     <table>
         <tr>
-            <td>Site</td>
-        	<td>Lot</td>
-        	<td>Isotope Manufacture</td>
-        	<td>Isotope Lot</td>
+            <td>Site 位置</td>
+        	<td>Lot 批号</td>
+        	<td>Isotope Manufacture 同位素生产商</td>
+        	<td>Isotope Lot 同位素批号</td>
         </tr>
         <tr>
             <td>Wellman Pharmacy</td>
@@ -525,14 +530,23 @@ The following memo focuses on the events and does not call for action from the r
         The isotope from Radiostuff Inc. has periodically become bound in the excess precipitate formed during the labeling of the product. The isotope caught up in the precipitate is a result of isotope colloids forming during the preparation of the isotope-product complex. The formation of isotope colloids is dependent on the lot of isotope. In addition to this product complaint, three additional complaints the same day proved to be related to the labeling of the products with isotope lot 66B2. In addition to isotope lot–related issues, there are several other interrelated variables, including the importance of strictly following the labeling procedure on the package insert. Quality Assurance completed a report on the causes of isotope colloid formation during the labeling procedure in January 2005. It is available in the QA Archives. 
     </p>
     <p>
+        来自Radiostuff公司的同位素在产品标记过程中定期会与过量沉淀物结合。沉淀物中携带的同位素是同位素-产品复合物制备过程中形成的同位素胶体的结果。同位素胶体的形成取决于同位素的批号。除了这个产品投诉外，当天还有三个额外的投诉与同位素批号66B2的产品标记有关。除了与同位素批号有关的问题，还有一些其他相互关联的变量，包括严格遵守说明书上的标记程序的重要性。质量保证已于2005年1月完成了关于标记程序中同位素胶体形成原因的报告，该报告存档于质量保证部门。
+    </p>
+    <p>
         A review of the production records found them to be acceptable. The complaint incident does not represent a serious or unexpected drug experience, so a report of the incident to FDA is unnecessary. However, a review of isotope-related complaints from last year is now underway to determine if further clarification of this recurring situation is possible.
+    </p>
+    <p>
+        对生产记录的审查发现它们是可接受的。该投诉事件并不代表严重或意外的药物经验，因此无需向FDA报告此事件。但是，目前正在对去年与同位素有关的投诉进行审查，以确定是否可能进一步阐明这种反复发生的情况。
     </p>
     <p style=text-align:right><b>Courtesy of Michael Nolan</b></p>
 </div>
 
-### Explaining Trade Dress Revisions
+
+### Explaining Trade Dress Revisions 商标修订事宜说明
 
 The thrust of the following memo is to announce a trade dress revision. It does not call for any action on the part of the readers and simply presents information about a change in market image of a product. Ultimately it will become part of a product development outline. It is direct and to the point and uses the corporate “we.”
+
+以下备忘录的主要目的是宣布商标修订事宜。它并不要求读者采取任何行动，仅仅是介绍产品市场形象的变化信息。最终，它将成为产品开发大纲的一部分。备忘录直接明了，并使用公司的“我们”来表达。
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
 <p style=text-align:right>
@@ -545,154 +559,253 @@ The thrust of the following memo is to announce a trade dress revision. It does 
     <P>
         From: Seth Porter</P>
     <p>
-        Location: New Product Development</p>
+        Location: New Product Development 新产品开发部</p>
     <p>
         Date: Nov. 22, 2005</p>
     <p>
-        Re: Trade Dress Revisions
+        Re: Trade Dress Revisions 商标修订
     </P>
 	<p>
         We have made the following changes to the market image of Nadolol tablets, 300 mg. Labetalol HCI Tablets, 300 mg: The tablet will be coated with an Opadry to match blue552 in the Opadry color kit. These tablets will be film coated and have no bisect. The imprint “LL” will appear on one side of the tablet.
 </p>
+<p>
+    我们对Nadolol片剂，300毫克以及Labetalol HCl片剂，300毫克的市场形象进行了以下更改：该片剂将使用Opadry进行包衣，颜色与Opadry彩色配套方案中的蓝色552相匹配。这些片剂将采用薄膜包衣，不再有分割线。在片剂的一面将印有“LL”字样。
+</p>
 </div>
 
-## The Words You Choose
+
+## The Words You Choose 你选择的词汇
 
 Much has been said about objectivity and subjectivity. Remaining objective is generally the goal for writing, unless we are preparing a piece of correspondence that contains a personal message. What does being “objective” rather than “subjective” mean? Being objective really means focusing on the best, most direct delivery of information for the reader’s understanding without interjection from the writer. Subjectivity allows the writer’s opinion to come through.
 
+关于客观性和主观性已经说了很多。保持客观通常是写作的目标，除非我们正在准备包含个人信息的通信。那么，“客观”而不是“主观”到底意味着什么？实际上，保持客观意味着专注于以最佳、最直接的方式传递信息，以便读者能够理解，而不受作者的干扰。而主观性允许作者的观点透露出来。
+
 However, many people who teach and assess writing have come to understand that, while some passages can be more objective than others, no writer can rid himself of subjectivity completely. The words writers choose are the results of their thinking patterns and their personalities; so are their language constructions. Thus, the writer’s voice really reflects the individual who first composes a document. Perhaps that’s why so many eyes see most documents generated within companies developing or manufacturing therapeutic products, at contract research organizations, and at clinical sites. In an effort to be objective, rather than subjective, most technical people focus on the activity rather than the doer of the activity when recording information. However, whereas this approach is logical, it’s not law. People, after all, comprise companies. People communicate what they know to others. They present their findings and ideas so that other people can examine them, either immediately or in the future.
+
+然而，许多教授和评估写作的人已经意识到，尽管有些段落可能比其他段落更客观，但没有作家可以完全摆脱主观性。作家选择的词汇是他们思维模式和个性的结果；他们的语言构造也是如此。因此，作者的声音实际上反映了首次撰写文件的个体。也许这就是为什么在开发或制造治疗产品的公司，合同研究机构和临床研究现场中，许多人都会看到大部分文件。为了保持客观，而不是主观，大多数技术人员在记录信息时都会专注于活动本身，而不是活动的执行者。然而，虽然这种方法是合乎逻辑的，但并不是硬性规定。毕竟，公司由人组成。人们向他人传达他们所知道的东西。他们呈现自己的发现和想法，以便其他人可以立即或将来审查它们。
 
 Readers generally receive information better if it includes a doer of the action, an active “we did this” rather than “this was done” approach. Studies show that when reading the passive voice the audience tends to turn the information around anyway before digesting it. Thus, it often makes sense to say “we” when you mean your department or area. Indeed, the corporate “we” is a handy device when you speak on behalf of a unit. You can also refer to your department or area directly: “New Product Development (NPD) has completed the formulation.” (Chapters 9, 10, and 11 give more information about the passive voice.)
 
+读者通常更容易接受包含活动执行者的信息，例如“我们做了这个”，而不是“这个被做了”的被动表达方式。研究表明，当阅读被动语态时，观众往往会在消化信息之前反转信息。因此，当您指代部门或区域时，使用“我们”是有意义的。实际上，公司的“我们”是一个方便的方式，当您代表一个单位发表言论时可以使用。您还可以直接提及您的部门或区域：“新产品开发部（NPD）已完成了配方。”（第9、10和11章提供了有关被动语态的更多信息。）
+
 Don’t shun using “I” either. Many documents that speak directly to people appropriately incorporate “I,” the writer. “I’m sending you the dissolution data you requested yesterday” is direct and to the point in a brief memo. Even in longer reports, it’s okay to include yourself. “During July, I completed the validation of the in-house method” delivers information straightforwardly in a periodic report. Howard Kanare, author of Writing the Laboratory Notebook, points out that a notebook entry that says “I saw the mixture turn blue after 10 min.,” is preferable to what scientists often write: “It was observed that the mixture changed color after a few minutes had elapsed.”
+
+同时，不要回避使用“我”。许多直接向人们传达信息的文件中，适当地融入了“我”，即作者自己。在简短的备忘录中，“我正在发送您昨天请求的溶解数据”是直接明了的。即使在更长的报告中，包含自己也是可以的。“在七月份，我完成了内部方法的验证”是在定期报告中直接传递信息的方式。霍华德·卡纳雷（Howard Kanare）是《Writing the Laboratory Notebook》一书的作者，他指出，记录本条目中写道“我看到混合物在10分钟后变成了蓝色。”比科学家通常写的“观察到混合物在几分钟后变色。”更为可取。
 
 A word of caution is probably wise here, however. Many technical arenas have for so long avoided the use of the first person and first person plural in correspondence and documentation that it feels unnatural, and may even seem “unprofessional.” Exercise some judgment, but make your decision knowing that including the doer of the action violates no professional writing standards.
 
+然而，在这里可能需要一些谨慎。许多技术领域长期以来一直避免在通信和文件中使用第一人称和第一人称复数，因此这种用法可能会感到不自然，甚至可能被视为“不专业”。请斟酌一些判断，但请做出您的决定时要知道，包含活动执行者不违反任何专业写作标准。
+
 The following passage is an excerpt from a Drug Master File from a Pre- Market Approval Application (PMAA). Notice that it is objective and factual, yet the writer here does not choose to eliminate the corporate “we.” The result is direct and easy to read text.
 
+下面的段落是一份药品主文件的摘录，来自市场预售批准申请（PMAA）。请注意，这篇文章是客观和事实性的，但作者在此没有选择消除公司的“我们”。结果是直接简明的文字。
+
 > Abrams, Inc. began development of the active pharmaceutical ingredient in 2003. Development was in three phases. An initial small scale processing produced material for toxicology studies and research. In 2003 through 2004, Abrams scaled the process to provide sufficient final intermediate to allow production by an alternate manufacturing source for the final active pharmaceutical ingredient. No manufacturing occurred before 2004.
+>
+> Abrams, Inc.于2003年开始开发活性药物成分。开发分为三个阶段。最初的小规模加工生产了毒理学研究和研究所需的材料。在2003年至2004年期间，Abrams将该过程扩展到提供足够的最终中间体，以允许最终活性药物成分由另一家制造来源进行生产。在2004年之前没有进行生产。
 
 > In 2004, Abrams, under our directive, undertook a major development project to improve process safety and reduce process cycle-time and process waste. The result of this final phase development effort was the drug product which is the subject of this submission.
+>
+> 在2004年，Abrams在我们的指导下，进行了一项重大的开发项目，旨在改善过程安全性，缩短过程周期时间和减少过程废料。最终阶段的开发工作成果就是本次提交的药物产品。
 
 We provide the details of the lots produced during development and explain the changes in the processes relative to lot usage in the development studies. 
 
-## Using Suitable Language
+我们提供了开发过程中生产的批次详细信息，并解释了与开发研究中批次使用相关的过程变化。
+
+## Using Suitable Language 使用适当的语言
 
 You must also make sure your memos, letters, and reports present your information in terminology your readers will understand. If you are a chemist writing to another chemist, you share expertise, and complex technical terms will probably pose few problems. If you are a chemist, however, writing to an information systems specialist, you may very well run into difficulties, just as you might in conveying information if you are a chemical engineer writing to a line supervisor. Again, awareness of the expertise of the recipient is tantamount to successful delivery and acceptance. 
 
+您必须确保您的备忘录、信函和报告使用读者能够理解的术语来呈现信息。如果您是一名化学家，写信给另一名化学家，您们共享专业知识，复杂的技术术语可能不会引起太多问题。但是，如果您是一名化学家，写信给信息系统专家，您可能会遇到困难，就像如果您是一名化学工程师，写信给生产线主管一样。再次强调，了解收件人的专业知识是成功传递和接受的关键。
+
 The following excerpt from an engineering department planning a laboratory renovation was addressed to a director of analytical development.
 
+以下摘录来自一个工程部门规划实验室改建的信件，收信人是分析开发部的主管：
+
 > Enclosed herewith is the laboratory master plan proposal which abandons the one previously proposed by engineering in favor of a proposed master plan for a facility with six additional modified workstations, and one additional door to the corridor to facilitate access and egress and interfacing between the analytical laboratory undergoing restoration and quality control.
+>
+> 随函附上实验室总体规划建议，该建议放弃了之前由工程部提出的方案，转而提出了一个设施总体规划，包括六个额外的改装工作站，以及一个额外的门通往走廊，以便便于访问和进出，以及便于分析实验室正在进行的恢复工作和质量控制之间的接口。
 
 Here the writer has forgotten that the reader of his review, a chemist, is not a facility engineer and has not been a party to all the discussions that have gone into developing the original proposal. Even though the director may understand what is necessary in the laboratory, she may not be prepared to work out the difference between a “master plan proposal” and the plan “previously proposed.” She can easily become befuddled if the vocabulary impedes the message. 
 
+在这里，写信人忘记了他的审查读者是一名化学家，不是设施工程师，并且没有参与制定原始建议的所有讨论。即使主管可能理解实验室所需的内容，她可能也无法确定“总体规划建议”和“之前提出的方案”之间的区别。如果术语妨碍信息的传递，她很容易变得困惑。
+
 The phrasing “to facilitate access and egress and interfacing between the laboratory undergoing restoration and quality control,” means, simply put, “to make going back and forth between the analytical development lab and quality control easier.” In his choice of words, the writer betrays either ignorance of the person who will be reading his analysis or carelessness in presenting the information. 
+
+诸如“便于访问和进出，以及便于分析实验室正在进行的恢复工作和质量控制之间的接口”这样的措辞，简单来说，意味着“使分析开发实验室和质量控制之间来回往返更容易”。在选择用词时，写信人表现出对读者的了解不足，或者在呈现信息时不够细心。
 
 You can avoid the grief that will surely befall you if you submit writing such as this. For one thing, look for words such as “proposed” and “proposal” that each seem to be one word referring to two different things or ideas. This is called “equivocation,” and here it is confusing—not richly ambiguous as it would be in a piece of literature. Second, if it isn’t possible to reduce technical verbiage to concrete terms, supply brief definitions—a phrase or two—or examples to clarify things for the nontechnical reader. Third, on the assumption that as master plans, such documents are subject to review long after they have been put together and after their authors have moved on to other jobs, ask the reviewer to supply context or briefly repeat background information that other memos might include in more detail—that is, the circumstances of the suggestions under review. 
 
+您可以避免提交此类写作带来的烦恼。首先，寻找诸如“建议”和“提议”的词语，它们似乎是指两个不同的事物或想法。这被称为“模棱两可”，在这里可能会造成困惑，而不是在文学作品中丰富多义。其次，如果不能将技术术语简化为具体术语，可以提供简短的定义（一两个短语）或示例，以澄清非技术读者的理解。第三，在假设这类总体规划文件在完成后会被审查，并且作者已经转向其他工作之后，要求审阅者提供背景信息或简要重复其他备忘录中可能包含的详细背景信息，即评估正在审查的建议背后的情况。
+
 At times it’s appropriate to use technical terminology. Most professions have their own “shorthand”—terms that are unique to a particular subject area. Among specialists, this shorthand, or jargon, can save time and even communicate information more precisely than if it were eliminated. When you say “We’re working out the ‘bugs’ in the system,” or “The computer is down,” you’re communicating succinctly to people who are computer knowledgeable but perhaps unclearly to those who aren’t. What you must do, then, is evaluate your audience and make sure you’re using diction that will do the best job for you. When a chemist refers to “two unknowns,” another chemist will immediately understand that two impurities have not been identified. A less technical person might not. 
+
+有时候使用技术术语是合适的。大多数专业领域都有自己的“速记”——独特于特定主题领域的术语。在专业人士中，这种速记或行话可以节省时间，甚至比消除它更精确地传达信息。当您说“我们正在解决系统中的‘故障’”或“计算机出问题了”时，您正在向了解计算机的人简明地传达信息，但对于那些不了解计算机的人来说可能不太清楚。因此，您必须评估您的受众，并确保您使用的措辞能够为您提供最好的帮助。当一名化学家提到“两个未知因素”时，另一名化学家会立刻理解是指两个未知杂质，而非技术人员可能不会明白。
 
 Evaluate what needs to be said and to whom. What can happen as a result of unnecessary jargon is that your reader will think you’re trying to put something over on him, or worse, won’t understand what’s being said at all. In addition, since most companies have their own jargon, you may run the risk of including terminology that means one thing to you, but something quite different to an external reader. 
 
-## Controlling Acronyms
+评估需要说什么以及发给谁。不必要的术语可能会导致读者认为您试图对他隐瞒一些东西，或者更糟糕的是，根本不理解正在说什么。此外，由于大多数公司都有自己的行话，您可能会冒着包含对您来说意义明确，但对外部读者来说意义完全不同的术语的风险。
+
+## Controlling Acronyms 控制缩写词
 
 Acronyms are specialized jargon. They’re created from the first letters of a group of words, or from a combination of letters and parts of words. For example, GC is an acronym for gas chromatography; IPA is an acronym for isopropyl alcohol; and SOP is an acronym for Standard Operating Procedure. These acronyms are perfectly clear to most technical people and they probably need no explanation. 
 
+缩写词是专业行话。它们由一组词的首字母或字母和词的组合构成。例如，GC是气相色谱的缩写；IPA是异丙醇的缩写；SOP是标准操作规程的缩写。对于大多数技术人员来说，这些缩写词都是非常清楚的，可能不需要解释。
+
 Yet acronyms are endemic in this industry—so much so that FDA includes a list of common acronyms on its website. A very real danger of acronyms wreaking havoc can occur when a company uses an acronym to mean a thing easily understood internally, but that means something entirely else to an external auditor, joint-venture manufacturer, or FDA inspector. Even cGMP, which most of the industry understands to mean current Good Manufacturing Practices, can indicate something quite different—cyclic guanosine monophosphate. 
+
+然而，在这个行业，缩写词是无处不在的，以至于FDA在其网站上列出了常见缩写词的列表。当公司使用一个缩写词在内部表示一件容易理解的事情，但在外部审计员、合资制造商或FDA检查员看来意义完全不同时，缩写词可能会造成严重混乱。甚至是cGMP这个行业大多数人理解为“当前良好生产规范”，但它也可以表示完全不同的东西——环磷酸鸟苷酸。
 
 So unless you are sure your reader knows that DTA means differential thermal analysis, you’ll be better off spelling the words out. It never hurts to handle acronyms the way most technical writing experts advise: Simply spell out the full term in the first citation and follow it with the acronym in parenthesis. 
 
+因此，除非您确定读者知道DTA是差示热分析，最好还是将这些缩写词拼写出来。处理缩写词的方法绝大多数技术写作专家建议如下：在第一次引用时完整地拼写术语，然后在括号中加上缩写词。
+
 >We hope to complete the Modified Release Facility (MRF) by June.
+>
+>我们希望在六月之前完成改进释放设施（MRF）。
+>
 >In subsequent references within the document, simply use the acronym.
+>
+>在文档中的后续引用中，只需使用缩写词。
+>
 >The MRF facility will be producing solid dosage products.
+>
+>释放设施（MRF）将生产固体剂型产品。
 
 To prevent confusion and ensure consistency, careful writers follow these guidelines as well.
 
-- In most cases, do not use periods within or after the acronym, except at the end of a sentence.
-- Do not use an apostrophe with a plural acronym.
+为了防止混淆并确保一致性，细心的作者也遵循以下准则。
+
+- In most cases, do not use periods within or after the acronym, except at the end of a sentence.在大多数情况下，不要在缩写词内部或后面使用句点，除非在句子结尾。
+- Do not use an apostrophe with a plural acronym.在复数缩写词中不要使用撇号
   - CRFs, IRBs, INDs
-- When affixing a prefix to an acronym, hyphenate the prefix and the acronym.
-- pre-IND submission activities
+- When affixing a prefix to an acronym, hyphenate the prefix and the acronym.当给缩写词加上前缀时，用连字符连接前缀和缩写词。
+  - pre-IND submission activities
+
 
 Most companies have also realized that it’s sensible to maintain a list of acronyms specific to the company. This they usually do as part of a style guide or style sheet. Such a tool makes the appropriate acronym available to writers and deflects the possibility of confusion or misunderstanding as to what company writers mean. (Chapter 14 provides a lengthy list of industry-specific acronyms.) 
 
-## Connotation and Denotation
+大多数公司也意识到维护一份特定于公司的缩写词列表是明智的做法。通常，它们将其作为样式指南或样式表的一部分。这样的工具可以为作者提供适当的缩写词，并避免对公司作者的意思产生混淆或误解。（第14章提供了一个行业特定缩写词的详尽列表。）
+
+## Connotation and Denotation 内涵与外延
 
 The English language is such that we have many, many words to indicate the same thing. These are synonyms. And while synonyms will appear in the dictionary as definitions for each other, there are often subtle variations. So the first definition is the primary meaning of a word, the denotation; what follows are usually the connotations of the word. A word like “smell” may be defined as “odor” or “scent,” but the three words have different connotations, the associations we place on them, with “odor” being most negative, “smell” somewhat less negative, and “scent” as positive and light, and aroma also positive, but stronger. You must, therefore, choose your words carefully so that the precise understanding of the message is the result. 
 
-## Defining Terms
+英语是一种具有许多同义词的语言，它们用来指代相同的事物。这些同义词在词典中可能作为对方的定义出现，但通常有微妙的区别。因此，第一个定义是一个词的主要含义，即外延；随后的通常是该词的内涵，即我们对该词的联想。比如，“smell”这个词可以被定义为“odor”或者“scent”，但这三个词有不同的内涵，我们对它们的联想也不同，“odor”最为消极，“smell”稍微较少消极，“scent”则是积极和轻盈的，而“aroma”也是积极的，但更加浓烈。因此，您必须谨慎选择您的词语，以便确保传达出准确的信息理解。
+
+## Defining Terms 定义术语
 
 Once you know to avoid unnecessary jargon and unidentified acronyms that may baffle and befuddle readers, concern yourself with clarifying the rest of the words essential to the message. Remember, information is useful only if it makes sense, and what makes sense to you may not make sense to your readers. 
 
+一旦您知道要避免让读者困惑的不必要术语和未解释的缩写词，就要关注澄清信息中其他必要的词汇。记住，只有当信息通顺时，它才有用；而对您来说通顺的内容可能对读者来说并不通顺。
+
 Readers with technical expertise similar to yours will most likely understand specialized data without lengthy explanation. But readers with less technical expertise than yours will generally have trouble absorbing the information. Therefore, evaluate the appropriateness of your words and select terms so as to make the information readily comprehensible and impossible to misinterpret. In a work environment, only the rare reader will consult a dictionary to read a letter or memo, let alone a long report. In technical writing, terms open to interpretation deserve definition. 
+
+与您具有类似技术专长的读者很可能能够理解专业数据，无需冗长解释。但对比您技术水平较低的读者来说，他们通常会难以理解这些信息。因此，评估词汇的适当性，并选择术语以使信息易于理解且不容易被误解。在工作环境中，只有极少数的读者会查阅词典来阅读一封信或备忘录，更不用说一份长篇报告了。在技术写作中，容易引起歧义的术语应该进行解释。
 
 For instance, if an engineer writes a report on the safe installation and operation of electrical equipment that includes as its audience new technicians, he may need to include a definition of “grounding.” Similarly, an inhouse manual that describes an SOP system should include a definition of key terms as they apply to the system. For instance, “Active SOP” can be defined to include the existing version of an SOP undergoing revision. When the revised version becomes “active,” the previous version is “retired”; however, a “withdrawn” SOP can denote a document no longer in use in any version. The terms “retired” and “withdrawn” can be easily interchanged unless they are clearly defined. Consider these terms: “current document,” “obsolete document,” “inactive document,” “disabled document,” and “enabled document.” These designations are common to document control systems and will vary from company to company. Hence, they demand definition. 
 
+例如，如果一位工程师撰写了一份关于安全安装和操作电气设备的报告，其受众包括新技术员，他可能需要解释“接地”一词。同样，描述SOP系统的公司内部手册应该包含关键术语的定义。例如，“Active SOP”可以定义为正在修订中的SOP的现行版本。当修订版本变为“Active”时，之前的版本被“Retired”；然而，“Withdrawn” SOP可以表示不再在任何版本中使用的文档。如果没有明确定义，“Retired”和“Withdrawn”这两个术语可能会很容易混淆。考虑以下这些术语：“current document”（当前文档），“obsolete document”（过时文档），“inactive document”（未启用文档），“disabled document”（禁用文档）和“enabled document”（启用文档）。这些名称常见于文档控制系统，并且会因公司而异。因此，它们需要进行定义。
+
 There are several effective ways to define terms. These include parenthetical, restatement, classification, operation, etymology, background, and negation. Often a definition will employ more than one technique. In essence, here’s how they work. 
 
-### Parenthetical Definition
+有几种有效的方法来定义术语，包括括号法、重申法、分类法、操作法、词源法、背景法和否定法。通常，一个定义会采用多种技术。简而言之，以下是它们的工作原理。
 
-Parenthetical definitions include an explanation in parenthesis after the word.
+### Parenthetical Definition 括号法定义
 
->We discarded the effervescent (bubbling) mixture.
->Identify the scientific (taxonomic) name of a phylum, class, order, family, or genus.
+Parenthetical definitions include an explanation in parenthesis after the word.括号法定义是在单词后面的括号中给出解释。
 
-### Restatement Definition
+>We discarded the effervescent (bubbling) mixture.我们丢弃了起泡（冒泡）的混合物。
+>Identify the scientific (taxonomic) name of a phylum, class, order, family, or genus.确定属、纲、目、科或属的科学（分类）名称。
+
+### Restatement Definition 重申法定义
 
 Restatement definitions offer an appositive word or phrase that restates the term. Note that this type of definition calls for two commas when it appears within a sentence to set off the restatement, unless it comes at the beginning or end of a sentence. Sometimes a restatement definition is a separate sentence.
 
+重申法定义提供了一个同位语单词或短语，重新说明该术语。请注意，当重申定义在句子内出现时，需要用两个逗号将其括起来，除非它位于句子的开头或结尾。有时重申定义是一个独立的句子。
+
 >A polygraph, an instrument used in lie detection, records changes in pulse, blood pressure, and respiration.
 >
+>一台测谎仪，一种用于测谎的仪器，记录脉搏、血压和呼吸的变化。
+>
 >The trees outside the new facility are deciduous; that is, they shed their leaves by the end of October.
+>
+>新设施外的树是落叶的，也就是说，它们在十月底前会脱落叶子。
 
-### Classification Definition
+### Classification Definition 分类法定义
 
-Classification tells what family a word belongs to.
+Classification tells what family a word belongs to. 分类法定义告诉我们一个词属于哪个类别。
 
->A dog is a member of the canine family.
->A tumor is a neoplasm.
->Bluetongue II virus is a member of the Reoviridae family.
+>A dog is a member of the canine family.狗是犬科的一员。
+>A tumor is a neoplasm.肿瘤是一种赘生物
+>Bluetongue II virus is a member of the Reoviridae family. 蓝舌病II病毒是Reoviridae科的一员。
 
-### Operation Definition
+### Operation Definition 操作法定义
 
-An operation definition tells how something works or happens.
+An operation definition tells how something works or happens.操作法定义告诉我们某件事是如何运作或发生的。
 
 >A disorder of the pituitary gland or pancreas causes diabetes, a metabolic disease characterized by excessive urination, persistent thirst, and often, an inability to metabolize sugar.
 >
+>垂体腺或胰腺的疾病导致糖尿病，一种代谢性疾病，其特征是排尿过多，持续口渴，并且通常不能代谢糖。
+>
 >Air-to-air solar heating circulates cool air from inside the facility, across a collector plate, which is heated by sunlight on the roof, and then back into the facility.
+>
+>空气对空气太阳能加热将室内的冷空气流过集热板，该板由屋顶上的阳光加热，然后再回到室内。
 
-### Etymology Definition
+### Etymology Definition 词源法定义
 
 Etymology looks back in time to the roots of words. Approximately two thirds of the words in the English language have their origins in Latin and Greek.
 
+词源法向过去追溯单词的词根。英语中约有三分之二的单词源于拉丁语和希腊语。
+
 >“Biology” comes from the root “bio,” meaning “life,” and “ology,” meaning “study of.”
 >
+>"Biology"来自词根"bio"，意思是"生命"，和"ology"，意思是"研究"。
+>
 >“Chromatograph” comes from the root “chroma,” meaning “color,” and “graph,” meaning “write.”
+>
+>"Chromatograph"来自词根"chroma"，意思是"颜色"，和"graph"，意思是"写"。
 
-### Background Definition
+### Background Definition 背景法定义
 
-A background definition gives some history.
+A background definition gives some history. 背景法定义提供了一些历史信息。
 
 > Gasohol, a mixture of 90% unleaded gasoline and 10% ethyl alcohol (ethanol), has gained some acceptance as a fuel, since it is comparable in performance to 100% unleaded gasoline with the added benefit of having superior antiknock properties. 
+>
+> 汽醇，一种90%无铅汽油和10%乙醇的混合物，因为其性能与100%无铅汽油相当，并具有优越的抗爆震特性，因此已经在燃料方面得到了一些接受。
 
-### Negation Definition
+### Negation Definition 否定法定义
 
-Definition by negation means telling what something is not.
+Definition by negation means telling what something is not. 否定法定义是通过说明某物不是什么来进行定义。
 
 > Adsorption is not a misspelling of absorption. Adsorption causes liquid to adhere to a surface, like dew on a leaf, while absorption pulls liquid in, much like a sponge drinks up water. 
+>
+> 吸附不是吸收的错别字。吸附使液体附着在表面上，就像露水附在树叶上一样，而吸收则将液体吸入，就像海绵吸水一样。
 
-## Nondiscriminatory Language
+## Nondiscriminatory Language 无歧视语言
 
 Cautious writers take care to avoid using language that sounds discriminatory. Racism and sexism have worked their way insidiously into the American language. It’s probably impossible to rid writing of every metaphor that holds meanings for male and female or ethnic affiliation, but you can certainly act to be sure you use the language to promote social equality rather than hinder it. Choose terms and expressions that don’t refer to people in ways that can be considered negative or discriminatory. 
 
+谨慎的写作者努力避免使用听起来带有歧视色彩的语言。种族主义和性别歧视已经潜入美国语言之中。消除每个隐含男性或女性或种族隶属含义的隐喻可能是不可能的，但你可以采取行动确保你使用的语言促进社会平等而不是妨碍它。选择不引用涉及人们可能被视为负面或歧视性的方式的术语和表达。
+
 One way to avoid discriminatory statements is to choose qualifiers carefully. To say “a woman manager” is discriminatory. To refer to “the Hispanic technician on the six o’clock shift” is as well. And to write that “her innovative ideas belie her age,” even with the intent to compliment, is foolhardy. Unnecessarily drawing attention to differences without cause is discriminatory. 
+
+避免歧视性陈述的一种方法是仔细选择限定词。称某人为“女经理”是歧视性的。提到“六点钟班次上的西班牙裔技术员”也是如此。写道“她创新的想法掩盖了她的年龄”，即使意图是称赞，也是不明智的。无故地引起对差异的注意是歧视性的。
 
 Be careful, too, not to use “he,” “him,” or “his” exclusively when referring to colleagues. One way to avoid offending is to use “he or she” or “him or her,” for instance. But, as you can see, that can be awkward. Many writers, for that reason, use the plural, or interchange gender pronouns. It’s also a good idea to choose the sexually neutral word over the traditional equivalent. For instance, “chair” or “chairperson” works just as well as the commonly used “chairman.” 
 
-> The geographical distribution of the Germanic languages, of which English is one, has been more extensive than that of any other group of languages. 
+同样要小心，不要在指称同事时只使用“他”，“他”或“他的”。避免冒犯的一种方法是使用“他或她”或“他/她”，但你会发现，这样可能会很尴尬。许多作家因此使用复数，或交替使用性别代词。选择性别中性的词汇也是一个好主意，而不是传统的等效词。例如，“chair”或“chairperson”同样适用于通常使用的“chairman”。
 
-## Living Language
+> The geographical distribution of the Germanic languages, of which English is one, has been more extensive than that of any other group of languages. 
+>
+> 日耳曼语言（英语是其中之一）的地理分布比任何其他语言组都更为广泛。
+
+## Living Language 活的语言
 
 American English, like other living languages, is in constant transition. It is ever adjusting to reflect the changes in society. The alterations in the language can be controversial and have drawn some criticism from purists who wish to retain the form they learned initially. Yet the reality is that English borrows words from other languages incessantly, sometimes with the foreign pronunciation and sometimes without, adhering more to the standards for American English pronunciation. Immigrants bring terminology that quickly gets absorbed into the vernacular; new ideas receive new labels; and words are regularly shortened and combined with other words. And so language alters itself. 
 
+美国英语，就像其他活的语言一样，不断变化。它不断调整以反映社会的变化。语言的变化可能会引起争议，并受到那些希望保留最初学到的形式的保守主义者的批评。然而，事实是英语不断从其他语言中借用词汇，有时保留外来的发音，有时不保留，更多地遵循美式英语发音的规范。移民带来的术语很快被融入口语中；新的概念获得新的标签；单词经常缩短并与其他词组合。因此，语言不断变化。
+
 Unlike many other nations, the United States has no official organization to prevent the language from changing. Indeed, the language has been called a polyglot; that is, it has a vocabulary stemming from myriad languages, a vocabulary that is ever-evolving. It’s easy to let this phenomenon bog you down—even overwhelm you. Try not to let it; concentrate on the logic of what you have to say to whom and strive to write clearly and precisely. Let the language be the common denominator in communication. That means using language your audience understands. 
+
+与许多其他国家不同，美国没有官方机构来阻止语言的变化。实际上，这门语言被称为多种语言混合体；即它的词汇来自无数种语言，这个词汇是不断发展的。很容易让这种现象使你陷入困境，甚至让你不知所措。尽量不要让它困扰你；专注于你需要对谁说什么，并努力清晰而准确地写作。让语言成为沟通中的共同基础。这意味着使用你的听众理解的语言。
