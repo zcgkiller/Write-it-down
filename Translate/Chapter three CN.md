@@ -549,20 +549,355 @@ a clear difference															contrary to													larger
 a conflicting viewpoint													conversely													less
 a different perspective													counter to													like
 a strong distinction														 despite														   likewise
-after all disproportionate to more
-akin to disproportionately nevertheless
-albeit dissimilar to notwithstanding
-although distinctly of course
-an opposing position equally important on the contrary
-and yet equivalent to on the other hand
-as even so smaller
-as compared with even though the antithesis of
-as well as faster than though
-at the same time for all that to resemble
-balanced with granted that too
-but however unfortunately
-by comparison in much the same way versus
-by the same token in opposition to while it is true that
-comparatively in parallel similarly
-conforming to in spite of
+after all																			  disproportionate to									more
+akin to																				disproportionately									 nevertheless
+albeit																				  dissimilar to												notwithstanding
+although																			distinctly													  of course
+an opposing position													   equally important									  on the contrary
+and yet																				equivalent to											  on the other hand
+as																						 even															 so smaller
+as compared with															 even though												the antithesis of
+as well as																			faster than												  though
+at the same time																for all that												  to resemble
+balanced with																	granted that												too
+but																						however													 unfortunately
+by comparison																	in much the same way							versus
+by the same token															in opposition to										while it is true that
+comparatively																	in parallel													similarly
+conforming to																	in spite of
 consistent with
+
+### Transitions for Cause and Effect
+
+a by product is														following that																on account of
+
+a causative factor												   for that reason																otherwise
+
+a correlative effect												for the purpose of															precipitated
+
+a secondary effect												for this purpose																resulting directly from
+
+a side effect is														for this reason																since
+
+absent that															generated																		so
+
+accordingly															grows out of																	terminates at
+
+after																		hence																				that results in
+
+as a consequence												henceforth																		the aftermath
+
+as a result															in conclusion 																	the by-product
+
+as opposed to														in effect 																			the end result
+
+because																in lieu of																			the impact of
+
+because of this													in opposition to																the impetus to
+
+by means of															in spite of																		the long term effect
+
+by reason of															incidentally																	the outcome
+
+comes to rest at													initiated																			the outgrowth
+
+concludes																it follows that																the primary effect
+
+concluding in														it launched																	  the spoils of
+
+consequentially													it produced																	the yield
+
+consequently														it shakes out as															 then
+
+due to																	it winds up as																to the end that
+
+thereafter																this created a movement to									to this end
+
+therefore																this induced																with the result that
+
+thereupon															this started
+
+this began															little by little
+
+## Types of Paragraphs
+
+Paragraphs play many roles. Their purpose is to fully explain and support a controlling idea. Often they employ different techniques to get the job done. In total, a series of paragraphs comprise a document or sections of documents. Here are some examples of various types of paragraphs. Note that some longer documents can be totally descriptive, totally chronological, or totally comparative; others may require a combination of information delivery methods. Consider a clinical trial protocol: It will have elements of description, such as the study design, the patient volunteer profile, and facilities. It will also have sections identifying procedures, the “how to” of the activities that are to occur. This type of writing is chronological. The following examples show different methods for delivering information effectively.
+
+### Descriptive Paragraphs
+
+Descriptive paragraphs create an image of an event, a person, a concept, or a thing. Paragraphs that describe facilities are descriptive. So are those that present conditions, such as what a product in development should be like, or offer narrative information about patients or animals in a toxicology study. The following paragraph gives an overview of standard operating procedures. 
+
+> Standard Operating Procedures (SOPs) of a proactive company form the backbone of its operations. SOPs delineate processes from vendor qualification to materials receipt and testing, to product manufacturing and packaging, to distribution to the marketplace, and finally, to tracking the product through its shelf life. SOPs must adapt as systems and processes change, and they must undergo rigorous controls to remain accurate and current. 
+
+The following paragraph is also descriptive/informative. It is part of a document that gives an overall explanation of the validation process. 
+
+> Actual users comprise the most effective validation teams for commercial off-the-shelf (COTS) software-driven systems. Teams may have a few or as many as twenty or more members. The number of team members is directly proportional to the scope of the project. If the validation is for software that the entire company will use, a representative from each area should be on the team. A member of the Information Technology (IT) group should also be a team member. And, one person should serve as the Validation Lead. 
+
+### Extended Definition Paragraphs
+
+Sometimes writers need an entire paragraph or even two to define a person, thing, concept, or event. This type of paragraph is closely related to descriptive paragraphs. For example, an extended definition paragraph about a system may tell what the system is, how it works, what it does, what it looks like now, and how it works with other systems. The following paragraph defines a clinical thermometer. 
+
+> A clinical thermometer is a narrow, tubular, closed glass device with one bulbous end containing mercury. It works on the principle of heat expansion. When the temperature of the bulb increases, the mercury inside expands, causing a thread to rise within the hollow stem until it stops by a marked measurement. The measurement indicates the degree of warmth.
+
+### Cause and Effect Paragraphs
+
+Cause and effect writing usually results when someone tries to figure out what has happened and why. In essence, one thing causes something else to happen, which in turn often causes another event. Consider for example, that diphtheria causes vomiting. Vomiting in turn causes dehydration. Dehydration causes death. Note that diphtheria does not cause death. 
+
+Cause and effect writing is useful when there is a deviation or nonconformance and the need is to determine and record what happened. This type of writing is useful for exploring a probable outcome for an activity, or anticipating a result of a planned action. The following paragraph is an example of cause and effect writing. Note that the controlling idea is in the first sentence. 
+
+> Software modification can have a ripple effect. A simple change request from operations can affect multiple functions of the system. A change to the way a report form displays data on a computer screen can affect every place in the system that uses the same form. So, a seemingly minor change can be a difficult information technology assignment in a complex system. 
+
+### Chronological Paragraphs
+
+Chronological Paragraphs Chronological paragraphs put information into a time sequence. Chronological paragraphs appropriately tell how things happen, have happened, or will happen. Procedures, completed studies, background sections of abstracts, and protocols are examples of chronological writing. The following paragraph gives a history. 
+
+> As early as the 1980s, pharmaceutical manufacturers started using automated batch record systems. While offering the advantages of paper reduction and increased efficiency, these systems brought new issues. The paper-based cGMP regulations did not address electronic record keeping. So, in 1991, a group of pharmaceutical manufacturers met with FDA to determine how to use paperless record systems and remain compliant with cGMP requirements. This effort led to an FDA task force to look at electronic records in all areas — GMP, GLP, and GCP. The result was the publication of 21 CFR Part 11 Electronic Records; Electronic Signatures Final Rule in the Federal Register. The rule became effective on August 20, 1997. 
+
+### Comparison and Contrast Paragraphs
+
+Comparison and contrast looks at two or more things, concepts, events, or people for similarities and differences. If a company wants to purchase new equipment, such as a capping machine, a report that compares and contrasts possible equipment may be the fulcrum for a decision. Such a document might compare capacity, size, compatibility with existing equipment, price, service, and ease of validation for each piece of equipment under consideration. 
+
+Comparison and contrast typically occurs in identifying test and control articles in studies and results from study to study. It is also essential for evaluating vendors and suppliers. Here is an example of comparison and contrast in two paragraphs. Note that the transition word in the second paragraph is simply “also” and the comparative word is “but.” 
+
+> Deoxyribonucleic acid (DNA), a nucleic acid, forms from a repetition of simple building blocks called nucleotides. Nucleotides consist of a phosphate (PO 4 ), sugar (deoxyribose), and a base that is either adenine (A), thymine (T), guanine (G), or cytosine (C). In a DNA molecule, this basic unit repeats in a double helix structure made from two chains of nucleotides which link between the bases. The links are either between A and T or between G and C. The structure of the bases doesn’t allow other kinds of links. The double helix structure resembles a twisted ladder. 
+>
+> Ribonucleic acid (RNA) is *also* a nucleic acid, *but* it has a single chain and the sugar is ribose rather than deoxyribose. The bases are the same as those of DNA, except that the thymine (T) which appears in DNA is replaced by another base called uracil (U), which links only to adenine (A). 
+
+## Writing Headings
+
+Headings are important, whether they are for a journal article, an abstract, or presentation for dissemination of information to the professional community at large or for documents directed to select readers. In disclosure writing, headings serve to attract readers’ attention and impel them to read an article, abstract, poster, or other publication. In documents of length, headings assist in guiding readers through the text. They serve to separate elements and identify at a glance those sections of a document that may be of interest to specific readers. 
+
+Good headings give information. If, for instance, the heading is for an abstract or professional meeting poster, it’s often the first, and sometimes only, thing people read. When writing such a headline, it’s even more important to make every word count — and to present the main idea succinctly. Consider the following heading:
+
+> CleanBlood™ Pathogen Inactivation of Red Blood Cells
+
+What about pathogen inactivation? A headline that makes a point grabs the reader’s interest and can induce her to read the rest of the abstract. 
+
+> CleanBlood™ Inactivates Protozoa, Viruses, and Bacteria in Red Blood Cells
+
+The second example is a complete sentence, and it’s packed with information about the CleanBlood product. 
+
+Writing informative headings is important in documents as well. A good document, whether a long memo or a more inclusive report, benefits from headings where every word tells. To call a section “Supporting Data” is insufficient. That phrase could apply to every report generated! Just as a newspaper wouldn’t entitle a feature article “News Story,” a report shouldn’t label a vital section “New Information” or “Significant Data.” Headings work best when they encapsulate what’s in the text that follows. “Development of Method 2204” is more precise, for instance, than “Method Development Two” in a report that talks about the development of several laboratory methods. 
+
+The same caveat applies to headings for tables. The following table heading is vague and uninformative. 
+
+> Summary of the Results of Toxicity Studies Conducted with Experimental Drug S-252X
+
+A rewrite gives more information. Further, a table is a summary, so identifying it as such is redundant. Getting rid of words that don’t do their duty and replacing them with content delivers stronger information. 
+
+> Results of In Vitro and In Vivo Toxicity Studies of S-252X in Sprague Dawley Rats 
+
+### Make Headings Parallel in Structure
+
+Headings don’t have to be complete sentences (although they can be), but they should be parallel in structure. That means elements within the headings themselves should be in the same form, and the headings in the entire document should parallel each other. The following report section heading lacks parallel structure. 
+
+> Using Salt Ice Mixtures and the Employment of Dry Ice for Cooling
+
+The word “using,” a verb acting as a noun, and “employment,” a noun, are awkward together in that they are different word forms. Selecting one form brings the heading elements together, and, as often happens, eliminates extra words: 
+
+> Using Salt Ice Mixtures and Dry Ice for Cooling
+
+Similarly, a report should not have several headings that conflict in structure with others contained in the report. These headings, gleaned from a report on plant maintenance, reveal inconsistencies in parallelism.
+
+> Estimates of Electric Heating Costs Rate Determination
+>
+> The System Will Require Semiannual Assessment
+>
+> Cost Data Have Been Checked by the Supplier
+>
+> Projection of New Fiscal Year Cost
+>
+> Allowing for Rate Adjustments, Estimates of Five-Year
+>
+> Expenditure
+
+These headings work better when nouns, not verbs, control them. Further, some headings are sentences; others are phrases. Making these headings consistent assists in making the report readable. 
+
+> Electric Heating Costs Estimation
+>
+> Rate Determination
+>
+> Semiannual Assessment Requirements
+>
+> Supplier’s Cost Data Evaluation
+>
+> New Fiscal Year Cost Projection
+>
+> Five-Year Expenditure Estimation 
+
+### Organize Headings by Rank
+
+Short documents may require few headings; longer reports may have myriad sections and subsections. Headings for either should follow a pattern that allows delivery of a primary point first, with subsequent support relegated to subheadings. Often, main headings are centered on the page, and subheadings aligned left, but companies use a creative range of positioning. Whether you bold face, capitalize, or change the font size depends on the facilities you have available and the standards within your workplace. Generally, however, for sections of equal weight, use the same heading type size and face. Don’t give equal standing to a major section and a subpart of that section.
+
+## Tables and Visuals
+
+A picture is “worth a thousand words.” This axiom is particularly true in documents dealing with technical or complex data. Consider a report explaining a fire drill procedure. Wouldn’t a map assist in defining the designated routes? Or, think about directions for installing a piece of batching equipment. Wouldn’t a diagram help “show” how to do it? If you were compiling dissolution data, wouldn’t a chart or table be more comprehensive than just words? To illustrate clinical research results, for instance, a table generally works best. Trying to put complex information into words is tricky business; further, doing so can present problems for readers who must make sense of data which is often complex.
+
+Tables are particularly useful to condense or summarize large bodies of data. When data are complex or detailed, tables are almost always the best vehicle for presentation. Tables allow readers to compare individual values and groups of data. Moreover, tables accelerate the comprehension process of readers. 
+
+The style and format of visual information will vary from company to company, but most have these elements: 
+
+- A table or figure number 
+
+- A table or figure title 
+
+- A legend, which often resides beneath the table or visual
+
+When tables or other visuals deliver information, it’s preferable not to reiterate in text what the visuals say. Write a simple statement in the text that calls the readers’ attention to the visual. “Table 2 shows the results of the rat forced swim test.” Then, present the table. 
+
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
+    <b>Principles of Table Construction</b>
+    <P>To communicate quickly and accurately, tables require readers to 1) identify how the information is organized, 2) find the information of interest, and 3) interpret the information once it is found. Experience, convention, and some research studies have identified at least five principles that should guide the construction of tables. 
+    </P>
+    <p>
+        1.Tables should have a purpose; they should contribute to and be integrated with the rest of the text.
+    </p>
+    <p>
+        Data should not be reported for their own sake. Rather, they should be part of a larger effort to answer the four questions of research: “What did you do?” “Why did you do it?” “What did you find?” and “What does it mean?” Thus, tables should be used only when they can communicate information more efficiently or effectively than can be done in text or figures. 
+    </p>
+    <p>
+       2.The purpose of the table should determine its form. 
+    </p>
+    <p>
+        A table created to collect data is not necessarily the same table that should be used to communicate these data. A table created to organize a large amount of data so that a value can be referenced easily will not necessarily be the same as a table constructed to emphasize patterns in the data or comparisons among the patterns. 
+    </p>
+    <p>
+        Tables may be structured for analytical or reference functions. Analytical tables are designed “from the inside out” by organizing the data field to help reveal patterns in the data. Reference tables are designed “from the outside in” by organizing the column and row heads to help readers find specific information quickly.
+    </p>
+    <p>
+        3.Tables should be organized and formatted to assist readers in finding, seeing, understanding, and remembering the information. 
+    </p>
+    <p>
+        A table that contains all the necessary data but forces readers to organize the data before understanding it does everyone a disservice: it increases the time needed for readers to evaluate the data and does not assure that the author’s understanding of the data will match the readers’ interpretation of it. 
+    </p>
+    <p>
+        4.Values to be compared should be placed side-by-side. 
+    </p>
+    <p>
+        English is read from left to right and from top to bottom. Thus, at least in English language publications, placing values side-by-side is not only the easiest way to compare them, but it also encourages this comparison. In biomedical research, where a treatment group is compared to a control group, values for each group should be given in adjacent columns so that the variables in each row can be compared more easily. 
+    </p>
+    <p>
+        5.Organize the table visually as well as functionally. 
+    </p>
+    <p>
+        Graphic elements, including spacing, should be used to help organize the table visually. Elements such as lines, bold type, outlined cells, spacing, and shading, can help readers make within- and between-group comparisons, differentiate more important values from less important ones, highlight patterns in the data, indicate special circumstances associated with the data, and so on. </p>
+    <p>
+  Most publishers specify their format for tables, and some may not allow the full use of design elements as recommended here. 
+    </p>
+    <p>
+        6.Data presented in tables should not be duplicated in the text. 
+    </p>
+    <p>
+        Describing in the text data that are also presented in a table remains a common problem, even though most style guides and journals advise against the practice. Duplicate information takes valuable space and so is to be avoided in print publications. Values, groups, or comparisons in tables can be mentioned in the text, of course, but the table should present the data. 
+    </p>
+    <p>
+       Tables should also be kept as simple as possible. Include only the information that is relevant to the purpose of the table.  
+    </p>
+    <p>
+    <b>Courtesy of Tom Lang, MA</b>, from a new chapter in the second edition of his book, <i>How to Report Statistics in Medicine: Annotated Guidelines for Authors, Editors, and Reviewers</i>.     
+    </p>
+</div>
+
+Tables don’t have to be reserved for complex data. They often present simple information precisely and directly. The following table is effective in a quality assurance SOP that calls for the inspection of packaging inserts. Inspectors can tell at a glance what to look for. They can then enter the results of the inspection accordingly on an inspection form. 
+
+| Inspection |                   Specification                   | Method | Classification |
+| :------------: | :-----------------------------------------------: | :----: | :------------: |
+|  Product Code  | Clear, complete, and identical to printer’s proof | Visual |       0        |
+|  Batch Number  |                Clear and complete                 | Visual |       0        |
+|   Label Copy   | Clear, complete, and identical to printer’s proof | Visual |       0        |
+
+The following table provides complex information that would be difficult to present verbally and equally difficult to understand were it in another format. Notice how the text of the report directs the reader to the table.
+
+>We calculated the percent deviation of five replicate injections of the standard solution, and one injection of additional weighing of standard from the true value, as determined from the linear regression line. Table III shows the results.
+
+**TABLE III**
+
+| Sample | Conc.(mg/mL) | Peak Area | Calculated Concentration | Accuracy(%) |
+| ------ | ------------ | --------- | ------------------------ | ----------- |
+| 1      | 0.16016      | 3837945   | 0.15871                  | 99.10       |
+| 2      | 0.16016      | 3876328   | 0.16033                  | 99.90       |
+| 3      | 0.16016      | 3875795   | 0.16030                  | 99.91       |
+| 4      | 0.16016      | 3898299   | 0.16125                  | 99.32       |
+| 5      | 0.16016      | 3881189   | 0.16053                  | 98.77       |
+| 6      | 0.16072      | 3953200   | 0.16356                  | 98.23       |
+| AVG    |              |           |                          | 99.37       |
+| SD     |              |           |                          | 0.65        |
+| RSD    |              |           |                          | 0.65        |
+
+Illustrations, pie charts, bar graphs, scatter diagrams, and the like all work well in relaying information. Visuals often accomplish what words can’t. They show patterns of data and trends and allow readers to draw comparisons more readily. They can also condense data more efficiently than text can. The following visual, from a feasibility report, visually presents a process that the text identifies. 
+
+The new system will allow us to track the dispersion of mineral oil droplets in an aqueous system with sufficient precision and sensitivity to allow the development of real-time, closed-loop control of droplet dimensions based on manipulation of the mixing rate. 
+
+![image-20230727173710067](https://raw.githubusercontent.com/zcgkiller/Pictures/main/Wechat/image-20230727173710067.png)
+
+Monitoring the real-time response of a droplet dispersion to a step change in the shear rate (50% Oil/Water mixture).
+
+Courtesy of Lasentec, Inc.
+
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
+    <b>Principles of Figure Construction</b>
+    <p>
+        1.Figures should have a purpose; they should contribute to and be integrated with the rest of the text. 
+    </p>
+    <p>
+        As is the case with tables, data should not be reported in figures just for the sake of displaying them. Figures should be used only when they can communicate information more efficiently or effectively than can be done in text or tables. 
+    </p>
+    <p>
+        2.The figure should be designed to assist readers in finding, seeing, understanding, and remembering the information. 
+    </p>
+        <p>
+        When designing a figure, its purpose should be emphasized. Is the purpose to show the variability or the stability of data? To emphasize similarities or differences between groups? To show trends over time? To show linear or nonlinear relationships? 
+    </p>
+    <p>
+        3. Figures should contain only those elements that are necessary to fulfill their purpose.
+    </p>
+    <p>
+        Conciseness is a value in figures, as well as in scientific writing in general. Make sure that all the lines, symbols, numbers, and words in the figure are necessary and sufficient to allow readers to interpret it. In particular, avoid three-dimensional figures unless the data are actually three-dimensional.
+    </p>
+    <p>
+        4.The data should be emphasized over other elements in the figure. 
+    </p>
+    <p>
+        The advantage of figures is that they focus attention immediately on visual patterns of data. Thus, anything that distracts from this focus reduces the utility of the figure. For example, data points and lines should be larger or heavier than other graphic elements, such as the scales, the borders of the data field, or reference lines.
+    </p>
+    <p>
+        5.Figures should be consistent with the principles of Gestalt perceptual psychology. 
+    </p>
+    <p>
+        Abstracting and interpreting data from a figure is a process of visual perception. Visual perception, in turn, is influenced by several principles identified by Gestalt perceptual psychology. Following these principles when designing figures should improve the utility of the figures.
+    </p>
+    <li>
+         <b>Primacy:</b> <i>the larger arrangement (“the Gestalt”) is seen before its components.</i> 
+    </li>
+    <p>
+        The overall visual impression of the figure should be consistent with the actual meaning of the data. This principle can be used to manipulate readers’ perceptions: the four most common examples are the “suppressed zero,” the “elastic scale,” the “superfluous dimension,” and the “double-scale” problem (see below).
+    </p>
+    <li><b>Proximity:</b> <i>objects near each other tend to be seen as a group. </i></li>
+    <p>
+        The characters string, ••• •••, is seen as two groups, whereas •• •• •• is seen as three. Thus, put data to be compared close to each other, and separate data that are not to be compared. This principle is especially important for placing labels with respect to the data they identify.
+    </p>
+    <li><b>Similarity:</b> <i>similar objects tend to be seen as a group.</i></li>
+    <p>
+         The characters string || — — is seen as two groups, rather than as four lines. Thus, display data from the same group in an obviously and uniquely consistent way, and display data from different groups in obviously and uniquely divergent ways. This principle is essential when graphing three or more variables on the same graph. Plotting marks and data lines from the same group should look alike. They should also differ enough between groups that the groups are not confused with one another. 
+    </p>
+    <li><b>Continuation:</b> <i>data arranged in an obvious pattern tend to be seen as a group.</i> </li>
+    <p>
+        The character string, – – – – – –, is seen as a single group, whereas – – – _ _ _ is seen as two. So, when possible, indicate data from the same group by providing an obvious pattern, and disrupt any patterns that are coincidentally comprised of dissimilar data. 
+    </p>
+    <li><b> Closure: </b><i>a break in a pattern is automatically “filled in” to complete the pattern.</i></li>
+    <p>
+        For example, in the sequence, _– – _, readers usually imagine the missing symbol that would complete either the pyramid: _ – ⎯ – _ , or repeat the sequence: _– _ – _. So, emphasize any breaks that represent actual discontinuity in a pattern, and make the pattern clear when the data actually form a pattern (so readers do not have to “fill in” to complete the pattern). 
+    </p>
+    <p>
+        6.Data presented in figures should not be duplicated in the text. As is the case with tables, do not describe in the text data that are also presented in a figure. Rather, identify in the text the important aspects of the figure to help readers interpret the data. 
+    </p>
+    <p>
+        <b>Courtesy of Tom Lang, MA,</b> from a new chapter in the second edition of his book, <i>How to Report Statistics in Medicine: Annotated Guidelines for Authors, Editors, and Reviewers. </i>
+    </p>
+</div>
+
+## References, Works Cited, Works Consulted
+
+Good writing credits sources. To use someone else’s words without credit is plagiarism. Even when you paraphrase someone else’s information, that is rephrase in your own words, you need to give credit where credit is due. When you are writing for a journal, the guidelines for authors will tell you how to include references. Many companies use a software program like Endnotes, or simply employ the Endnotes feature built into Word. Some companies have style guides that show how to handle references. If that’s the case where you work, simply adhere to the style guide. Within many companies, however, such guidance is often lacking. 
+
+If no such guidance exists where you work, it’s best to consult a style reference book. The American National Standard for Bibliographic References (ANSI) provides guidelines for referencing information. Other style guides do so as well. 
