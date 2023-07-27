@@ -1,59 +1,108 @@
-# 3 Organizing and Delivering Information
+# 3 Organizing and Delivering Information 组织和传递信息
 
 >When we begin to write, we may anticipate the result, but writing has a way of taking on its own life.
+>
+>当我们开始写作时，我们可能会预期结果，但写作有它自己的生命方式。
+>
 >——Alexander Butrym,
 >Ph.D., Professor of English
 
 Once you’ve identified to whom you are writing and assured yourself that your data are acceptable, consider how to put ideas and information together. This is often the most difficult part of the writing process. You may know what you need to say but may be stymied as to how to get it down on paper. This is normal; most people simply don’t like to write. There are, however, some techniques for organizing information that can help you control your ideas as you commit them to paper. Don’t be surprised, either, if you violate your initial concept of how you are going to deliver your information. The act of writing itself triggers new ideas, and this is to the good. 
 
+一旦您确定了写作的对象，并确保您的数据可接受，考虑如何将想法和信息组织起来。这通常是写作过程中最困难的部分。您可能知道您需要说什么，但可能不知道如何将其写下来。这是正常的；大多数人只是不喜欢写作。然而，有一些组织信息的技巧可以帮助您在将其写到纸上时控制您的想法。同时，如果您违背了最初的传递信息的概念，也不要感到惊讶。写作本身会触发新的想法，这对您有好处。
+
 Any time you create a document, look at it from two angles: logic and development of ideas. The distinctions aren’t always as neat and clear-cut as they are for the purposes of this book, however, and you may find many different ways of presenting information that work well. These guidelines are merely that: guidelines. They’ll help you control your information when you’re not sure how to present it. 
+
+每当您创建一份文件时，从两个角度来看：逻辑和思想的发展。然而，这些区别并不总是像本书的目的那样干净明确，您可能会发现很多不同的信息呈现方式效果都不错。这些准则只是指导原则。当您不确定如何展示信息时，它们将帮助您控制信息。
 
 You will frequently encounter problems in organization—situations where the ideas themselves are good, but not presented in a way that makes their meaning obvious or their purpose clear. In short, how can you best organize your information so that your messages work the way they should? 
 
-## Categorize Your Information
+您经常会遇到组织上的问题——情况是，想法本身很好，但并没有以使其意义明显或目的清晰的方式展示。简而言之，您如何才能最好地组织信息，使您的信息能够达到预期的效果？
+
+## Categorize Your Information 将信息分类
 
 To effectively organize information, it helps to categorize what you are conveying— is it good? routine? negative? persuasive? If you anticipate the reader’s reaction to different categories of information, you’ll know better how to present it. Surely you wouldn’t respond to a request for an internal job transfer by saying, right off the bat, “You can’t have the job because you lack the necessary skills.” Yet, you might begin a note of recognition like this: “Congratulations, Joe. You certainly deserve this promotion.” In the first instance, the reaction would surely be more negative than you desire. In the second, the reaction will likely be as positive as you hope. You gain nothing by irritating the recipient—nor do you benefit by working up to a message of goodwill. More important, withholding information or obscuring it can have deleterious effects on the day-to-day activities that make a business run. 
 
+为了有效地组织信息，帮助将您要传达的内容进行分类——这是好消息？例行信息？负面信息？还是说服性信息？如果您能预先预测读者对不同类别信息的反应，您就会更好地知道如何展示它。当然，您不会对内部调岗的请求作出这样的回应：“你没有必要的技能，你不能得到这个职位。”然而，您可以这样开始一封表彰信：“祝贺你，乔。你当之无愧地得到了晋升。”在第一种情况下，反应肯定会比您期望的更为消极。在第二种情况下，反应可能会像您希望的那样积极。刺激收件人并不会给您带来任何好处，以及使信息模糊不清可能对推动企业日常运营产生不良影响。
+
 >Writing is easy. All you do is sit staring at a blank sheet of paper until drops of blood form on your forehead.
+>
+>写作很容易。你所要做的就是坐在一张白纸前盯着它，直到额头上滴下血来。
+>
 >——Gene Fowler, Author
 
 The majority of the writing you will do in the pharmaceutical industry will fall into the category of delivering routine information. For the most part, you are not eliciting an emotional response; you are presenting information your readers need to have. Use these guidelines for logical presentation. But remember: They are not cast in stone. 
 
+在制药行业中，您将要完成的大部分写作工作都属于例行信息的传递。在大多数情况下，您不是在引起情绪反应；您是在向读者呈现他们需要了解的信息。请使用这些逻辑呈现的准则。但请记住：它们并非一成不变。
+
 Finally, writing isn’t easy. Nothing says you have to “begin at the beginning and go to the end.” You may be best off getting the details down and then rearranging them for readability and comprehension. 
 
-### The Direct Approach
+最后，写作并不容易。没有人规定您必须“从头开始，一直写到结尾”。您最好先记录详细信息，然后再对其进行重新组织，以提高可读性和理解性。
+
+### The Direct Approach 直接方法
 
 >I hate to write, but I love having written.
+>
+>我痛恨写作，但我喜欢完成时的感觉。
+>
 >——Dorothy Parker, Author
 
 Use this pattern for presenting most of the information you relay in writing. The direct approach is effective for routine information— the work-specific writing you do. When you are writing a short memo or technical note, for instance, let this pattern govern your total delivery of information. When you are writing a document of length, break it into segments, and use this pattern to help you control your overall delivery as well as your delivery in each part.
 
+在书写中，使用这种模式来呈现大多数信息。直接方法对于例行信息非常有效——您所做的与工作相关的写作。例如，当您写一封简短的备忘录或技术说明时，让这种模式来主导您整体信息的传递。当您写一份较长的文件时，将其拆分成若干部分，并使用这种模式来帮助您控制整体信息的传递，以及每个部分的传递。
+
 The direct approach calls for making the key point first. This way, your reader will immediately know what a document, or portion of a document, is about. Your point logically leads to information that supports it. Unfortunately, when most people write about what they’ve done or what they’re going to do, they tend to approach documenting the past or projecting future activity sequentially, the way they have addressed or will address completion of the task itself. Writing sequentially seems logical, and indeed, it reflects inductive reasoning: A series of facts leads to a conclusion. However, the reader is best served by understanding the point first—whether it is a summary of findings, a strategic decision, or the results of an investigation. 
+
+直接方法要求首先阐明关键观点。这样，您的读者会立即知道一份文件或一部分文件的主题是什么。您的观点会逻辑性地引导到支持它的信息。不幸的是，当大多数人写关于他们所做或即将做的事情时，他们倾向于按照时间顺序进行文档化，就像他们处理或将要处理任务本身的完成一样。逐步写作似乎是合乎逻辑的，而且确实反映了归纳推理：一系列事实导致一个结论。然而，读者最好是先了解要点——无论是调查结果摘要，战略决策还是调查结果。
 
 Usually, delaying the point doesn’t make a document any more effective. Your reader does not know the purpose of a document the way you did before you even began to write it. Thus, inductive presentation is not the best way for most readers to receive information. With inductive presentation the reader doesn’t get the point until he reaches at the end of a document or passage in a document. Readers understand messages best when a point is followed by a series of facts that support the point. 
 
+通常情况下，推迟阐明观点不会使文档更加有效。读者在开始写作之前不知道文档的目的，所以对于大多数读者来说，归纳性的呈现方式并不是接收信息的最佳方式。在归纳性呈现方式下，读者直到他在文档结尾或文档的一部分末尾才明白观点。当观点后面跟着一系列支持观点的事实时，读者更容易理解信息。
+
 For instance, by the time an engineer prepares a summary of an installation/ operation qualification (IQ/OQ), she has been working on the project for a long time. She has already written a protocol of what she planned to do and has secured the necessary approval. Then she’s gone through the testing process. Chances are, she may have had some nonconformances along the way. Once she’s assured herself the equipment installation and operation meet qualification criteria for the company’s needs-specific purposes, she has gone through a step-by-step process. 
+
+例如，当一名工程师准备一个装置/运行资格（IQ/OQ）的摘要时，她已经在项目上工作了很长时间。她已经撰写了计划要做的事情的方案，并获得了必要的批准。然后她经过了测试过程。很有可能，她在过程中遇到了一些不符合要求的情况。一旦她确认设备的安装和操作符合公司特定目的的资格标准，她就经历了一个逐步的过程。
 
 Yet there’s no benefit in preparing a report for approval of the qualification by saying, “In July it was time to requalify the 200-gallon batching kettle with double motion counterrotating agitator” and then detailing events chronologically. What the readers need here is an immediate statement that asserts that the equipment is qualified, partially qualified, or not qualified as a result of the testing according to the protocol. An IQ/OQ summary report is easy to understand when it begins straightforwardly like this: 
 
+然而，在准备一份报告以获得资格批准时，没有好处来说：“在七月份是时候重新对双运动逆向旋转搅拌器的200加仑配料釜进行资格认证”然后按事件顺序详细描述。读者在这里需要的是一个直接陈述，断言设备是经过测试合格、部分合格还是不合格的，根据协议进行的测试。IQ/OQ摘要报告可以采用以下简单直接的方式进行：
+
 The Lee Industries 200-gallon batching kettle with double motion counterrotating agitator meets all the installation/operation qualification requirements. All test functions established in Protocol Q023 are complete and reconciled. In carrying out the testing, we addressed three nonconformances. All test results are attached. 
 
+Lee工业公司的200加仑混料釜，配备双重运动的反转搅拌器，符合所有安装/操作资格要求。所有在Q023协议中设立的测试功能都已经完成并得到了统一。在测试过程中，我们处理了三个不符合项。所有测试结果附在附件中。
+
 >If you have an important point to make, don’t try to be subtle or clever. Use a pile driver. Hit the point once. Then come back and hit it again. Then hit it a third time—a tremendous whack.
+>
+>如果你有重要的观点要表达，不要试图委婉或聪明。使用打桩机。一次击中要点。然后回来再击中一次。然后第三次击中——猛烈地。
+>
 >——Winston Churchill
 
 The summary report then can go on to explain nonconformances and their impacts and state requirements for scheduled requalification and so forth. This way, the readers know immediately the results of the qualification testing and are ready for what the report contains. Here’s a basic pattern for presenting information: 
 
+接下来，总结报告将解释不符合项及其影响，并说明定期重新资格认证等要求。这样，读者立即了解了资格认证测试的结果，并做好准备阅读报告的内容。以下是呈现信息的基本模式：
+
 The beginning:								State your purpose. What point do you want your reader to know?
-										 				 What, if anything, do you want your reader to do?
+
+开头部分										  阐明你的目的。你希望读者了解什么观点？
+
+ 						 				               What, if anything, do you want your reader to do?
+
+​														如果需要，你希望读者采取什么行动？
 
 The supporting information:	   Offer details to substantiate your purpose.
+
+支持信息部分：								提供详细信息来支持你的目的。
 
 The close:										Tell your reader what he or she needs to know to be convinced.
 														  Restate the point or call for action.
 
-#### Packaging Specification Change
+结尾部分：										告诉读者他们需要了解的内容以确信或重申观点，或者呼吁采取行动。
+
+#### Packaging Specification Change 包装标准变更
 
 The information in this short memo isn’t as effective as it could be because it doesn’t make its point up front. The reader is subject to explanatory details before learning the purpose of the communication.
+
+这份简短备忘录中的信息并不如预期的那样有效，因为它没有在一开始就明确表达要点。读者需要在了解通讯目的之前先接受解释性的细节。
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     <i><b>JORSTAD LABORATORIES</b></i>　　　　　　　　Internal Memorandum
@@ -67,20 +116,27 @@ The information in this short memo isn’t as effective as it could be because i
         <b>FROM:</b> Linda Tanabe
     </p>
     <p>
-        <b>RE:</b> Quinine Sulfate Packaging Specification Change
+        <b>RE:</b> Quinine Sulfate Packaging Specification Change 硫酸奎宁包装标准变更
     </p>
     <p>
         We decided to make Quinine Sulfate 200 mg capsules dose proportional to the 325 mg strength. For the Quinine Sulfate 200 mg capsules we had been using number 2 size capsules and 100 cc capacity bottles. 
     </p>
     <p>
+        我们决定将硫酸奎宁 200 毫克胶囊的剂量与 325 毫克的剂量成正比。 对于硫酸奎宁 200 毫克胶囊，我们一直使用 2 号胶囊和 100 cc 容量的瓶子。
+    </p>
+    <p>
         However, the number 2 size capsules are inadequate for the 325 mg dose. Therefore we decided to use the number 1 size capsules. Then we determined it to be too difficult to accommodate one hundred number1 size capsules in the 100 cc bottle along with the insert. We also realized that 100 number 1 size capsules and the insert would be difficult to fit into the 100 cc bottle. To accommodate the new capsules, we changed the bottle size from 100 cc to 150 cc and added rayon to fill the empty space on top of the capsules. This solution is satisfactory, and we have changed our packaging specifications accordingly. 
     </p>
     <p>
-        Even though this memo is short, it’s easier to understand when the key idea comes first. The point is not to explain the decision to make the capsules dose proportional to 325 mg, but to detail the consequences and subsequent decisions about packaging. In the following version, the reader reasonably looks to the information after the first statement to back up that statement, and it does. 
+        但是，2号尺寸的胶囊不适合325毫克的剂量。因此，我们决定使用1号尺寸的胶囊。然后我们发现在100毫升瓶子中容纳100粒1号尺寸的胶囊和说明书非常困难。我们也意识到100粒1号尺寸的胶囊和说明书很难装入100毫升的瓶子中。为了适应新的胶囊，我们将瓶子的大小从100毫升更改为150毫升，并在胶囊顶部加入人造丝以填充空白空间。这个解决方案是令人满意的，我们相应地更改了我们的包装标准。
     </p>
 </div>
 
-#### Rewrite
+Even though this memo is short, it’s easier to understand when the key idea comes first. The point is not to explain the decision to make the capsules dose proportional to 325 mg, but to detail the consequences and subsequent decisions about packaging. In the following version, the reader reasonably looks to the information after the first statement to back up that statement, and it does. 
+
+即使这份备忘录很短，但当关键想法首先出现时，更容易理解。重点不是解释将胶囊按照325毫克进行配比的决定，而是详细说明包装方面的后果和随后的决定。在以下版本中，读者合理地期待在第一句话之后的信息来支持该观点，而它的确做到了。
+
+#### Rewrite 重写版
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     <i><b>JORSTAD LABORATORIES</b></i>　　　　　　　　Internal Memorandum
@@ -94,11 +150,14 @@ The information in this short memo isn’t as effective as it could be because i
         <b>FROM:</b> Linda Tanabe
     </p>
     <p>
-        <b>RE:</b> Quinine Sulfate Packaging Specification Change
+        <b>RE:</b> Quinine Sulfate Packaging Specification Change 硫酸奎宁包装标准变更
     </p>
     <p>
         For 325 mg strength Quinine Sulfate, we are now using number 2 capsules and 150 cc size bottles with rayon to fill the empty space on top of the capsules. We have changed our packaging specifications accordingly. 
     </p>
+    <P>
+        现在，对于325毫克强度的奎宁硫酸盐，我们使用的是2号尺寸的胶囊和150毫升大小的瓶子，并在胶囊顶部加入人造丝以填充空白空间。我们已相应地更改了我们的包装标准。
+    </P>
     <p>
         For the Quinine Sulfate 200 mg capsules we had been using number 2 size capsules
 and 100 cc capacity bottles. When we decided to make Quinine Sulfate 200 mg dose
@@ -108,11 +167,17 @@ could not accommodate the new dosage. In turn, we realized it would be difficult
 fit 100 number 1 size capsules and the insert into the 100 cc bottle. Increasing the
 size of both capsule and bottle has proven satisfactory.
     </p>
+    <p>
+        对于奎宁硫酸盐200毫克胶囊，我们之前使用的是2号尺寸的胶囊和100毫升容量的瓶子。当我们决定将奎宁硫酸盐200毫克剂量按照325毫克强度进行配比时，我们意识到与2号尺寸的胶囊相比，1号尺寸的胶囊是必要的，因为2号尺寸的胶囊无法适应新的剂量。同时，我们还意识到将100粒1号尺寸的胶囊和说明书放入100毫升的瓶子中会很困难。增加胶囊和瓶子的尺寸已被证明是令人满意的解决方案。
+    </p>
 </div>
 
-#### Drug Recall Letter
+
+#### Drug Recall Letter 药品召回信
 
 The Code of Federal Regulations (CFR) defines the content of recall letters; it calls for a clear presentation of the point up front. This letter does that effectively and is a solid example of the direct approach for organizing information. The purpose is stated immediately in bold letters, before the salutation, as well as in the second sentence. The reader knows at a glance what’s afoot. 
+
+美国联邦法规（CFR）定义了召回信的内容；它要求在信件的开头清晰地陈述要点。这封信有效地做到了这一点，是直接方式组织信息的一个很好的例子。目的在开头就以粗体字立即表明，位于称呼之前和第二个句子中。读者一眼就知道发生了什么情况。
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     <center><b><i>Ronway Laboratories</i></b></center>
@@ -120,24 +185,36 @@ The Code of Federal Regulations (CFR) defines the content of recall letters; it 
     <p>
         October 16, 2005
     </p>
-    <center><b>URGENT: DRUG RECALL</b></center>
-    <center><b>Stability Assay Failure and Unknown Degradant Products</b></center>
-    <center>Re: 50 mg SUPPOSITORIES, USP, ALL LOTS</center>
+    <center><b>URGENT: DRUG RECALL 紧急：药品召回</b></center>
+    <center><b>Stability Assay Failure and Unknown Degradant Products稳定性检测失败和未知降解产物</b></center>
+    <center>Re: 50 mg SUPPOSITORIES, USP, ALL LOTS 50毫克栓剂，美国药典，所有批次</center>
     <center>NDC 0168-1949-46 Ronway　　　　Laboratories</center>
     <p>
-        Dear Wholesaler/Retailer:
+        Dear Wholesaler/Retailer尊敬的批发商/零售商：:
     </p>
     <p>
         Recent tests indicate that some outstanding lots of 50 mg suppositories do not meet minimum assay requirements through their expiration dates. Because we are uncertain that all lots will meet assay requirements throughout their shelf life, we are recalling all unexpired lots of this product. These lots have potency assays ranging from 59% to 100%. In addition, we have been unable to identify a degradation product; the concentration levels are unknown. This represents a potential health hazard, but we believe that the probability of serious adverse health consequences is remote. 
     </p>
     <p>
+         最近的测试表明，某些尚未销售的50毫克栓剂批次在其有效期内未能满足最低的检测要求。由于我们不确定所有批次在货架期内是否满足检测要求，我们正在召回所有未过期的该产品批次。这些批次的效价检测结果范围在59%至100%之间。此外，我们无法确认降解产物的存在，其浓度水平是未知的。虽然这可能存在潜在的健康风险，但我们相信严重不良的健康后果的可能性是很小的。
+    </p>
+    <p>
         Please determine if you have any lots on hand. If you do, discontinue distribution of these lots and return the merchandise to our facility promptly, to my attention. Please complete and return the enclosed response form as well. If you have any questions call 306-123-4567, extension 525. 
+    </p>
+        <p>
+         请确认您手头是否有任何受影响的批次。如果有，请立即停止销售这些批次，并将货物及时退回至我们的设施，并标注我的名字。同时请填写并退回随附的回复表格。如有任何疑问，请拨打电话306-123-4567，分机525。
     </p>
     <p>
         If you have distributed any of these lots, please contact your accounts immediately; advise them of the recall; and have them return their outstanding recalled stocks to you. We are conducting this recall to the retail/dispensing level. Return these stocks as indicated above. We will reimburse you by credit memo for the returned goods and postage. 
     </p>
     <p>
+        如果您已经销售了任何这些批次，请立即联系您的客户；告知他们此次召回，并要求他们将受影响的存货退还给您。我们将此次召回扩展到零售/发药层面。请按照上述指示退还这些库存。我们将通过贷记备忘录为您退还货品和邮费。
+    </p>
+    <p>
         We have informed FDA of this recall. We appreciate your assistance in this matter.
+    </p>
+    <p>
+        我们已经向FDA报告了此次召回。感谢您在此事中的合作和协助。
     </p>
     <P>
         Sincerely,
@@ -153,58 +230,111 @@ The Code of Federal Regulations (CFR) defines the content of recall letters; it 
     </p>
 </div>
 
-### The Direct Approach in Report Sections
+
+### The Direct Approach in Report Sections 直接方法在报告部分的应用
 
 You can apply the same principles of delivery in segments of reports. Even if a report has a clean, comprehensive summary at the beginning, the information within each component of the document is easier to comprehend when it makes a point and logically supports it. 
 
+您可以将信息传递的同样原则应用于报告的各个部分。即使报告的开头有一个干净、全面的摘要，当每个组成部分的信息直接阐述并有逻辑支持时，读者更容易理解。
+
 The following is a portion of a product development report. The point is to identify which batch the company will use as the standard to manufacture a product. Notice that the writer has delivered the information in the sequence in which it occurred. Where does the information the reader wants to know lie? 
+
+以下是产品开发报告的一部分。目的是确定公司将使用哪一批作为生产产品的标准。请注意，作者在按照时间顺序提供了信息。读者希望知道的信息位于哪里？
 
 > Ronway Laboratories initiated the formulation development for sodium capsules in January, 2005. Our strategy has been to employ exponents similar to those used in brand formulation combined by a dry mixing method. Folles SA manufactured the available active entity. 
 >
+> Ronway Laboratories在2005年1月启动了氯化钠胶囊的配方开发。我们的策略是采用与品牌配方类似的指数，并通过干混合方法组合。Folles SA制造了可用的活性成分。
+>
 > The goal was to develop 50 mg strength first and then follow up with 100 mg strengths. Appendix A includes the formulation experiments conducted during formulation development. 
+>
+> 目标是首先开发50毫克的规格，然后再开发100毫克的规格。附录A包含了配方开发期间进行的实验。
 >
 > The formulation lot numbers are five digits. The prefix 123 refers to the laboratory notebook housing the records of the development of this product, and the subsequent numbers refer to the batch.
 >
+> 配方批号有五位数。前缀123指的是记录该产品开发过程的实验室笔记本，后续数字指的是批次。
+>
 > Lots 123-01 to 123-14 incorporated Lactose Anhydrous DT, and Lactose Hydrous SD Starch P21 in different ratios and combinations with Sodium Lauryl Sulfate, Magnesium Stearate, and, in the case of lot 123-11, Aerosil 200, to achieve good encapsulation properties of the blend and to match the dissolution profile of the brand capsules. 
+>
+> 批号123-01至123-14采用了不同比例和组合的无水乳糖DT、水合乳糖SD和Starch P21，以及十二烷基硫酸钠、硬脂酸镁，以及批号123-11中的Aerosil 200，以实现混合物的良好包覆性能，并与品牌胶囊的溶解特性相匹配。
 >
 > We accomplished this effort with lot 123-14, and manufactured pilot batch PB987 accordingly. However, this batch developed stability problems under accelerated conditions. 
 >
+> 我们在批号123-14中完成了这项工作，并相应地制造了试制批次PB987。然而，该批次在加速条件下出现了稳定性问题。
+>
 > Lots 123-15 to 123-28 reflect the attempts to develop a second formulation employing Magnesium Stearate and Aerosil 200 in combination with Starch P21. Lot 123-28 exhibited good encapsulation properties and similar dissolution patterns to the brand product. However, concurrent to development of this batch, material became unavailable for further development. 
 >
+> 批号123-15至123-28反映了开发第二种配方的尝试，采用了硬脂酸镁和Aerosil 200与Starch P21的组合。批号123-28表现出良好的包覆性能，并且溶解模式与品牌产品相似。然而，在开发该批次的同时，所需材料不再可用。
+>
 > We then made and tested Lot 123-29, similar in formulation to lot 123- 28, but employing Magnesium Stearate manufactured by Nogodawa Pharmaceuticals. Results indicate that this lot is comparable to brand in dissolution behavior and is stable under accelerated conditions. Thus, Lot 123-29 is the base for pilot batch PI988. 
+>
+> 我们随后制造和测试了批号123-29，其配方类似于批号123-28，但采用了由Nogodawa Pharmaceuticals生产的硬脂酸镁。结果表明，该批次在溶解行为上与品牌相当，并在加速条件下稳定。因此，批号123-29是试制批次PI988的基础。
 
 The very last sentence is what the readers want to know. All the information is here—but a simple revision, almost a cut and paste, makes this information easier to digest. Since the key information rests in the last paragraph, moving that information to the beginning both clarifies and allows for logical explanation of what follows. A simple edit to paragraph two and a brief statement of closure completes this section of the development report. 
 
+最后一句是读者想要知道的内容。所有信息都在这里，但简单地进行修改，几乎是剪贴粘贴，使得这些信息更易于理解。由于关键信息位于最后一段，将该信息移到开头既清晰又有逻辑地解释了后续内容。对第二段进行简单的编辑和简短的结尾陈述就完成了开发报告的这部分内容。
+
 > Ronway Laboratories will use Lot 123-29 as the base for pilot batch PI988. Results indicate that this lot is comparable to brand in dissolution behavior and is stable under accelerated conditions. 
+>
+> Ronway Laboratories将使用批号123-29作为PI988试制批次的基础。结果显示，该批次在溶解行为上与品牌相似，并且在加速条件下稳定。
 >
 > We initiated the formulation development for XYZ capsules in March, 2005. Our strategy has been to employ exponents similar to those used in brand formulation combined by a dry mixing method. Folles SA manufactured the available active entity. 
 >
+> 我们于2005年3月开始了XYZ胶囊的配方开发。我们的策略是采用与品牌配方类似的指数，并通过干混合方法组合。Folles SA制造了可用的活性成分。
+>
 > The goal was to develop 50 mg strength first and then follow up with 100 mg strengths. Appendix A includes the formulation experiments conducted during formulation development. 
+>
+> 我们的目标是先开发50毫克规格，然后再开发100毫克规格。附录A包含了配方开发期间进行的实验。
 >
 > The formulation lot numbers are five digits. The prefix 123 refers to the laboratory notebook housing the records of the development of this product, and the subsequent numbers refer to the batch. 
 >
+> 配方批号有五位数。前缀123指的是记录该产品开发过程的实验室笔记本，后续数字指的是批次。
+>
 > Lots 123-01 to 123-14 incorporated Lactose Anhydrous DT, and Lactose Hydrous SD Starch P21 in different ratios and combinations with Sodium Lauryl Sulfate, Magnesium Stearate, and, in the case of lot 123-11, Aerosil 200, to achieve good encapsulation properties of the blend and to match the dissolution profile of the brand capsules. 
+>
+> 批号123-01至123-14采用了不同比例和组合的无水乳糖DT、水合乳糖SD和Starch P21，以及十二烷基硫酸钠、硬脂酸镁，以及批号123-11中的Aerosil 200，以实现混合物的良好包覆性能，并与品牌胶囊的溶解特性相匹配。
 >
 > We accomplished this effort with lot 123-14, and manufactured pilot batch PB987 accordingly. However, this batch developed stability problems under accelerated conditions. 
 >
+> 我们在批号123-14中完成了这项工作，并相应地制造了试制批次PB987。然而，该批次在加速条件下出现了稳定性问题。
+>
 > Lots 123-15 to 123-28 reflect the attempts to develop a second formulation employing Magnesium Stearate and Aerosil 200 in combination with Starch P21. Lot 123-28 exhibited good encapsulation properties and similar dissolution patterns to the brand product. However, concurrent to development of this batch, material became unavailable for further development. 
 >
+> 批号123-15至123-28反映了开发第二种配方的努力，采用了Magnesium Stearate和Aerosil 200与Starch P21的组合。批号123-28表现出良好的包覆性能，并且与品牌产品具有相似的溶解特性。然而，在开发该批次的同时，原材料不再可用于进一步的开发。
+>
 > We then made and tested Lot 123-29, similar in formulation to lot 123- 28, but employing Magnesium Stearate manufactured by Nogodawa Pharmaceuticals with satisfactory results. 
+>
+> 然后，我们制作并测试了批号123-29，其配方与批号123-28类似，但使用了由Nogodawa Pharmaceuticals制造的Magnesium Stearate，并取得了令人满意的结果。
 
-### Good News
+### Good News 好消息
 
->Reading makes a full man, conference a ready man, and writing an exact man.
+>Reading makes a full man, conference a ready man, and writing an exact man.阅读使人充实，交谈使人机敏，写作使人精确。
 >——Francis Bacon
 
 For most documentation purposes, you will deliver information most effectively using the direct approach. Sometimes, however, you may need to deliver information that is not directly linked to documentation, but serves to drive everyday activities. You will find that the direct approach works well for good news, too. People, of course, like to receive good news, and when you make your point up front, your readers are much more likely to absorb the details that reinforce the positive point. The following memorandum from a company president announces the appointment of three people to company positions. It follows this pattern: 
 
+对于大多数文档目的，您可以使用直接方法最有效地传达信息。但有时，您可能需要传递与文件不直接相关，但用于推动日常活动的信息。您会发现，对于好消息，直接方法也非常有效。当您首先传递好消息时，读者更有可能吸收细节，加强积极的观点。以下是一封公司总裁的备忘录，宣布了三人的公司职位任命。其遵循以下模式：
+
 Paragraph one: States the good news
+
+第一段：宣布好消息
+
 Paragraph two: Gives details about Gary Williams
+
+第二段：介绍Gary Williams的详细情况
+
 Paragraph three: Gives details about Christian Matthews
+
+第三段：介绍Christian Matthews的详细情况
+
 Paragraph four: Gives details about Stan Syvertsen
+
+第四段：介绍Stan Syvertsen的详细情况
+
 Paragraph five: Closes on a friendly note
 
-#### Letter of Welcome
+第五段：友好地结束信件
+
+#### Letter of Welcome 欢迎信
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     <b><i>Ronway Laboratories　　　　　　　　MEMORANDUM</i></b>
@@ -212,70 +342,117 @@ Paragraph five: Closes on a friendly note
         <b>DATE:</b> March 2, 2005
     </p>
     <p>
-        <b>TO:</b> All Employees
+        <b>TO:</b> All Employees 全体员工
     </p>
     <p>
         <b>FROM:</b> Maryann Sorensen
     </p>
     <p>
-        <b>RE:</b> New to Our Staff!
+        <b>RE:</b> New to Our Staff!新员工加入
     </p>
     <p>
         We are pleased to welcome the following people to Ronway Laboratories: Dr. Gary Williams as Vice President, Scientific Affairs; Christian Matthews as Director, Quality Assurance; and Stan Syvertsen as Manager, Methods Development. All three will assume key responsibilities within the company. 
     </p>
+    <P>
+        我们很高兴地欢迎以下人员加入Ronway实验室：Dr. Gary Williams担任科学事务副总裁；Christian Matthews担任质量保证主管；Stan Syvertsen担任方法开发经理。他们三人将在公司内担任重要职责。
+    </P>
     <p>
-        We are pleased to welcome the following people to Ronway Laboratories: Dr. Gary Williams as Vice President, Scientific Affairs; Christian Matthews as Director, Quality Assurance; and Stan Syvertsen as Manager, Methods Development. All three will assume key responsibilities within the company.
+        Dr. Williams comes to us from Mandal Laboratories, Inc., where he directed the scientific group in methods development, analytical, and quality control. He has over fifteen years of industry experience, and will prove to be an asset to our newly restructured laboratory.
+    </p>
+    <p>
+        Williams博士来自Mandal实验室有超过15年的行业经验，他在方法开发、分析和质量控制方面领导了科研团队。他将成为我们重新组建的实验室的一项重要资产。
     </p>
     <p>
         Christian Matthews, formerly with Bergen Drugs, will head up the Quality Assurance unit. He established the Quality Unit at Bergen, and is experienced in ISO 9002. One of his first projects will be to bring ISO 9002 certification to Ronway. 
     </p>
     <p>
+        Christian Matthews曾在Bergen药品公司工作，将负责质量保证部门。他在Bergen建立了质量部门，并且在ISO 9002方面有丰富经验。他的首个项目之一将是为Ronway实验室争取ISO 9002认证。
+    </p>
+    <p>
         Stan Syvertsen joins us as Manager of Methods Development. With 10 years of experience at Mandal Laboratories, Inc., he will work closely with Dr. Williams in building a dynamic scientific team.
     </p>
     <p>
-        Please join in welcoming the new members of our team!b
+         Stan Syvertsen作为方法开发经理加入我们。在Mandal Laboratories公司拥有10年经验的他，将与Gary Williams博士密切合作，共同打造一个充满活力的科研团队。
+    </p>
+    <p>
+        Please join in welcoming the new members of our team!   请欢迎我们团队的新成员！
     </p>
 </div>
 
 You can see how starting with your main point lets you logically develop your document by offering appropriate explanatory detail in the same sequence you’ve established at the beginning.
 
-#### Submission Approval Memo
+您可以看到，如何从开始让您的主要观点能够在文档中逻辑地展开，以相同的顺序提供适当的解释细节。
+
+#### Submission Approval Memo 申请获批备忘录
 
 The following simple memo posted on a company bulletin board uses the same approach to announce the approval of a submission and to thank the employees for their efforts. This direct, friendly approach is effective in goodwill messages.
 
+下面这份简单的备忘录张贴在公司公告栏上，使用了相同的方法来宣布申请批准的消息，并感谢员工们的努力。这种直接友好的方式在传递善意的信息时非常有效。
+
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
     <center><b><i>JORSTAD LABORATORIES</i></b>　　　　　　Internal Memorandum</center>
-    <b>DATE:</b> August 23, 2005
-    <b>TO:</b> All Employees
-    <b>FROM:</b> Arnold Johannessen
-    <b>RE:</b> We Have FDA Approval!
+    <p>
+        <b>DATE:</b> August 23, 2005
+    </p>
+    <p>
+        <b>TO:</b> All Employees 全体员工
+    </p>
+    <p>
+        <b>FROM:</b> Arnold Johannessen
+    </p>
+    <p>
+        <b>RE:</b> We Have FDA Approval!FDA批准通过！
+    </p>
     <p>
         We’re pleased to announce we have gained FDA approval to manufacture Indomethacin suppositories. We expect this product to be a significant addition to our over-the-counter suppository line.
     </p>
     <p>
+        我们很高兴地宣布我们已经获得FDA批准，可以生产布洛芬栓剂。我们预计这个产品将成为我们非处方栓剂系列的重要补充。
+    </p>
+    <p>
         This achievement is due to the concentrated efforts of the Indomethacin development team, as well as those of you who attend to the day-to-day activities that make us successful. Thank you!
+    </p>
+    <p>
+        这一成就要归功于布洛芬研发团队的集中努力，以及所有为我们的日常工作成功做出贡献的员工们。感谢大家！
     </p>
 </div>
 
-### Indirect Approach
+
+### Indirect Approach 间接方法
 
 While this book advocates the direct approach as the primary pattern for delivery of information for documentation, sometimes you may find the indirect approach more appropriate. The indirect approach calls for presenting information that leads to a point. 
 
+尽管本书主张直接方法作为文档信息传递的主要模式，但有时候你可能会发现间接方法更加合适。间接方法要求以引导性信息来呈现信息，逐步引导读者到达一个观点。
+
 This pattern is useful for certain information. Reports like investigations typically deliver a sequence of events, an assessment, and a plan for action. And less-than-positive information works best when the negative news is delayed a bit. 
 
-### Negative News
+这种模式适用于特定类型的信息。例如，调查报告通常提供一系列事件、评估和行动计划。在传递不太积极的信息时，稍稍推迟负面消息会更加有效。
+
+### Negative News 负面消息
 
 If you are in a position to determine the suitability of contract manufacturers or suppliers, for instance, you may on occasion have to deliver negative news. Suppose you determine an outside laboratory’s testing standards have deteriorated and you wish to stop employing the services, at least temporarily, until the laboratory can improve its standards. In such a case, the indirect approach may work well. You can reasonably explain your position before you state it. This provides a better opportunity for retaining goodwill should circumstances change in the future and you wish to reestablish business relations. 
 
+如果你在决定合同制造商或供应商的适用性时，有时可能不得不传递负面消息。例如，假设你发现一个外部实验室的测试标准已经下降，你可能希望暂时停止使用该实验室的服务，直到其改善标准为止。在这种情况下，间接方法可能更合适。你可以在陈述观点之前合理地解释你的立场。这样，如果未来情况发生变化，你希望重新建立业务关系，更容易保持良好的商业关系。
+
 Delivering negative news is never easy. People naturally hesitate to come right out and state the message they know will be ill-received, particularly if they wish to retain goodwill. But at times, people do have to bear bad news. This letter to a production team provides a paradigm for delivering bad news: 
+
+传递负面消息从来都不容易。人们自然而然地不愿意直接陈述他们知道会受到拒绝的消息，尤其是如果他们希望保持友好关系。但有时候，人们不得不传递不好的消息。以下是给生产团队的一封信，为传递坏消息提供了一个范例：
 
 Paragraph one: Presents mutually agreeable information 
 
-Paragraph two: Offers explanatory details that lead to the main point, states the point, and offers more information 
+第一段：呈现共同认可的信息
+
+Paragraph two: Offers explanatory details that lead to the main point, states the point, and offers more information
+
+第二段：提供解释性细节，引导到主要观点，陈述观点，并提供更多信息 
 
 Paragraph three: Offers further explanation, as appropriate 
 
+第三段：提供必要的进一步解释
+
 Paragraph four: Closes on a positive note 
+
+第四段：以积极的态度结尾
 
 #### Work Cessation Memo
 
