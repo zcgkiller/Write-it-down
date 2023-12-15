@@ -2,21 +2,23 @@
 
 As far as most regulatory bodies are concerned, if you didn’t write it down, it didn’t happen. Working in the pharmaceutical, medical device, or biologic milieu is tantamount to journal keeping. In fact, “Write it down” sums up what it takes to get the job done properly. Successful operations require a working union of the day-to-day activities that keep the wheels of the business turning and the documentation that affirms those activities.
 
-对大多数监管机构而言，没有记录下来的事情就认为没有发生。在制药，医疗器械或生物环境中工作可等同于保留记录本。事实上，“写下来”概括了如何才能把工作做好。 成功的运营需要将日常活动紧密结合在一起，以保持业务运转，并提供证明这些活动的文件。
+就大多数监管机构而言，如果你没有将其书写下来，那就等于没有发生。在制药、医疗器械或生物制品领域工作等同于进行日志记录。事实上，“写下来”概括了正确完成工作所需的步骤。成功的运营需要将业务运转的日常活动与确认这些活动的文件工作有机结合在一起。
 
 Documents show the framework of a company’s varied activities. When the development process for one product is winding down, for example, and a submission is forthcoming, development processes for other products may be in various stages of development, from discovery through final testing in clinical trials and launch. Concurrently, other company products may be in various stages of scale-up or production. For each product in each phase of development or production, there must be a written history that shows control of all activities related to that product. Thus, the answer to “What did the company do in March (or on Tuesday) in the production of acetaminophen?” should be easily available in the records the company keeps.
 
-文件展示了公司各种活动的框架。例如，当一种产品的开发过程快要结束并且即将提交注册时，其他产品的可能处于从发现到临床试验的最终测试再到最终上市的不同开发阶段。 同时，其他公司产品可能处于放大或生产的不同。 对于在开发或生产的每个阶段中的每个产品，都必须有书面的历史记录，以证明对与该产品相关的所有受控活动。 因此，“公司在三月（或星期二）对乙酰氨基酚的生产中做了什么”这个问题的答案应该在公司保存的记录中很容易找到。
+文件记录显示了公司各种活动的框架。例如，当一个产品的开发过程接近尾声并准备提交时，其他产品的开发过程可能正处于不同的发展阶段，从发现阶段到在临床试验中的最终测试和上市。与此同时，其他公司的产品可能正处于不同阶段的规模扩大或生产中。对于每个产品的每个开发或生产阶段，都必须有一份书面历史记录，显示了与该产品相关的所有活动的控制情况。因此，对于“公司在三月份（或星期二）在对乙酰氨基酚的生产中做了什么？”的问题，应该在公司保留的记录中很容易找到答案。
 
 The sheer volume of documentation that takes place makes writing well a critical skill, one that is essential for success. It is also true that writing is intimidating for many people. Perhaps because writing is so closely scrutinized, people are loath to commit their words to paper. If writing is on your list of job responsibilities, there are some avenues you can take to make the task less formidable. The first is gaining an understanding of why you are writing and how that writing works in conjunction with other documentation. The next is obtaining the tools you need to deliver clear and complete messages that are grammatically correct and consistent. Acquiring the requisite tools is what this book is all about.
 
 大量的文档使写作成为一项至关重要的技能，这对成功至关重要。 确实，写作对许多人来说是令人生畏的。 也许是因为对写作进行了如此严格的审查，所以人们不愿将自己的文字写在纸上。 如果您的工作职责中包括写作，那么您可以采取一些方法来减轻任务的艰巨性。 首先是要了解为什么要写作以及该写作如何与其他文档一起工作。 接下来是获得传递语法正确且一致的清晰完整消息所需的工具。 本书所涉及的就是获得必要的工具。
 
+大量的文件编写使得写作成为一项至关重要的关键技能，这是成功所必需的。同时，写作对于许多人来说也是令人生畏的。也许是因为写作受到如此严密的审查，人们不愿将他们的言辞写在纸上。如果写作是你的工作职责之一，有一些途径可以帮助你减轻这项任务的可怕感。首先，要理解你为什么要写以及你的写作与其他文档如何协同工作。接下来是获取所需的工具，以提供明确、完整、语法正确和一致的信息。获得必要的工具正是本书的主旨。
+
 ## Writing for Compliance with Binding Regulations 遵守约束性法规的写作
 
 Why does writing play such an integral part in companies that develop, manufacture, and market therapeutic products? The answer lies largely with the regulatory forces that drive the healthcare industry in the United States and abroad.
 
-为什么写作在开发，制造和销售治疗产品的公司中起着不可或缺的作用？ 答案是很大程度上取决于驱动美国和国外医疗保健行业的监管力量。
+为什么写作在开发、制造和销售治疗产品的公司中如此重要？答案在很大程度上与驱动美国和其他地方的医疗保健行业的监管力量有关。
 
 The regulations state what companies must do. Their documentation tells how they do it and what the outcomes are. In a pharmaceutical company, for instance, documentation is the proof that a company’s activities meet the regulatory demands of Title 21 of the Code of Federal Regulations Part 211, Good Manufacturing Practices for Finished Pharmaceuticals. In this environment, documents delineate such diverse activities as facility and equipment qualification, cleaning, and maintenance; control of materials, from incoming components to finished goods; validation of manufacturing processes; sampling and testing activities; nonconformance and out-of-specification (OOS) investigations; and employee training. They provide the “how-to” for auditing vendors and contractors, handling complaints and recalls, and conducting annual product reviews. In short, documents substantiate that a company has complete control of all of its activities in compliance with the regulations.
 
