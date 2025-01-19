@@ -303,6 +303,55 @@ Miami, Florida 33156<br>
 
 Modified block is exactly like semiblock, except that the paragraphs do not indent.
 
+<div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
+    <center><i><b>Nouveaux Diagnostics</b></i></center>
+    <center>25 Brigham Way<br>West
+Miami, Florida 33156<br>
+(305)-565-5645, fax: 305-565-5646</center>
+    <p align=right>
+        May 25, 2005
+    </p>
+    <p>
+        Acute Test Labs
+    <br>
+        4242 Wilmeet Avenue
+   <br>
+        Charles, Arkansas 16052
+    </p>
+    <p>
+        Dear Valued Customer:
+    </p>
+    <p>
+        It has come to our attention that Rubella IgM Test Kit bearing Lot Number XYZ may, under certain circumstances, mask positive results. It is extremely unlikely that you will experience a problem with your testing, however. </p>
+    <p>
+        Internal testing has demonstrated a tendency for the antigen coated onto the microwells to denature and lose reactivity when washed with a solution prepared with reagent-grade water that has a pH of 4.5 or less. Most laboratory water systems deliver reagent grade water with a pH well in excess of 4.5. 
+    </p>
+    <p>
+        We recommend that you determine the pH of the water used in your laboratory. In the event that your system demonstrates a lowered pH, you may add 0.1M sodium hydroxide to your reagent-grade water in a quantity sufficient to raise the pH to a minimum level of 5.0 prior to diluting the wash solution.
+    </p> 
+    <p>
+        If your laboratory has been using this lot of reagent in conjunction with low pH water, please be assured that this is not a safety issue. Denaturization of the antigen would be flagged by low reactivity of the Positive Control and therefore yield unreportable results. 
+    </p>
+    <p>
+       We apologize for any inconvenience and concern caused by this situation. If you have additional questions or concerns, please do not hesitate to contact your Technical Services Representative.  
+    </p>
+    <p>
+    Thank you for your attention to this matter. We look forward to our continued partnership. 
+    </p>
+    <p align=right>
+        Most sincerely,
+    </p>
+    <p align=right>
+        NOUVEAUX DIAGNOSTICS        
+    </p>
+    <p align=right>
+        Madeline LeBrun
+    </p>
+    <p align=right>
+        <b>Courtesy of Marilyn Brown</b>
+    </p>
+</div>
+
 
 
 
