@@ -304,53 +304,135 @@ Miami, Florida 33156<br>
 Modified block is exactly like semiblock, except that the paragraphs do not indent.
 
 <div class="warning" style='padding:1.5em; background-color:#eef0f4; color:#69337A'>
-    <center><i><b>Nouveaux Diagnostics</b></i></center>
-    <center>25 Brigham Way<br>West
-Miami, Florida 33156<br>
-(305)-565-5645, fax: 305-565-5646</center>
+    <center><i><b>Laboratoire d' Esprit, S. A.</b></i></center>
+    <center>115 Rue St. Catherine, New Orleans, Louisiana, 12345<br>phone: (809)123-4567 fax: (809) 123-4568</center>
     <p align=right>
-        May 25, 2005
+        December 1, 2005
     </p>
     <p>
-        Acute Test Labs
+        Mr. Frank Smith
     <br>
-        4242 Wilmeet Avenue
+        Laboratory Manager
    <br>
-        Charles, Arkansas 16052
+        Laboratory of the Americas
+        <br>
+        1234 SW 76<sup>th</sup> Street
+        <br>
+        New York, New York 10009
     </p>
     <p>
-        Dear Valued Customer:
+        Dear Mr. Smith:
     </p>
     <p>
-        It has come to our attention that Rubella IgM Test Kit bearing Lot Number XYZ may, under certain circumstances, mask positive results. It is extremely unlikely that you will experience a problem with your testing, however. </p>
+        We have completed our assessment of the discordant samples submitted by your laboratory. These samples were confirmed to test positive using our reagents and negative using reagents supplied by Phoenix Diagnostics. To provide resolution to this discordance, we further characterized the antibody present in each sample. </p>
     <p>
-        Internal testing has demonstrated a tendency for the antigen coated onto the microwells to denature and lose reactivity when washed with a solution prepared with reagent-grade water that has a pH of 4.5 or less. Most laboratory water systems deliver reagent grade water with a pH well in excess of 4.5. 
+        The following data summarize the results of this investigation.   
     </p>
+    <table style="border-collapse: collapse;border: none;width: 552px;">
+    <tbody>
+        <tr>
+            <td style="width: 138.25pt;border: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;"><strong>Sample ID</strong></p>
+            </td>
+            <td style="width: 138.25pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;"><strong>% of Flagellar Antibody</strong></p>
+            </td>
+            <td style="width: 138.3pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;"><strong>% Capsular Antibody</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 138.25pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">123</p>
+            </td>
+            <td style="width: 138.25pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">75</p>
+            </td>
+            <td style="width: 138.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">25</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 138.25pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">456</p>
+            </td>
+            <td style="width: 138.25pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">67</p>
+            </td>
+            <td style="width: 138.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">33</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+    <table style="border-collapse: collapse;border: none;width: 552px;">
+    <tbody>
+        <tr>
+            <td style="width: 138.25pt;border: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;"><strong>Sample ID</strong></p>
+            </td>
+            <td style="width: 138.25pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;"><strong>% of IgG Antibody</strong></p>
+            </td>
+            <td style="width: 138.3pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;"><strong>% of IgM Antibody</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 138.25pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">123</p>
+            </td>
+            <td style="width: 138.25pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">65</p>
+            </td>
+            <td style="width: 138.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">35</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 138.25pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">456</p>
+            </td>
+            <td style="width: 138.25pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">70</p>
+            </td>
+            <td style="width: 138.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0cm 5.4pt;vertical-align: top;">
+                <p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:normal;font-size:15px;font-family:等线;">30</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
     <p>
-        We recommend that you determine the pH of the water used in your laboratory. In the event that your system demonstrates a lowered pH, you may add 0.1M sodium hydroxide to your reagent-grade water in a quantity sufficient to raise the pH to a minimum level of 5.0 prior to diluting the wash solution.
+       As the above data demonstrate, each sample contains a high percentage of antibody directed against the flagellum of the infectious agent and a significant percentage of IgM antibody.
     </p> 
     <p>
-        If your laboratory has been using this lot of reagent in conjunction with low pH water, please be assured that this is not a safety issue. Denaturization of the antigen would be flagged by low reactivity of the Positive Control and therefore yield unreportable results. 
+        Our Laboratoire D’Esprit Reagents utilize a rich blend of flagellar and capsular antigen as well as conjugate blended to detect both IgG and IgM antibodies. The Phoenix Reagent package insert indicates the wells are coated only with capsular antigen and the conjugate is not blended to detect IgM antibodies.  
     </p>
     <p>
-       We apologize for any inconvenience and concern caused by this situation. If you have additional questions or concerns, please do not hesitate to contact your Technical Services Representative.  
+      We believe that the enhanced detection provided by Laboratoire D’Esprit was able to discriminate and appropriately classify these samples as true positives.   
     </p>
     <p>
-    Thank you for your attention to this matter. We look forward to our continued partnership. 
+        We hope that these data have provided the answers to your questions and alleviated your concerns. If you should have additional inquiries, please do not hesitate to contact your Technical Services Representative. We are here to support your efforts in maintaining the highest standards in laboratory medicine. 
+    </p>
+    <p>
+        We look forward to our continued partnership.
     </p>
     <p align=right>
-        Most sincerely,
+        Most Sincerely,
     </p>
     <p align=right>
-        NOUVEAUX DIAGNOSTICS        
+        LABORATORIE D’ESPRIT, S.A.
     </p>
     <p align=right>
-        Madeline LeBrun
+        Marie DeCampagne<br>
+        Regulatory Associate
     </p>
     <p align=right>
-        <b>Courtesy of Marilyn Brown</b>
+        Courtesy of Marilyn Brown
     </p>
 </div>
+
+#### Full Block
 
 
 
